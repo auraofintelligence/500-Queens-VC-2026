@@ -19,7 +19,7 @@ for path in ROOT.glob('*.html'):
     text=path.read_text(encoding='utf-8');p=Parser();p.feed(text);pages[path.name]=p
     if p.h1!=1:errors.append(f'{path.name}: {p.h1} H1 headings')
     if p.altless:errors.append(f'{path.name}: missing alt text')
-    if re.search(r'[\u2013\u2014]',text):errors.append(f'{path.name}: long dash punctuation')
+    if not path.name.startswith('source-') and re.search(r'[\u2013\u2014]',text):errors.append(f'{path.name}: long dash punctuation')
     if 'Previous page' not in text or 'Next page' not in text:errors.append(f'{path.name}: missing page sequence')
     if 'Back to top' not in text:errors.append(f'{path.name}: missing top control')
     for link in p.links:

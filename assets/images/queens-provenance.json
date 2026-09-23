@@ -1,0 +1,102 @@
+{
+  "created": "2026-09-23",
+  "label": "AI-generated fictional character concept artwork",
+  "images": [
+    {
+      "id": "spark-queen",
+      "prompt": "Use case: stylized-concept. Asset type: individual AI Queen full-width website hero, 1536x1024 landscape. Create one original editorial portrait of Spark Queen, a fictional adult female AI mentor for a royal, contemporary women-led venture network. Subject: woman about 35, warm olive complexion, round face, short curly dark hair, clearly fat broad soft body with a full bust fully covered; curious and confident. Wardrobe: royal purple tailored trouser suit over a high-neck gold shirt; colourful large glasses; no crown. Setting: creative design studio with paper models and warm floating specks of light. Rich realistic painterly photographic concept art, natural skin texture, sophisticated plum and luminous gold palette, beautiful confident leadership. Show her from head to mid-thigh or full seated body, normal natural anatomy, the full body shape genuinely visible and not slimmed. Position the woman on the right two-thirds with uncluttered dark plum negative space on the left third for website text. Face visible, hands plausible, strong eye contact, cinematic warm light. This is a professional portrait, fully clothed, chest is not the focal point. No writing, logos, watermark, fantasy armour, sexual posing, sacred regalia or invented cultural symbols. One person only.",
+      "asset": "assets/images/queens/spark-queen.webp",
+      "mobile": "assets/images/queens/spark-queen-mobile.webp",
+      "method": "Built-in image_gen",
+      "review": "Visually reviewed: distinct adult professional portrait; requested body type retained."
+    },
+    {
+      "id": "shield-queen",
+      "prompt": "Use case: stylized-concept. Asset type: individual AI Queen full-width website hero, 1536x1024 landscape. Create one original editorial portrait of Shield Queen, a fictional adult female AI mentor for a royal, contemporary women-led venture network. Subject: woman about 55, dark brown skin, broad shoulders, tall heavyset substantial body with very large bust fully clothed, silver-streaked natural hair, steady confident gaze. Wardrobe: structured deep plum jacket and high-neck cream blouse tailored for a very large bust; tasteful gold earrings. Setting: elegant boardroom with curved brass architecture and a closed document folio. Rich realistic painterly photographic concept art, natural skin texture, sophisticated plum and luminous gold palette, beautiful confident leadership. Show her from head to mid-thigh or full seated body, normal natural anatomy, the full body shape genuinely visible and not slimmed. Position the woman on the right two-thirds with uncluttered dark plum negative space on the left third for website text. Face visible, hands plausible, strong eye contact, cinematic warm light. This is a professional portrait, fully clothed, chest is not the focal point. No writing, logos, watermark, fantasy armour, sexual posing, sacred regalia or invented cultural symbols. One person only.",
+      "asset": "assets/images/queens/shield-queen.webp",
+      "mobile": "assets/images/queens/shield-queen-mobile.webp",
+      "method": "Built-in image_gen",
+      "review": "Visually reviewed: distinct adult professional portrait; requested body type retained."
+    },
+    {
+      "id": "seed-queen",
+      "prompt": "Use case: stylized-concept. Asset type: individual AI Queen full-width website hero, 1536x1024 landscape. Create one original editorial portrait of Seed Queen, a fictional adult female AI mentor for a royal, contemporary women-led venture network. Subject: woman about 48, medium brown complexion, strong thick muscular build, short dark hair, natural lined face, confident grounded posture. Wardrobe: well-cut plum linen work shirt with sleeves down, comfortable gold-brown utility trousers, sturdy stylish boots and a practical wide-brim sun hat held in one hand, contemporary Australian country style. Setting: beautiful contemporary regional Australian greenhouse and farm studio with dry golden landscape visible beyond. Rich realistic painterly photographic concept art, natural skin texture, sophisticated plum and luminous gold palette, beautiful confident leadership. Show her from head to mid-thigh or full seated body, normal natural anatomy, the full body shape genuinely visible and not slimmed. Position the woman on the right two-thirds with uncluttered dark plum negative space on the left third for website text. Face visible, hands plausible, strong eye contact, cinematic warm light. This is a professional portrait, fully clothed, chest is not the focal point. No writing, logos, watermark, fantasy armour, sexual posing, sacred regalia or invented cultural symbols. One person only.",
+      "asset": "assets/images/queens/seed-queen.webp",
+      "mobile": "assets/images/queens/seed-queen-mobile.webp",
+      "method": "Built-in image_gen",
+      "review": "Visually reviewed: distinct adult professional portrait; requested body type retained."
+    },
+    {
+      "id": "storm-queen",
+      "prompt": "Use case: stylized-concept. Asset type: individual AI Queen full-width website hero, 1536x1024 landscape. Create one original editorial portrait of Storm Queen, a fictional adult female AI mentor for a royal, contemporary women-led venture network. Subject: woman about 38, light brown skin, curvy hourglass body with large bust fully clothed, glamorous sculpted beauty aesthetic, confident director's stance. Wardrobe: fully covering luxurious magenta tailored jumpsuit, sculptural gold earrings, polished dramatic makeup and immaculate long hair. Setting: royal contemporary broadcast studio with glowing amber panels and a distant stage. Rich realistic painterly photographic concept art, natural skin texture, sophisticated plum and luminous gold palette, beautiful confident leadership. Show her from head to mid-thigh or full seated body, normal natural anatomy, the full body shape genuinely visible and not slimmed. Position the woman on the right two-thirds with uncluttered dark plum negative space on the left third for website text. Face visible, hands plausible, strong eye contact, cinematic warm light. This is a professional portrait, fully clothed, chest is not the focal point. No writing, logos, watermark, fantasy armour, sexual posing, sacred regalia or invented cultural symbols. One person only.",
+      "asset": "assets/images/queens/storm-queen.webp",
+      "mobile": "assets/images/queens/storm-queen-mobile.webp",
+      "method": "Built-in image_gen",
+      "review": "Visually reviewed: distinct adult professional portrait; requested body type retained."
+    },
+    {
+      "id": "star-queen",
+      "prompt": "Use case: stylized-concept. Asset type: individual AI Queen full-width website hero, 1536x1024 landscape. Create one original editorial portrait of Star Queen, a fictional adult female AI mentor for a royal, contemporary women-led venture network. Subject: woman about 67, pale freckled skin, clearly fat broad body with generous midsection, short silver hair, thoughtful lined face, confident seated pose. Wardrobe: royal violet structured suit over black high-neck shirt, geometric gold glasses. Setting: observatory library overlooking stars through immense windows with subtle orbital light arcs. Rich realistic painterly photographic concept art, natural skin texture, sophisticated plum and luminous gold palette, beautiful confident leadership. Show her from head to mid-thigh or full seated body, normal natural anatomy, the full body shape genuinely visible and not slimmed. Position the woman on the right two-thirds with uncluttered dark plum negative space on the left third for website text. Face visible, hands plausible, strong eye contact, cinematic warm light. This is a professional portrait, fully clothed, chest is not the focal point. No writing, logos, watermark, fantasy armour, sexual posing, sacred regalia or invented cultural symbols. One person only.",
+      "asset": "assets/images/queens/star-queen.webp",
+      "mobile": "assets/images/queens/star-queen-mobile.webp",
+      "method": "Built-in image_gen",
+      "review": "Visually reviewed: distinct adult professional portrait; requested body type retained."
+    },
+    {
+      "id": "super-queen",
+      "prompt": "Use case: stylized-concept. Asset type: individual AI Queen full-width website hero, 1536x1024 landscape. Create one original editorial portrait of Super Queen (Aura), a fictional adult female AI mentor for a royal, contemporary women-led venture network. Subject: woman about 44, medium brown skin, full soft body, dark bob haircut, intelligent warm face, seated upright in powered wheelchair with hands naturally resting. Wardrobe: long fully covering sculptural plum jacket, cream blouse and gold cuff, sophisticated powered wheelchair visible. Setting: futuristic but believable collaborative systems studio with circular gold light architecture. Rich realistic painterly photographic concept art, natural skin texture, sophisticated plum and luminous gold palette, beautiful confident leadership. Show her from head to mid-thigh or full seated body, normal natural anatomy, the full body shape genuinely visible and not slimmed. Position the woman on the right two-thirds with uncluttered dark plum negative space on the left third for website text. Face visible, hands plausible, strong eye contact, cinematic warm light. This is a professional portrait, fully clothed, chest is not the focal point. No writing, logos, watermark, fantasy armour, sexual posing, sacred regalia or invented cultural symbols. One person only.",
+      "asset": "assets/images/queens/super-queen.webp",
+      "mobile": "assets/images/queens/super-queen-mobile.webp",
+      "method": "Built-in image_gen",
+      "review": "Visually reviewed: distinct adult professional portrait; requested body type retained."
+    },
+    {
+      "id": "river-queen",
+      "prompt": "Use case: stylized-concept. Asset type: individual AI Queen full-width website hero, 1536x1024 landscape. Create one original editorial portrait of River Queen, a fictional adult female AI mentor for a royal, contemporary women-led venture network. Subject: woman about 40, dark brown skin, tall broad-shouldered athletic build, close-cropped natural hair, composed analytical expression. Wardrobe: fully covering plum technical field jacket and practical trousers, one visible modern prosthetic lower leg below cropped trouser cuff. Setting: coastal Australian regional field station with water testing bench and luminous blue-green estuary beyond. Rich realistic painterly photographic concept art, natural skin texture, sophisticated plum and luminous gold palette, beautiful confident leadership. Show her from head to mid-thigh or full seated body, normal natural anatomy, the full body shape genuinely visible and not slimmed. Position the woman on the right two-thirds with uncluttered dark plum negative space on the left third for website text. Face visible, hands plausible, strong eye contact, cinematic warm light. This is a professional portrait, fully clothed, chest is not the focal point. No writing, logos, watermark, fantasy armour, sexual posing, sacred regalia or invented cultural symbols. One person only.",
+      "asset": "assets/images/queens/river-queen.webp",
+      "mobile": "assets/images/queens/river-queen-mobile.webp",
+      "method": "Built-in image_gen",
+      "review": "Visually reviewed: distinct adult professional portrait; requested body type retained."
+    },
+    {
+      "id": "forge-queen",
+      "prompt": "Use case: stylized-concept. Asset type: individual AI Queen full-width website hero, 1536x1024 landscape. Create one original editorial portrait of Forge Queen, a fictional adult female AI mentor for a royal, contemporary women-led venture network. Subject: woman about 46, light skin, broad heavy powerful fat body with very large bust and belly fully covered naturally by well-fitted workwear, short copper hair, confident skilled posture. Wardrobe: fully covering custom-fit purple workshop coveralls, practical boots, safety glasses worn, no loose jewellery. Setting: high-end fabrication workshop with an elegant metal prototype, tools and warm industrial light. Rich realistic painterly photographic concept art, natural skin texture, sophisticated plum and luminous gold palette, beautiful confident leadership. Show her from head to mid-thigh or full seated body, normal natural anatomy, the full body shape genuinely visible and not slimmed. Position the woman on the right two-thirds with uncluttered dark plum negative space on the left third for website text. Face visible, hands plausible, strong eye contact, cinematic warm light. This is a professional portrait, fully clothed, chest is not the focal point. No writing, logos, watermark, fantasy armour, sexual posing, sacred regalia or invented cultural symbols. One person only.",
+      "asset": "assets/images/queens/forge-queen.webp",
+      "mobile": "assets/images/queens/forge-queen-mobile.webp",
+      "method": "Built-in image_gen",
+      "review": "Visually reviewed: distinct adult professional portrait; requested body type retained."
+    },
+    {
+      "id": "ember-queen",
+      "prompt": "Use case: stylized-concept. Asset type: individual AI Queen full-width website hero, 1536x1024 landscape. Create one original editorial portrait of Ember Queen, a fictional adult female AI mentor for a royal, contemporary women-led venture network. Subject: woman about 62, East Asian appearance, compact stocky muscular body, cropped grey hair, natural wrinkles, calm assured expression. Wardrobe: tailored plum technical jacket over fully covering cream linen shirt, dark practical trousers, stylish sturdy boots, contemporary regional Australian style. Setting: contemporary outback Australian energy field station with red earth, solar arrays and warm expansive sky. Rich realistic painterly photographic concept art, natural skin texture, sophisticated plum and luminous gold palette, beautiful confident leadership. Show her from head to mid-thigh or full seated body, normal natural anatomy, the full body shape genuinely visible and not slimmed. Position the woman on the right two-thirds with uncluttered dark plum negative space on the left third for website text. Face visible, hands plausible, strong eye contact, cinematic warm light. This is a professional portrait, fully clothed, chest is not the focal point. No writing, logos, watermark, fantasy armour, sexual posing, sacred regalia or invented cultural symbols. One person only.",
+      "asset": "assets/images/queens/ember-queen.webp",
+      "mobile": "assets/images/queens/ember-queen-mobile.webp",
+      "method": "Built-in image_gen",
+      "review": "Visually reviewed: distinct adult professional portrait; requested body type retained."
+    },
+    {
+      "id": "silk-queen",
+      "prompt": "Use case: stylized-concept. Asset type: individual AI Queen full-width website hero, 1536x1024 landscape. Create one original editorial portrait of Silk Queen, a fictional adult female AI mentor for a royal, contemporary women-led venture network. Subject: woman about 51, East Asian appearance, tall voluptuous plus-size body with large bust fully clothed, glossy long dark hair with silver strands, self-assured expression. Wardrobe: luxurious fully covering high-neck plum silk jacket and wide-leg trousers, bold gold earrings, immaculate glamour makeup. Setting: luminous contemporary harbour meeting room with refined gold mesh and purple glass. Rich realistic painterly photographic concept art, natural skin texture, sophisticated plum and luminous gold palette, beautiful confident leadership. Show her from head to mid-thigh or full seated body, normal natural anatomy, the full body shape genuinely visible and not slimmed. Position the woman on the right two-thirds with uncluttered dark plum negative space on the left third for website text. Face visible, hands plausible, strong eye contact, cinematic warm light. This is a professional portrait, fully clothed, chest is not the focal point. No writing, logos, watermark, fantasy armour, sexual posing, sacred regalia or invented cultural symbols. One person only.",
+      "asset": "assets/images/queens/silk-queen.webp",
+      "mobile": "assets/images/queens/silk-queen-mobile.webp",
+      "method": "Built-in image_gen",
+      "review": "Visually reviewed: original adult professional portrait with clear face, plausible hands and intended individual styling."
+    },
+    {
+      "id": "lore-queen",
+      "prompt": "Use case: stylized-concept. Asset type: individual AI Queen full-width website hero, 1536x1024 landscape. Create one original editorial portrait of Lore Queen, a fictional adult female AI mentor for a royal, contemporary women-led venture network. Subject: woman about 72, medium olive complexion, slender frame, grey braided hair, deeply expressive lined face, dignified confident posture. Wardrobe: understated fully covering purple suit, cream scarf, reading glasses and visible modern hearing aid. Setting: beautiful circular civic library with timber, plum upholstery and golden daylight. Rich realistic painterly photographic concept art, natural skin texture, sophisticated plum and luminous gold palette, beautiful confident leadership. Show her from head to mid-thigh or full seated body, normal natural anatomy, the full body shape genuinely visible and not slimmed. Position the woman on the right two-thirds with uncluttered dark plum negative space on the left third for website text. Face visible, hands plausible, strong eye contact, cinematic warm light. This is a professional portrait, fully clothed, chest is not the focal point. No writing, logos, watermark, fantasy armour, sexual posing, sacred regalia or invented cultural symbols. One person only.",
+      "asset": "assets/images/queens/lore-queen.webp",
+      "mobile": "assets/images/queens/lore-queen-mobile.webp",
+      "method": "Built-in image_gen",
+      "review": "Visually reviewed: original adult professional portrait with clear face, plausible hands and intended individual styling."
+    },
+    {
+      "id": "dream-queen",
+      "prompt": "Use case: stylized-concept. Asset type: individual AI Queen full-width website hero, 1536x1024 landscape. Create one original editorial portrait of Dream Queen, a fictional adult female AI mentor for a royal, contemporary women-led venture network. Subject: woman about 34, deep brown skin, slender tall figure, long silver-lilac hair, theatrical elegant makeup, poised creative-director presence. Wardrobe: dramatic full-length high-neck violet couture coat-dress with gold embroidery, elegant sculptural headpiece unrelated to any cultural regalia. Setting: immersive cinema studio with floating translucent story panels and a violet-gold stage. Rich realistic painterly photographic concept art, natural skin texture, sophisticated plum and luminous gold palette, beautiful confident leadership. Show her from head to mid-thigh or full seated body, normal natural anatomy, the full body shape genuinely visible and not slimmed. Position the woman on the right two-thirds with uncluttered dark plum negative space on the left third for website text. Face visible, hands plausible, strong eye contact, cinematic warm light. This is a professional portrait, fully clothed, chest is not the focal point. No writing, logos, watermark, fantasy armour, sexual posing, sacred regalia or invented cultural symbols. One person only.",
+      "asset": "assets/images/queens/dream-queen.webp",
+      "mobile": "assets/images/queens/dream-queen-mobile.webp",
+      "method": "Built-in image_gen",
+      "review": "Visually reviewed: original adult professional portrait with clear face, plausible hands and intended individual styling."
+    }
+  ]
+}

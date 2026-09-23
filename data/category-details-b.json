@@ -1,0 +1,308 @@
+[
+  {
+    "id": "extreme-metamaterials",
+    "title": "Extreme metamaterials",
+    "summary": "Materials shape what an invention can do, how long it lasts and whether it can be repaired. This category brings together polymers, ceramics, crystals, electrodes, optics and more demanding research ambitions. Its starting discipline is simple: name the property, identify the sample and measure it under conditions that matter. A striking material image or an extreme title is an invitation to investigate, not proof of a breakthrough.",
+    "opportunity": "Women can lead materials enterprises as researchers, technicians, designers, quality specialists, makers and owners. A strong first venture may be a testing service, a better replacement part or a clear technical brief for an existing customer. Frontier work belongs alongside practical making, with the difference visible. Regional workshops can contribute useful fabrication and field knowledge while specialised laboratories handle measurements that require their equipment.",
+    "sharedInfrastructure": [
+      "A common sample register linking preparation, handling and measurements",
+      "Access arrangements with qualified laboratories and fabrication partners",
+      "A library of customer requirements and conventional comparison materials",
+      "Clear contributor credit, intellectual-property decisions and reproducible test records"
+    ],
+    "startingPath": [
+      {
+        "title": "Choose the job before the material",
+        "text": "Begin with a real component or measurement problem. Ask the person maintaining or using it what failure looks like, then compare the existing solution before proposing something exotic."
+      },
+      {
+        "title": "Make one fair comparison",
+        "text": "Agree a reference, test conditions and acceptance requirement. Record failed samples and variability as carefully as successful demonstrations so another person can challenge the conclusion."
+      },
+      {
+        "title": "Decide what the evidence earns",
+        "text": "A useful result may justify a second experiment, a small supply service or stopping the idea. Keep production scale, maintenance and end-of-life questions in the decision."
+      }
+    ],
+    "questions": [
+      "Which requirement would make a customer change materials?",
+      "Can a second operator reproduce the result?",
+      "What happens when the part is repaired, replaced or recovered?"
+    ],
+    "queenIds": [
+      "forge-queen",
+      "ember-queen",
+      "super-queen"
+    ],
+    "projectSlugs": [
+      "extreme-matter-atlas",
+      "straddie-makerspace-lab",
+      "straddie-tip-loop-lab"
+    ],
+    "equalityQuestions": [
+      "Who gets access to instruments, training and ownership?",
+      "Are technicians, maintainers and regional makers recognised as contributors?",
+      "Does the chosen product fit the bodies and routines of its actual users?"
+    ],
+    "sourceNote": "Developed from the ten original suggestions on slide 17 of the 500 Queens VC NEW Long presentation and page 8 of the planning document. The category includes practical development and research frontiers; none of its listings establishes a proven material or operating business.",
+    "hero": "assets/images/categories/extreme-metamaterials.webp",
+    "heroMobile": "assets/images/categories/extreme-metamaterials-mobile.webp"
+  },
+  {
+    "id": "space-industry",
+    "title": "Space industry",
+    "summary": "Space enterprises connect human needs with unforgiving engineering questions. This category spans inclusive spacewear, radiation research, fabrication, large payloads, long-duration habitats and openly speculative travel ideas. The scale of the vision is welcome, but every project needs a clear account of what can be tested on Earth, what depends on a future mission and what remains a question in fundamental science.",
+    "opportunity": "A woman does not have to build a spacecraft to lead a useful space enterprise. Human-factors research, component inspection, systems modelling, scientific communication and maintainable resource loops can each become a serious field of work. Country and regional women bring experience in remote operations, practical maintenance and living with resource constraints. Those perspectives should shape the design rather than appear only in the marketing.",
+    "sharedInfrastructure": [
+      "A shared mission-assumption register with no implied launch or venue agreements",
+      "Technical review across structures, energy, materials and human factors",
+      "Earth-based analogues that clearly state where the comparison fails",
+      "Inclusive fit, access and maintenance requirements for every human-facing design"
+    ],
+    "startingPath": [
+      {
+        "title": "Name the mission's useful result",
+        "text": "Choose the observation, service or human activity the system should support. Compare a smaller or conventional alternative before making a large architecture the default."
+      },
+      {
+        "title": "Test the part you can reach",
+        "text": "Build a non-critical component, mock-up or simulation with qualified support. Measure a defined behaviour and keep analogue results separate from flight readiness."
+      },
+      {
+        "title": "Make the missing evidence visible",
+        "text": "List unresolved interfaces, resource losses, failures and access needs. Ask which result must be established before another team would depend on the proposal."
+      }
+    ],
+    "questions": [
+      "What can this team demonstrate without a launch?",
+      "Which assumption most changes the mission's feasibility?",
+      "Who repairs the system, and what happens when a component cannot be replaced?"
+    ],
+    "queenIds": [
+      "star-queen",
+      "forge-queen",
+      "ember-queen",
+      "dream-queen"
+    ],
+    "projectSlugs": [
+      "virtual-solar-swarm",
+      "extreme-matter-atlas",
+      "Future-of-Life-2045"
+    ],
+    "equalityQuestions": [
+      "Would women with varied bodies have equal access to equipment and habitats?",
+      "Whose care and maintenance labour is included in the mission model?",
+      "Can women outside established space organisations lead useful parts of the work?"
+    ],
+    "sourceNote": "Developed from the ten original space-industry suggestions on slide 17 and planning page 8. Starship names identify historical design scenarios, not a supplier agreement. Portals and warp concepts remain explicitly speculative; no listed mission or space system is claimed to be operational.",
+    "hero": "assets/images/categories/space-industry.webp",
+    "heroMobile": "assets/images/categories/space-industry-mobile.webp"
+  },
+  {
+    "id": "micro-architectures",
+    "title": "Micro-architectures",
+    "summary": "Small devices can create large possibilities, from an ordinary sensor that saves a worker time to a frontier experiment about quantum information. This category connects electronics, chip design, fluid systems, near-eye displays and molecular or programmable-matter ideas. Each entry should explain its mechanism, inputs, outputs and evidence before asking readers to accept a future application.",
+    "opportunity": "The network can create several entry routes: accessible electronics workshops, reproducible software models, participant-led interface research and specialised laboratory collaborations. Women can lead at every level, including system architecture and business ownership. Not every project needs its own chip or laboratory. Sometimes the strongest enterprise is the service that makes an existing technology understandable, repairable and useful to a customer.",
+    "sharedInfrastructure": [
+      "Reproducible design files, test inputs and documented software environments",
+      "A conventional reference against which new approaches can be compared",
+      "Accessible maker tools and clearly defined specialist laboratory partnerships",
+      "Shared review of data control, human interfaces and maintenance requirements"
+    ],
+    "startingPath": [
+      {
+        "title": "Define one operation",
+        "text": "Explain what enters the device, what changes and how the result is read. If that cannot be stated clearly, begin with research mapping rather than a product promise."
+      },
+      {
+        "title": "Build an inspectable demonstration",
+        "text": "Use a simulator, available development board or supervised non-critical prototype. Make errors and interruptions visible so learners can understand the mechanism."
+      },
+      {
+        "title": "Connect it to a user",
+        "text": "Ask whether the device improves a real task. Include setup, software, maintenance and accessibility in the comparison, not only an isolated performance measure."
+      }
+    ],
+    "questions": [
+      "What useful operation is actually being demonstrated?",
+      "Can another person reproduce the result?",
+      "Would a simpler device or ordinary computer meet the same need?"
+    ],
+    "queenIds": [
+      "forge-queen",
+      "super-queen",
+      "lore-queen"
+    ],
+    "projectSlugs": [
+      "straddie-makerspace-lab",
+      "ready-set-co-op-cultural-intelligence-node",
+      "extreme-matter-atlas"
+    ],
+    "equalityQuestions": [
+      "Can regional and returning learners access the tools?",
+      "Are different hands, eyes, bodies and communication needs considered?",
+      "Who owns designs and receives credit for testing and documentation?"
+    ],
+    "sourceNote": "Developed from the ten original micro-architecture suggestions on slide 17 and planning page 8. Available-device pilots, specialised engineering and speculative mechanisms are labelled separately. No chip, quantum processor or molecular device is claimed to have been built by this network.",
+    "sources": [
+      {
+        "title": "NIST: Quantum computing explained",
+        "href": "https://www.nist.gov/quantum-information-science/quantum-computing-explained"
+      }
+    ],
+    "hero": "assets/images/categories/micro-architectures.webp",
+    "heroMobile": "assets/images/categories/micro-architectures-mobile.webp"
+  },
+  {
+    "id": "humanities-and-fun",
+    "title": "Humanities and fun",
+    "summary": "A good future needs stories, pleasure, learning, friendship and room to ask difficult questions. These enterprises connect creative work with everyday wellbeing and the ways people choose to live together. Some can begin as a small production or learning circle. Others, such as radical life extension, belong to research and should never be presented as a ready-made personal benefit.",
+    "opportunity": "Women can build and own the studios, learning programmes, performance spaces and research-communication services that shape public imagination. The audience should recognise glamorous women alongside country women, fat women, nerdy women, mothers, migrants and older women with their own ambitions. Representation becomes meaningful when those people write, direct, decide and receive the value created by the work.",
+    "sharedInfrastructure": [
+      "Clear creative rights, payment and contributor credit",
+      "Accessible venues, production tools and remote participation routes",
+      "Qualified reviewers for health, relationship and specialist research material",
+      "Participant-led feedback that does not require intimate personal disclosure"
+    ],
+    "startingPath": [
+      {
+        "title": "Choose an experience worth finishing",
+        "text": "Start with one short game, scene, workshop or discussion. Define the audience and what they should be able to feel, understand or do afterwards."
+      },
+      {
+        "title": "Share authorship and practical power",
+        "text": "Agree creative rights, production roles and payment before promotion. Ask whose voice is missing from both the visible work and the decisions behind it."
+      },
+      {
+        "title": "Listen, revise and make the next work",
+        "text": "Use audience and participant feedback to improve a finished pilot. Keep learning, entertainment and clinical claims distinct, especially when a powerful story makes uncertainty easy to overlook."
+      }
+    ],
+    "questions": [
+      "Whose choices drive the story or programme?",
+      "What does the audience gain, and what do contributors receive?",
+      "Where does artistic imagination end and a factual claim begin?"
+    ],
+    "queenIds": [
+      "dream-queen",
+      "spark-queen",
+      "lore-queen",
+      "shield-queen"
+    ],
+    "projectSlugs": [
+      "minjerribah-screen-media-network",
+      "grain-by-grain-documentary",
+      "Future-of-Life-2045",
+      "GAJRA-earth-infinity"
+    ],
+    "equalityQuestions": [
+      "Can women of varied bodies and backgrounds be leads, makers and owners?",
+      "Are care, travel and language needs part of production planning?",
+      "Can participants disagree or opt out without losing respect or opportunity?"
+    ],
+    "sourceNote": "Developed from the ten original humanities and fun suggestions on slide 18 and planning page 8. New pilot directions are proposals. Research themes do not establish treatments, accredited education, confirmed events or a single preferred way of living.",
+    "hero": "assets/images/categories/humanities-and-fun.webp",
+    "heroMobile": "assets/images/categories/humanities-and-fun-mobile.webp"
+  },
+  {
+    "id": "market-analysis",
+    "title": "Market analysis",
+    "summary": "A market is made of people, routines, institutions and unmet needs, not just a large number in a pitch deck. This category investigates care, learning, wellbeing, migration, disruption, food, housing, population change and governance. Its purpose is to discover a useful service question with the people affected, then test whether a proposed enterprise can answer it.",
+    "opportunity": "Women with lived experience, local relationships and practical service knowledge can lead rigorous research. Country communities and migrant women who have made Australia home should help define the questions, rather than being added to a standard urban survey. Good analysis can also reveal that an existing service needs support, or that no new business is the right response.",
+    "sharedInfrastructure": [
+      "Dated source records with clear definitions and gaps",
+      "Paid participant involvement and accessible interview formats",
+      "Transparent assumptions, scenarios and conflict-of-interest records",
+      "A route from findings to a willing organisation's actual decision"
+    ],
+    "startingPath": [
+      {
+        "title": "Choose one journey or decision",
+        "text": "Ask which recurring task or service problem people want changed. A narrow question makes it easier to see whether research will lead to something useful."
+      },
+      {
+        "title": "Compare records with lived experience",
+        "text": "Check public information and speak with people doing the work or using the service. Keep differences and uncertainty visible instead of forcing them into a single average."
+      },
+      {
+        "title": "Test the implication",
+        "text": "Return findings to participants and identify one practical experiment. Verify real availability, demand or access before describing an opportunity as an established market."
+      }
+    ],
+    "questions": [
+      "Who defines the problem and who pays for the research?",
+      "What evidence would change the proposed conclusion?",
+      "Which organisation can act on the result, and who remains excluded?"
+    ],
+    "queenIds": [
+      "silk-queen",
+      "shield-queen",
+      "lore-queen"
+    ],
+    "projectSlugs": [
+      "multi-site-Minjerribah-network",
+      "mutual-futures",
+      "minjerribah-living-twin",
+      "GAJRA-earth-infinity"
+    ],
+    "equalityQuestions": [
+      "Whose unpaid time and care are missing from the analysis?",
+      "Can regional, disabled and multilingual participants influence the findings?",
+      "Does the proposal distribute ownership and bargaining power as well as services?"
+    ],
+    "sourceNote": "Developed from the ten original market-analysis suggestions on slide 18 and planning page 8. These are proposed research directions, not completed demand studies, current service guarantees, demographic predictions or investment recommendations.",
+    "hero": "assets/images/categories/market-analysis.webp",
+    "heroMobile": "assets/images/categories/market-analysis-mobile.webp"
+  },
+  {
+    "id": "aura-of-intelligence",
+    "title": "Aura of Intelligence",
+    "summary": "Aura brings the network's questions about intelligence, identity, assistance and responsibility into everyday life. The ideas range from the Queens framework and public art to personal interfaces, inclusive apparel and participant-led care tools. Consciousness remains a philosophical and research question. A persona, mirror or generated response is not evidence that a system is conscious.",
+    "opportunity": "The strongest starting point is a task a person actually wants help with, chosen with that person. Women can shape the goals, representation, memory and boundaries of an assistant, and choose a non-AI route whenever it serves them better. Premium or large-scale concepts should face the same questions of accountability and access as community tools. A real network also needs real people, clear responsibilities and agreed participation.",
+    "sharedInfrastructure": [
+      "Visible distinctions between authored personas, generated outputs and human-reviewed information",
+      "Participant control over purpose, memory, correction and deletion",
+      "Accessible non-AI and human support routes",
+      "Shared project records showing proposed, tested and operational capabilities separately"
+    ],
+    "startingPath": [
+      {
+        "title": "Begin with a person's chosen purpose",
+        "text": "Ask what useful task the tool should support and which assumptions it must avoid. Include women with varied bodies, ages, backgrounds and communication needs in the decision."
+      },
+      {
+        "title": "Prototype with fictional information",
+        "text": "Test the interaction and controls before using personal records. Make it possible to refuse a suggestion, reset the session and understand what the system remembers."
+      },
+      {
+        "title": "Earn a place in everyday life",
+        "text": "Compare effort, errors and participant experience with the existing approach. Expand only where evidence shows useful assistance and a responsible human service can support it."
+      }
+    ],
+    "questions": [
+      "What does this system actually do today?",
+      "Can the person correct, refuse or leave it?",
+      "Who takes responsibility when a confident response is wrong?"
+    ],
+    "queenIds": [
+      "super-queen",
+      "shield-queen",
+      "dream-queen",
+      "spark-queen"
+    ],
+    "projectSlugs": [
+      "ready-set-co-op-cultural-intelligence-node",
+      "Oceania-healthy-de-slop-co-ops",
+      "GAJRA-earth-infinity",
+      "Future-of-Life-2045"
+    ],
+    "equalityQuestions": [
+      "Whose image of a good life guides the assistant?",
+      "Can women choose glamour, practicality or both without being ranked or corrected?",
+      "Who owns the tools and receives the benefits of their use?"
+    ],
+    "sourceNote": "Developed from the ten original Aura suggestions on slide 18 and planning page 8. Wealth-related titles describe exploratory concepts, not financial promises. Named equipment, venues, care programmes and institutional relationships are not confirmed commitments.",
+    "hero": "assets/images/categories/aura-of-intelligence.webp",
+    "heroMobile": "assets/images/categories/aura-of-intelligence-mobile.webp"
+  }
+]

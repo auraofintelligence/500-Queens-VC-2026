@@ -1,0 +1,176 @@
+/* Every hero keeps its words and artwork in separate, natural-height sections. */
+main > .hero,
+main > .hero.home,
+main > .hero.detail-hero {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  min-height: 0;
+  height: auto;
+  overflow: visible;
+  isolation: auto;
+  background: radial-gradient(ellipse at 88% 0%, #62334a55, transparent 62%),
+    linear-gradient(125deg, #21112c, #301a38 65%, #21132b);
+}
+
+main > .hero::before,
+main > .hero::after {
+  content: none;
+  display: none;
+  background: none;
+}
+
+main > .hero > .wrap {
+  order: 0;
+  flex: none;
+  position: static;
+  padding-top: clamp(42px, 5vw, 76px);
+  padding-bottom: clamp(42px, 5vw, 76px);
+  margin-block: 0;
+}
+
+main > .hero .hero-copy {
+  display: grid;
+  grid-template-columns: minmax(0, 1.2fr) minmax(0, 1fr);
+  grid-template-areas: "title description" "title actions";
+  align-items: start;
+  column-gap: clamp(40px, 6vw, 96px);
+  row-gap: 24px;
+  width: 100%;
+  max-width: none;
+}
+
+main > .hero .hero-copy:has(.hero-crumb) {
+  grid-template-areas: "crumb crumb" "title description" "title actions";
+}
+
+main > .hero .hero-crumb {
+  grid-area: crumb;
+  max-width: none;
+  margin: 0 0 6px;
+  color: var(--muted);
+  line-height: 1.65;
+  overflow-wrap: anywhere;
+}
+
+main > .hero .hero-crumb a { color: var(--gold); }
+
+main > .hero h1 {
+  grid-area: title;
+  max-width: none;
+  margin: 0;
+  font-size: clamp(2.6rem, 4.8vw, 4.8rem);
+  line-height: 1.1;
+  letter-spacing: -.045em;
+  text-wrap: balance;
+  overflow-wrap: anywhere;
+  hyphens: manual;
+}
+
+main > .hero.home h1 { font-size: clamp(3rem, 5.25vw, 5.2rem); }
+
+main > .hero .hero-copy > p {
+  grid-area: description;
+  max-width: none;
+  margin: 6px 0 0;
+  color: #f1e7f1;
+  font-size: 1.15rem;
+  line-height: 1.75;
+}
+
+main > .hero .actions {
+  grid-area: actions;
+  align-self: start;
+  margin: 0;
+  gap: 12px;
+}
+
+main > .hero > picture.hero-bg {
+  order: 1;
+  display: block;
+  flex: none;
+  position: static;
+  inset: auto;
+  z-index: auto;
+  width: 100%;
+  height: auto;
+  min-height: 0;
+  max-height: none;
+  overflow: visible;
+  margin: 0;
+  padding: 0;
+  background: transparent;
+}
+
+main > .hero > picture.hero-bg > img {
+  display: block;
+  position: static;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  min-height: 0;
+  max-height: none;
+  aspect-ratio: auto;
+  object-fit: contain;
+  object-position: center;
+  filter: none;
+  opacity: 1;
+  margin: 0;
+}
+
+main > .hero > .hero-meta {
+  order: 2;
+  display: block;
+  flex: none;
+  position: static;
+  inset: auto;
+  align-self: stretch;
+  width: 100%;
+  margin: 0;
+  padding: 13px max(24px, calc((100% - 1280px) / 2));
+  border-radius: 0;
+  background: #21132b;
+  color: var(--muted);
+  font-size: 1rem;
+  line-height: 1.55;
+  text-align: right;
+}
+
+@media (max-width: 1000px) {
+  main > .hero .hero-copy,
+  main > .hero .hero-copy:has(.hero-crumb) {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+  }
+  main > .hero h1,
+  main > .hero.home h1 {
+    max-width: 850px;
+    font-size: clamp(2.65rem, 6.5vw, 4.5rem);
+    text-wrap: pretty;
+  }
+  main > .hero .hero-copy > p { max-width: 760px; margin: 0; }
+  main > .hero .hero-crumb { margin: 0; }
+}
+
+@media (max-width: 760px) {
+  main > .hero > .wrap { padding-top: 34px; padding-bottom: 38px; }
+  main > .hero .hero-copy,
+  main > .hero .hero-copy:has(.hero-crumb) { gap: 22px; }
+  main > .hero h1,
+  main > .hero.home h1 { font-size: clamp(2.55rem, 10.9vw, 3.55rem); line-height: 1.12; }
+  main > .hero .hero-copy > p { font-size: 1.08rem; }
+  main > .hero .actions { width: 100%; }
+  main > .hero .actions .button { max-width: 100%; }
+  main > .hero > .hero-meta { padding: 12px 20px; text-align: left; }
+}
+
+@media print {
+  main > .hero { background: white; color: black; }
+  main > .hero > .wrap { padding: 20px 0; }
+  main > .hero .hero-copy { display: block; }
+  main > .hero .hero-copy > p { margin-top: 20px; color: #333; }
+  main > .hero > picture.hero-bg,
+  main > .hero > .hero-meta { display: none; }
+}

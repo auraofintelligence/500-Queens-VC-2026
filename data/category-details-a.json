@@ -1,0 +1,216 @@
+[
+  {
+    "id": "simulations-and-robots",
+    "title": "Simulations and robots",
+    "summary": "Use models, software and machines to make a specific human task easier, safer or better understood. This broad strand connects care and hospitality with creative worlds, scientific observation and ambitious infrastructure. The twenty original suggestions are different starting points, not one product roadmap.",
+    "opportunity": "A simulation lets a team examine an assumption before committing to equipment or construction. A robot becomes useful when it performs a defined task reliably within a service people actually want. The practical opportunity is to choose a user, a task and a result that can be checked. Women bring expertise from care, trades, science, logistics and everyday life; they should set the problem and control important product decisions, not merely appear in a demonstration.",
+    "sharedInfrastructure": [
+      "A shared simulation and data workspace with source records, units, assumptions and version history.",
+      "Accessible prototype facilities where different bodies, communication styles and levels of technical experience can participate.",
+      "Human mentors in robotics, operations, care and science who review the boundary between a demonstration and a deployable service."
+    ],
+    "startingPath": [
+      {
+        "title": "Choose the smallest useful task",
+        "text": "Start with a missed care handover, warehouse bottleneck, observation question or story scene. Define who benefits and how they currently manage."
+      },
+      {
+        "title": "Build a comparison",
+        "text": "Compare a paper process, existing tool or simple baseline with the proposed model or machine. Include setup, maintenance and the human work around it."
+      },
+      {
+        "title": "Review the evidence together",
+        "text": "Invite users and qualified specialists to examine results. Record failures and decide whether the next step is another test, a paid service or a stop."
+      }
+    ],
+    "questions": [
+      "Which problem do women themselves want solved, and who has been missing from its design?",
+      "What can be tested without asking people to depend on an unproven system?",
+      "Could a simpler service provide the same benefit with less cost or effort?"
+    ],
+    "queenIds": [
+      "star-queen",
+      "forge-queen",
+      "super-queen",
+      "dream-queen"
+    ],
+    "projectSlugs": [
+      "minjerribah-living-twin",
+      "virtual-solar-swarm",
+      "ready-set-co-op-cultural-intelligence-node"
+    ],
+    "sourceNote": "Original category and twenty titles from 500 Queens VC NEW Long, slide 15. This expanded pathway is a proposed interpretation of the September 2026 plan, with practical services distinguished from research and speculative infrastructure.",
+    "hero": "categories/simulations-and-robots"
+  },
+  {
+    "id": "clean-power-systems",
+    "title": "Clean power systems",
+    "summary": "Begin with the energy service people need: a reliable home, a working workshop, useful heat, transport or clean water. The ten original suggestions include established engineering pathways and frontier research. Each needs its own evidence, customer and complete accounting of inputs and outputs.",
+    "opportunity": "A women-led energy enterprise could begin with demand measurement, maintenance, accessible controls or a clear comparison of options. It does not have to invent a new generator. Regional and remote users may value repair access, predictable bills and local skills differently from a large city customer. Ask women what they need from energy systems and how they want to share ownership, technical work and decision-making. Use that answer to define the service before selecting equipment.",
+    "sharedInfrastructure": [
+      "A common load-data and comparison method, with the same service requirement applied to every option.",
+      "Qualified electrical, mechanical, water and marine advice appropriate to the specific proposal.",
+      "A service and maintenance knowledge base that records spare parts, response times, training and whole-life responsibilities."
+    ],
+    "startingPath": [
+      {
+        "title": "Measure the need",
+        "text": "Choose one load or process and understand when it must operate, how interruptions affect people and which demand can move."
+      },
+      {
+        "title": "Compare complete systems",
+        "text": "Include storage, connection, controls, losses, maintenance and replacement. A peak output or attractive device alone cannot establish useful service."
+      },
+      {
+        "title": "Test the weakest assumption",
+        "text": "Select the measurement most likely to change the decision. Research concepts such as fusion need a qualified institutional pathway, separate from customer energy promises."
+      }
+    ],
+    "questions": [
+      "Who receives reliable energy first and who bears the cost when the system fails?",
+      "What would make the equipment usable and maintainable for the women who work with it?",
+      "Does the proposal still make sense when a simpler alternative is compared fairly?"
+    ],
+    "queenIds": [
+      "ember-queen",
+      "river-queen",
+      "forge-queen"
+    ],
+    "projectSlugs": [
+      "straddie-clean-energy-superpower",
+      "extreme-matter-atlas",
+      "moreton-bay-autonomous-mobility"
+    ],
+    "sourceNote": "Original category and ten titles from 500 Queens VC NEW Long, slide 15. Expanded briefs are proposed development pathways, not approved installations or verified performance claims.",
+    "hero": "categories/clean-power-systems"
+  },
+  {
+    "id": "closed-loop-food",
+    "title": "Closed-loop food",
+    "summary": "Connect food people enjoy with reliable production, useful livelihoods and careful use of materials. The ten original themes span familiar crops, seafood, fungi, insects and scientific research. A loop is a design question: its inputs, outputs, losses and responsibilities still need to be measured.",
+    "opportunity": "The strongest first enterprise may improve an existing food system through preparation, ordering, distribution or shared planning. Start with a real eating occasion or buyer specification. Invite women with farming, cooking, food-business, scientific and caring experience to decide what matters: taste, cultural fit, affordability, time, access or ownership. Their answers may differ. Product claims should stay within their evidence, and biological research should remain in appropriate professional settings.",
+    "sharedInfrastructure": [
+      "A shared product-brief format covering the customer, ingredient provenance, quality requirements, handling and repeat demand.",
+      "Access to qualified food-development, production and laboratory partners for the chosen application.",
+      "A producer-and-buyer coordination service that distinguishes forecasts from confirmed orders and records the complete labour and material balance."
+    ],
+    "startingPath": [
+      {
+        "title": "Choose one product and customer",
+        "text": "A seafood delivery service, convenient legume ingredient and fungal material are different businesses. Define one offer before discussing a complete food ecosystem."
+      },
+      {
+        "title": "Trace the whole journey",
+        "text": "Follow inputs through production, packaging, storage, transport and use. Include rejected batches and the work often performed informally at home or on farms."
+      },
+      {
+        "title": "Test repeat use",
+        "text": "Use an appropriate authorised producer and a willing customer. An attractive sample is an opening; repeat orders, consistent quality and viable delivery establish the next decision."
+      }
+    ],
+    "questions": [
+      "What food do women in this community actually want, and what makes it difficult to obtain or prepare?",
+      "Who performs the hidden labour and who controls the resulting income?",
+      "Does a proposed loop improve the whole system or move waste and work somewhere else?"
+    ],
+    "queenIds": [
+      "seed-queen",
+      "river-queen",
+      "silk-queen"
+    ],
+    "projectSlugs": [
+      "straddie-night-market-lab",
+      "mutual-futures",
+      "straddie-tip-loop-lab"
+    ],
+    "sourceNote": "Original category and ten titles from 500 Queens VC NEW Long, slide 16. The practical pathways are new proposals grounded in the current plan; no food, health or production performance is certified here.",
+    "hero": "categories/closed-loop-food"
+  },
+  {
+    "id": "waste-reclamation",
+    "title": "Waste reclamation",
+    "summary": "Keep useful products and materials in service by matching a specific stream to a real need. The ten original suggestions range from computer repair and farm residues to specialised industrial and nuclear research questions. They require different expertise and must not be treated as interchangeable recovery opportunities.",
+    "opportunity": "A local enterprise can start with better information, repair, sorting, quality testing or logistics. The essential connection is between a responsible source operator and a customer who accepts the output. Women should have opportunities to own the service, lead technical decisions and progress through skilled work, with equipment and training that fit a broad range of bodies. Count all labour, rejected material and downstream obligations before calling the outcome circular.",
+    "sharedInfrastructure": [
+      "A material register recording source, ownership, composition, contamination, volume, seasonal variation and intended destination.",
+      "Relationships with qualified testing, repair and authorised handling partners suited to each stream.",
+      "A common costing method that includes collection, preparation, storage, transport, quality checks and material that cannot be sold."
+    ],
+    "startingPath": [
+      {
+        "title": "Secure the right relationship",
+        "text": "Work with the responsible operator and identify one stream. A public proposal or accessible stockpile does not grant permission to handle material."
+      },
+      {
+        "title": "Ask the buyer first",
+        "text": "Obtain an acceptance specification before purchasing equipment. Test a representative sample and document what changes between batches."
+      },
+      {
+        "title": "Prove the whole route",
+        "text": "Follow a small authorised batch to its actual destination. Compare the result with repair, reuse and current handling, including the work and cost left behind."
+      }
+    ],
+    "questions": [
+      "Who does the recovery work, who owns the business and who carries responsibility for rejected material?",
+      "Can the tools and workflow accommodate different bodies and levels of experience?",
+      "Would prevention or repair create more value than processing the material again?"
+    ],
+    "queenIds": [
+      "forge-queen",
+      "river-queen",
+      "seed-queen",
+      "shield-queen"
+    ],
+    "projectSlugs": [
+      "straddie-tip-loop-lab",
+      "straddie-makerspace-lab",
+      "extreme-matter-atlas"
+    ],
+    "sourceNote": "Original category and ten titles from 500 Queens VC NEW Long, slide 16. Expanded briefs propose tests and services; they do not establish waste-operation authority, safe material status or validated treatment methods.",
+    "hero": "categories/waste-reclamation"
+  },
+  {
+    "id": "subterranean-cities",
+    "title": "Subterranean cities",
+    "summary": "Use a bold habitat vision to ask concrete questions about a life people would choose, the services it depends on and who decides its future. The ten original themes include preservation, excavation, maintenance, production, transport, life support, governance and entertainment. City-scale feasibility remains unproven.",
+    "opportunity": "Useful enterprises can emerge long before a subterranean settlement: maintainability reviews, accessible facility design, making services, participatory planning and reliable component tests. Start with one space or service and show its dependencies. Women should define what they need from privacy, bodily comfort, care, work, movement and joy, rather than being fitted into a habitat designed around an assumed standard person. Residents' ability to change the plan or leave is part of the design.",
+    "sharedInfrastructure": [
+      "A transparent dependency model connecting air, water, food, energy, waste, access, communications, maintenance and human responsibilities.",
+      "Full-size surface mock-ups and digital scenarios for accessibility, maintenance and everyday-life review without relying on an unproven habitat.",
+      "Qualified engineering and human-factors mentors alongside people who would use, clean, maintain and govern the proposed spaces."
+    ],
+    "startingPath": [
+      {
+        "title": "Define one bounded environment",
+        "text": "Choose a workshop, shared room or limited service model. State the purpose, time period and outside inputs instead of drawing an entire city first."
+      },
+      {
+        "title": "Ask what life should feel like",
+        "text": "Invite varied users to name acceptable conditions, desired freedoms and unacceptable trade-offs. Keep disagreements visible rather than averaging them away."
+      },
+      {
+        "title": "Test failure and change",
+        "text": "Examine maintenance, supply delays, service loss and adaptation. Identify a component worth testing and a clear reason to stop if the larger case fails."
+      }
+    ],
+    "questions": [
+      "What would women want to shape from the beginning in a genuinely equal living environment?",
+      "Who can reject an unacceptable condition, revise a rule or choose to leave?",
+      "Which useful capability can be built now without claiming that the whole city is feasible?"
+    ],
+    "queenIds": [
+      "star-queen",
+      "forge-queen",
+      "ember-queen",
+      "dream-queen",
+      "shield-queen"
+    ],
+    "projectSlugs": [
+      "grain-by-grain-documentary",
+      "Future-of-Life-2045",
+      "minjerribah-living-twin"
+    ],
+    "sourceNote": "Original category and ten titles from 500 Queens VC NEW Long, slide 16. This expanded framing preserves the ambition while distinguishing practical service pilots from speculative habitats and biological-preservation concepts.",
+    "hero": "categories/subterranean-cities"
+  }
+]

@@ -1,0 +1,4460 @@
+{
+  "records": [
+    {
+      "id": "queen:spark-queen",
+      "kind": "queen",
+      "title": "Spark Queen",
+      "href": "queen-spark-queen.html",
+      "summary": "Give the idea a first, testable form.",
+      "categoryIds": [
+        "humanities-and-fun",
+        "micro-architectures",
+        "market-analysis"
+      ],
+      "queenIds": [],
+      "art": "queens/spark-queen"
+    },
+    {
+      "id": "queen:shield-queen",
+      "kind": "queen",
+      "title": "Shield Queen",
+      "href": "queen-shield-queen.html",
+      "summary": "Understand the agreement before the signature.",
+      "categoryIds": [
+        "market-analysis",
+        "aura-of-intelligence",
+        "extreme-metamaterials"
+      ],
+      "queenIds": [],
+      "art": "queens/shield-queen"
+    },
+    {
+      "id": "queen:seed-queen",
+      "kind": "queen",
+      "title": "Seed Queen",
+      "href": "queen-seed-queen.html",
+      "summary": "Grow an enterprise that can keep growing.",
+      "categoryIds": [
+        "closed-loop-food",
+        "waste-reclamation",
+        "clean-power-systems"
+      ],
+      "queenIds": [],
+      "art": "queens/seed-queen"
+    },
+    {
+      "id": "queen:storm-queen",
+      "kind": "queen",
+      "title": "Storm Queen",
+      "href": "queen-storm-queen.html",
+      "summary": "Make the message earn attention.",
+      "categoryIds": [
+        "humanities-and-fun",
+        "market-analysis",
+        "aura-of-intelligence"
+      ],
+      "queenIds": [],
+      "art": "queens/storm-queen"
+    },
+    {
+      "id": "queen:star-queen",
+      "kind": "queen",
+      "title": "Star Queen",
+      "href": "queen-star-queen.html",
+      "summary": "Hold the long horizon. Choose the next measurement.",
+      "categoryIds": [
+        "space-industry",
+        "simulations-and-robots",
+        "extreme-metamaterials"
+      ],
+      "queenIds": [],
+      "art": "queens/star-queen"
+    },
+    {
+      "id": "queen:super-queen",
+      "kind": "queen",
+      "title": "Super Queen (Aura)",
+      "href": "queen-super-queen.html",
+      "summary": "Bring the parts into a system people can trust.",
+      "categoryIds": [
+        "aura-of-intelligence",
+        "simulations-and-robots",
+        "market-analysis"
+      ],
+      "queenIds": [],
+      "art": "queens/super-queen"
+    },
+    {
+      "id": "queen:river-queen",
+      "kind": "queen",
+      "title": "River Queen",
+      "href": "queen-river-queen.html",
+      "summary": "Follow the water, and the people who depend on it.",
+      "categoryIds": [
+        "closed-loop-food",
+        "waste-reclamation",
+        "clean-power-systems"
+      ],
+      "queenIds": [],
+      "art": "queens/river-queen"
+    },
+    {
+      "id": "queen:forge-queen",
+      "kind": "queen",
+      "title": "Forge Queen",
+      "href": "queen-forge-queen.html",
+      "summary": "Build it. Measure it. Improve it.",
+      "categoryIds": [
+        "extreme-metamaterials",
+        "micro-architectures",
+        "simulations-and-robots"
+      ],
+      "queenIds": [],
+      "art": "queens/forge-queen"
+    },
+    {
+      "id": "queen:ember-queen",
+      "kind": "queen",
+      "title": "Ember Queen",
+      "href": "queen-ember-queen.html",
+      "summary": "Make essential systems dependable.",
+      "categoryIds": [
+        "clean-power-systems",
+        "subterranean-cities",
+        "micro-architectures"
+      ],
+      "queenIds": [],
+      "art": "queens/ember-queen"
+    },
+    {
+      "id": "queen:silk-queen",
+      "kind": "queen",
+      "title": "Silk Queen",
+      "href": "queen-silk-queen.html",
+      "summary": "Build relationships that can carry real trade.",
+      "categoryIds": [
+        "market-analysis",
+        "extreme-metamaterials",
+        "humanities-and-fun"
+      ],
+      "queenIds": [],
+      "art": "queens/silk-queen"
+    },
+    {
+      "id": "queen:lore-queen",
+      "kind": "queen",
+      "title": "Lore Queen",
+      "href": "queen-lore-queen.html",
+      "summary": "Make power, responsibility and participation clear.",
+      "categoryIds": [
+        "market-analysis",
+        "aura-of-intelligence",
+        "humanities-and-fun"
+      ],
+      "queenIds": [],
+      "art": "queens/lore-queen"
+    },
+    {
+      "id": "queen:dream-queen",
+      "kind": "queen",
+      "title": "Dream Queen",
+      "href": "queen-dream-queen.html",
+      "summary": "Help people imagine a future they can take part in.",
+      "categoryIds": [
+        "humanities-and-fun",
+        "simulations-and-robots",
+        "aura-of-intelligence"
+      ],
+      "queenIds": [],
+      "art": "queens/dream-queen"
+    },
+    {
+      "id": "queen:rainbow-serpent-queen",
+      "kind": "queen",
+      "title": "Rainbow Serpent Queen",
+      "href": "queen-rainbow-serpent-queen.html",
+      "summary": "Begin with relationship, place and the people entitled to speak.",
+      "categoryIds": [
+        "closed-loop-food",
+        "humanities-and-fun",
+        "aura-of-intelligence"
+      ],
+      "queenIds": [],
+      "art": "queens/rainbow-serpent-queen"
+    },
+    {
+      "id": "queen:dragon-queen",
+      "kind": "queen",
+      "title": "Dragon Queen",
+      "href": "queen-dragon-queen.html",
+      "summary": "Translate ambition into a relationship that works both ways.",
+      "categoryIds": [
+        "extreme-metamaterials",
+        "market-analysis",
+        "simulations-and-robots"
+      ],
+      "queenIds": [],
+      "art": "queens/dragon-queen"
+    },
+    {
+      "id": "queen:lotus-queen",
+      "kind": "queen",
+      "title": "Lotus Queen",
+      "href": "queen-lotus-queen.html",
+      "summary": "Let ambition and your chosen commitments fit in the same life.",
+      "categoryIds": [
+        "aura-of-intelligence",
+        "closed-loop-food",
+        "humanities-and-fun"
+      ],
+      "queenIds": [],
+      "art": "queens/lotus-queen"
+    },
+    {
+      "id": "queen:olive-queen",
+      "kind": "queen",
+      "title": "Olive Queen",
+      "href": "queen-olive-queen.html",
+      "summary": "Carry what is valuable forward, and make room for change.",
+      "categoryIds": [
+        "closed-loop-food",
+        "market-analysis",
+        "humanities-and-fun"
+      ],
+      "queenIds": [],
+      "art": "queens/olive-queen"
+    },
+    {
+      "id": "queen:crescent-queen",
+      "kind": "queen",
+      "title": "Crescent Queen",
+      "href": "queen-crescent-queen.html",
+      "summary": "Make your values visible in how the enterprise works.",
+      "categoryIds": [
+        "market-analysis",
+        "aura-of-intelligence",
+        "humanities-and-fun"
+      ],
+      "queenIds": [],
+      "art": "queens/crescent-queen"
+    },
+    {
+      "id": "queen:coral-queen",
+      "kind": "queen",
+      "title": "Coral Queen",
+      "href": "queen-coral-queen.html",
+      "summary": "Let connected communities shape the work.",
+      "categoryIds": [
+        "closed-loop-food",
+        "clean-power-systems",
+        "waste-reclamation"
+      ],
+      "queenIds": [],
+      "art": "queens/coral-queen"
+    },
+    {
+      "id": "queen:clover-queen",
+      "kind": "queen",
+      "title": "Clover Queen",
+      "href": "queen-clover-queen.html",
+      "summary": "Make a place for imagination and useful shared work.",
+      "categoryIds": [
+        "humanities-and-fun",
+        "micro-architectures",
+        "aura-of-intelligence"
+      ],
+      "queenIds": [],
+      "art": "queens/clover-queen"
+    },
+    {
+      "id": "queen:flame-queen",
+      "kind": "queen",
+      "title": "Flame Queen",
+      "href": "queen-flame-queen.html",
+      "summary": "Claim authority, build capability and open the next door.",
+      "categoryIds": [
+        "market-analysis",
+        "humanities-and-fun",
+        "extreme-metamaterials"
+      ],
+      "queenIds": [],
+      "art": "queens/flame-queen"
+    },
+    {
+      "id": "queen:phoenix-queen",
+      "kind": "queen",
+      "title": "Phoenix Queen",
+      "href": "queen-phoenix-queen.html",
+      "summary": "Use what you have learned to begin again with purpose.",
+      "categoryIds": [
+        "market-analysis",
+        "aura-of-intelligence",
+        "humanities-and-fun"
+      ],
+      "queenIds": [],
+      "art": "queens/phoenix-queen"
+    },
+    {
+      "id": "queen:sun-queen",
+      "kind": "queen",
+      "title": "Sun Queen",
+      "href": "queen-sun-queen.html",
+      "summary": "Understand inherited advantage, then use authority responsibly.",
+      "categoryIds": [
+        "market-analysis",
+        "aura-of-intelligence",
+        "space-industry"
+      ],
+      "queenIds": [],
+      "art": "queens/sun-queen"
+    },
+    {
+      "id": "queen:pearl-queen",
+      "kind": "queen",
+      "title": "Pearl Queen",
+      "href": "queen-pearl-queen.html",
+      "summary": "You can belong to more than one story.",
+      "categoryIds": [
+        "humanities-and-fun",
+        "market-analysis",
+        "aura-of-intelligence"
+      ],
+      "queenIds": [],
+      "art": "queens/pearl-queen"
+    },
+    {
+      "id": "queen:prism-queen",
+      "kind": "queen",
+      "title": "Prism Queen",
+      "href": "queen-prism-queen.html",
+      "summary": "Design belonging into the work itself.",
+      "categoryIds": [
+        "aura-of-intelligence",
+        "micro-architectures",
+        "humanities-and-fun"
+      ],
+      "queenIds": [],
+      "art": "queens/prism-queen"
+    },
+    {
+      "id": "category:simulations-and-robots",
+      "kind": "category",
+      "title": "Simulations and robots",
+      "href": "category-simulations-and-robots.html",
+      "summary": "Use models, software and machines to make a specific human task easier, safer or better understood. This broad strand connects care and hospitality with creative worlds, scientific observation and ambitious infrastructure. The twenty original suggestions are different starting points, not one product roadmap.",
+      "categoryIds": [
+        "simulations-and-robots"
+      ],
+      "queenIds": [
+        "star-queen",
+        "forge-queen",
+        "super-queen",
+        "dream-queen"
+      ],
+      "art": "categories/simulations-and-robots"
+    },
+    {
+      "id": "category:clean-power-systems",
+      "kind": "category",
+      "title": "Clean power systems",
+      "href": "category-clean-power-systems.html",
+      "summary": "Begin with the energy service people need: a reliable home, a working workshop, useful heat, transport or clean water. The ten original suggestions include established engineering pathways and frontier research. Each needs its own evidence, customer and complete accounting of inputs and outputs.",
+      "categoryIds": [
+        "clean-power-systems"
+      ],
+      "queenIds": [
+        "ember-queen",
+        "river-queen",
+        "forge-queen"
+      ],
+      "art": "categories/clean-power-systems"
+    },
+    {
+      "id": "category:closed-loop-food",
+      "kind": "category",
+      "title": "Closed-loop food",
+      "href": "category-closed-loop-food.html",
+      "summary": "Connect food people enjoy with reliable production, useful livelihoods and careful use of materials. The ten original themes span familiar crops, seafood, fungi, insects and scientific research. A loop is a design question: its inputs, outputs, losses and responsibilities still need to be measured.",
+      "categoryIds": [
+        "closed-loop-food"
+      ],
+      "queenIds": [
+        "seed-queen",
+        "river-queen",
+        "silk-queen"
+      ],
+      "art": "categories/closed-loop-food"
+    },
+    {
+      "id": "category:waste-reclamation",
+      "kind": "category",
+      "title": "Waste reclamation",
+      "href": "category-waste-reclamation.html",
+      "summary": "Keep useful products and materials in service by matching a specific stream to a real need. The ten original suggestions range from computer repair and farm residues to specialised industrial and nuclear research questions. They require different expertise and must not be treated as interchangeable recovery opportunities.",
+      "categoryIds": [
+        "waste-reclamation"
+      ],
+      "queenIds": [
+        "forge-queen",
+        "river-queen",
+        "seed-queen",
+        "shield-queen"
+      ],
+      "art": "categories/waste-reclamation"
+    },
+    {
+      "id": "category:subterranean-cities",
+      "kind": "category",
+      "title": "Subterranean cities",
+      "href": "category-subterranean-cities.html",
+      "summary": "Use a bold habitat vision to ask concrete questions about a life people would choose, the services it depends on and who decides its future. The ten original themes include preservation, excavation, maintenance, production, transport, life support, governance and entertainment. City-scale feasibility remains unproven.",
+      "categoryIds": [
+        "subterranean-cities"
+      ],
+      "queenIds": [
+        "star-queen",
+        "forge-queen",
+        "ember-queen",
+        "dream-queen",
+        "shield-queen"
+      ],
+      "art": "categories/subterranean-cities"
+    },
+    {
+      "id": "category:extreme-metamaterials",
+      "kind": "category",
+      "title": "Extreme metamaterials",
+      "href": "category-extreme-metamaterials.html",
+      "summary": "Materials shape what an invention can do, how long it lasts and whether it can be repaired. This category brings together polymers, ceramics, crystals, electrodes, optics and more demanding research ambitions. Its starting discipline is simple: name the property, identify the sample and measure it under conditions that matter. A striking material image or an extreme title is an invitation to investigate, not proof of a breakthrough.",
+      "categoryIds": [
+        "extreme-metamaterials"
+      ],
+      "queenIds": [
+        "forge-queen",
+        "ember-queen",
+        "super-queen"
+      ],
+      "art": "categories/extreme-metamaterials"
+    },
+    {
+      "id": "category:space-industry",
+      "kind": "category",
+      "title": "Space industry",
+      "href": "category-space-industry.html",
+      "summary": "Space enterprises connect human needs with unforgiving engineering questions. This category spans inclusive spacewear, radiation research, fabrication, large payloads, long-duration habitats and openly speculative travel ideas. The scale of the vision is welcome, but every project needs a clear account of what can be tested on Earth, what depends on a future mission and what remains a question in fundamental science.",
+      "categoryIds": [
+        "space-industry"
+      ],
+      "queenIds": [
+        "star-queen",
+        "forge-queen",
+        "ember-queen",
+        "dream-queen"
+      ],
+      "art": "categories/space-industry"
+    },
+    {
+      "id": "category:micro-architectures",
+      "kind": "category",
+      "title": "Micro-architectures",
+      "href": "category-micro-architectures.html",
+      "summary": "Small devices can create large possibilities, from an ordinary sensor that saves a worker time to a frontier experiment about quantum information. This category connects electronics, chip design, fluid systems, near-eye displays and molecular or programmable-matter ideas. Each entry should explain its mechanism, inputs, outputs and evidence before asking readers to accept a future application.",
+      "categoryIds": [
+        "micro-architectures"
+      ],
+      "queenIds": [
+        "forge-queen",
+        "super-queen",
+        "lore-queen"
+      ],
+      "art": "categories/micro-architectures"
+    },
+    {
+      "id": "category:humanities-and-fun",
+      "kind": "category",
+      "title": "Humanities and fun",
+      "href": "category-humanities-and-fun.html",
+      "summary": "A good future needs stories, pleasure, learning, friendship and room to ask difficult questions. These enterprises connect creative work with everyday wellbeing and the ways people choose to live together. Some can begin as a small production or learning circle. Others, such as radical life extension, belong to research and should never be presented as a ready-made personal benefit.",
+      "categoryIds": [
+        "humanities-and-fun"
+      ],
+      "queenIds": [
+        "dream-queen",
+        "spark-queen",
+        "lore-queen",
+        "shield-queen"
+      ],
+      "art": "categories/humanities-and-fun"
+    },
+    {
+      "id": "category:market-analysis",
+      "kind": "category",
+      "title": "Market analysis",
+      "href": "category-market-analysis.html",
+      "summary": "A market is made of people, routines, institutions and unmet needs, not just a large number in a pitch deck. This category investigates care, learning, wellbeing, migration, disruption, food, housing, population change and governance. Its purpose is to discover a useful service question with the people affected, then test whether a proposed enterprise can answer it.",
+      "categoryIds": [
+        "market-analysis"
+      ],
+      "queenIds": [
+        "silk-queen",
+        "shield-queen",
+        "lore-queen"
+      ],
+      "art": "categories/market-analysis"
+    },
+    {
+      "id": "category:aura-of-intelligence",
+      "kind": "category",
+      "title": "Aura of Intelligence",
+      "href": "category-aura-of-intelligence.html",
+      "summary": "Aura brings the network's questions about intelligence, identity, assistance and responsibility into everyday life. The ideas range from the Queens framework and public art to personal interfaces, inclusive apparel and participant-led care tools. Consciousness remains a philosophical and research question. A persona, mirror or generated response is not evidence that a system is conscious.",
+      "categoryIds": [
+        "aura-of-intelligence"
+      ],
+      "queenIds": [
+        "super-queen",
+        "shield-queen",
+        "dream-queen",
+        "spark-queen"
+      ],
+      "art": "categories/aura-of-intelligence"
+    },
+    {
+      "id": "startup:aged-care-support-systems",
+      "kind": "startup",
+      "title": "Aged Care Support Systems",
+      "href": "startup-aged-care-support-systems.html",
+      "summary": "Give older people more control over everyday support, while making the work of care teams easier.",
+      "categoryIds": [
+        "simulations-and-robots"
+      ],
+      "queenIds": [
+        "dream-queen",
+        "shield-queen",
+        "super-queen"
+      ],
+      "art": "categories/simulations-and-robots"
+    },
+    {
+      "id": "startup:ndis-support-systems",
+      "kind": "startup",
+      "title": "NDIS Support Systems",
+      "href": "startup-ndis-support-systems.html",
+      "summary": "Build disability support around a person's goals, access needs and authority over their own life.",
+      "categoryIds": [
+        "simulations-and-robots"
+      ],
+      "queenIds": [
+        "shield-queen",
+        "dream-queen",
+        "super-queen"
+      ],
+      "art": "categories/simulations-and-robots"
+    },
+    {
+      "id": "startup:smart-city-capsule-hotels",
+      "kind": "startup",
+      "title": "Smart City Capsule Hotels",
+      "href": "startup-smart-city-capsule-hotels.html",
+      "summary": "Explore compact city accommodation that makes short stays dignified, accessible and easy to run.",
+      "categoryIds": [
+        "simulations-and-robots"
+      ],
+      "queenIds": [
+        "star-queen",
+        "forge-queen",
+        "dream-queen"
+      ],
+      "art": "categories/simulations-and-robots"
+    },
+    {
+      "id": "startup:smart-city-quarantine-hotels",
+      "kind": "startup",
+      "title": "Smart City Quarantine Hotels",
+      "href": "startup-smart-city-quarantine-hotels.html",
+      "summary": "Design adaptable accommodation workflows for public-health disruptions and supported isolation.",
+      "categoryIds": [
+        "simulations-and-robots"
+      ],
+      "queenIds": [
+        "shield-queen",
+        "star-queen",
+        "dream-queen"
+      ],
+      "art": "categories/simulations-and-robots"
+    },
+    {
+      "id": "startup:automated-fleet-cleaning",
+      "kind": "startup",
+      "title": "Automated Fleet Cleaning",
+      "href": "startup-automated-fleet-cleaning.html",
+      "summary": "Turn fleet cleaning into a measurable service for workers, vehicles and water use.",
+      "categoryIds": [
+        "simulations-and-robots"
+      ],
+      "queenIds": [
+        "forge-queen",
+        "river-queen",
+        "silk-queen"
+      ],
+      "art": "categories/simulations-and-robots"
+    },
+    {
+      "id": "startup:frozen-food-warehouse-systems",
+      "kind": "startup",
+      "title": "Frozen Food Warehouse Systems",
+      "href": "startup-frozen-food-warehouse-systems.html",
+      "summary": "Help cold stores keep food traceable, accessible and moving through the right temperature conditions.",
+      "categoryIds": [
+        "simulations-and-robots"
+      ],
+      "queenIds": [
+        "forge-queen",
+        "seed-queen",
+        "ember-queen"
+      ],
+      "art": "categories/simulations-and-robots"
+    },
+    {
+      "id": "startup:space-port-island-construction",
+      "kind": "startup",
+      "title": "Space Port Island Construction",
+      "href": "startup-space-port-island-construction.html",
+      "summary": "Test the assumptions behind an island spaceport before proposing a site or construction programme.",
+      "categoryIds": [
+        "simulations-and-robots"
+      ],
+      "queenIds": [
+        "star-queen",
+        "shield-queen",
+        "forge-queen"
+      ],
+      "art": "categories/simulations-and-robots"
+    },
+    {
+      "id": "startup:east-coast-under-ocean-ufrt",
+      "kind": "startup",
+      "title": "East Coast Under Ocean UFRT",
+      "href": "startup-east-coast-under-ocean-ufrt.html",
+      "summary": "Examine whether an under-ocean fast-transport vision has a useful, testable starting point.",
+      "categoryIds": [
+        "simulations-and-robots"
+      ],
+      "queenIds": [
+        "star-queen",
+        "forge-queen",
+        "shield-queen"
+      ],
+      "art": "categories/simulations-and-robots"
+    },
+    {
+      "id": "startup:cinematic-universe-simulations",
+      "kind": "startup",
+      "title": "Cinematic Universe Simulations",
+      "href": "startup-cinematic-universe-simulations.html",
+      "summary": "Use shared fictional worlds to explore real choices about future lives, communities and technology.",
+      "categoryIds": [
+        "simulations-and-robots"
+      ],
+      "queenIds": [
+        "dream-queen",
+        "spark-queen",
+        "star-queen"
+      ],
+      "art": "categories/simulations-and-robots"
+    },
+    {
+      "id": "startup:space-weather-modelling",
+      "kind": "startup",
+      "title": "Space Weather Modelling",
+      "href": "startup-space-weather-modelling.html",
+      "summary": "Make space-weather observations easier to compare, explain and connect to operational decisions.",
+      "categoryIds": [
+        "simulations-and-robots"
+      ],
+      "queenIds": [
+        "star-queen",
+        "super-queen",
+        "shield-queen"
+      ],
+      "art": "categories/simulations-and-robots"
+    },
+    {
+      "id": "startup:near-earth-object-mapping",
+      "kind": "startup",
+      "title": "Near Earth Object Mapping",
+      "href": "startup-near-earth-object-mapping.html",
+      "summary": "Help observers turn asteroid measurements into clear, traceable understanding of objects near Earth.",
+      "categoryIds": [
+        "simulations-and-robots"
+      ],
+      "queenIds": [
+        "star-queen",
+        "super-queen",
+        "lore-queen"
+      ],
+      "art": "categories/simulations-and-robots"
+    },
+    {
+      "id": "startup:100k-solar-system-satellite-web",
+      "kind": "startup",
+      "title": "100K Solar System Satellite Web",
+      "href": "startup-100k-solar-system-satellite-web.html",
+      "summary": "Work backwards from a useful observation to the smallest satellite network that could provide it.",
+      "categoryIds": [
+        "simulations-and-robots"
+      ],
+      "queenIds": [
+        "star-queen",
+        "forge-queen",
+        "super-queen"
+      ],
+      "art": "categories/simulations-and-robots"
+    },
+    {
+      "id": "startup:off-world-mining-and-refining",
+      "kind": "startup",
+      "title": "Off World Mining and Refining",
+      "href": "startup-off-world-mining-and-refining.html",
+      "summary": "Turn off-world resource ambitions into material-handling experiments with clear terrestrial value.",
+      "categoryIds": [
+        "simulations-and-robots"
+      ],
+      "queenIds": [
+        "star-queen",
+        "forge-queen",
+        "ember-queen"
+      ],
+      "art": "categories/simulations-and-robots"
+    },
+    {
+      "id": "startup:earthquake-volcano-prediction",
+      "kind": "startup",
+      "title": "Earthquake/Volcano Prediction",
+      "href": "startup-earthquake-volcano-prediction.html",
+      "summary": "Improve hazard understanding while clearly separating earthquake prediction from monitoring and preparedness.",
+      "categoryIds": [
+        "simulations-and-robots"
+      ],
+      "queenIds": [
+        "star-queen",
+        "shield-queen",
+        "lore-queen"
+      ],
+      "art": "categories/simulations-and-robots"
+    },
+    {
+      "id": "startup:quantum-computing-frameworks",
+      "kind": "startup",
+      "title": "Quantum Computing Frameworks",
+      "href": "startup-quantum-computing-frameworks.html",
+      "summary": "Help teams understand where quantum computing might fit, using honest comparisons with conventional methods.",
+      "categoryIds": [
+        "simulations-and-robots"
+      ],
+      "queenIds": [
+        "super-queen",
+        "forge-queen",
+        "lore-queen"
+      ],
+      "art": "categories/simulations-and-robots"
+    },
+    {
+      "id": "startup:global-governance-networks",
+      "kind": "startup",
+      "title": "Global Governance Networks",
+      "href": "startup-global-governance-networks.html",
+      "summary": "Connect local decisions through transparent agreements, shared learning and accountable representation.",
+      "categoryIds": [
+        "simulations-and-robots"
+      ],
+      "queenIds": [
+        "shield-queen",
+        "lore-queen",
+        "silk-queen"
+      ],
+      "art": "categories/simulations-and-robots"
+    },
+    {
+      "id": "startup:fukushima-extreme-robotics",
+      "kind": "startup",
+      "title": "Fukushima Extreme Robotics",
+      "href": "startup-fukushima-extreme-robotics.html",
+      "summary": "Build remote-handling capability for difficult environments without claiming access to Fukushima operations.",
+      "categoryIds": [
+        "simulations-and-robots"
+      ],
+      "queenIds": [
+        "forge-queen",
+        "shield-queen",
+        "star-queen"
+      ],
+      "art": "categories/simulations-and-robots"
+    },
+    {
+      "id": "startup:subterranean-city-building",
+      "kind": "startup",
+      "title": "Subterranean City Building",
+      "href": "startup-subterranean-city-building.html",
+      "summary": "Break the underground-city vision into inspectable systems, human needs and decisions that can be tested.",
+      "categoryIds": [
+        "simulations-and-robots"
+      ],
+      "queenIds": [
+        "star-queen",
+        "forge-queen",
+        "dream-queen"
+      ],
+      "art": "categories/simulations-and-robots"
+    },
+    {
+      "id": "startup:live-aid-2025-cities-50k-people",
+      "kind": "startup",
+      "title": "Live Aid 2025 Cities >50K People",
+      "href": "startup-live-aid-2025-cities-50k-people.html",
+      "summary": "Reinterpret the archive's city-scale Live Aid ambition as a practical network of locally led creative events.",
+      "categoryIds": [
+        "simulations-and-robots"
+      ],
+      "queenIds": [
+        "spark-queen",
+        "dream-queen",
+        "silk-queen"
+      ],
+      "art": "categories/simulations-and-robots"
+    },
+    {
+      "id": "startup:live-aid-2025-artistic-world-vote",
+      "kind": "startup",
+      "title": "Live Aid 2025 Artistic World Vote",
+      "href": "startup-live-aid-2025-artistic-world-vote.html",
+      "summary": "Explore fair audience participation that celebrates art without turning popularity into the only measure of value.",
+      "categoryIds": [
+        "simulations-and-robots"
+      ],
+      "queenIds": [
+        "dream-queen",
+        "shield-queen",
+        "spark-queen"
+      ],
+      "art": "categories/simulations-and-robots"
+    },
+    {
+      "id": "startup:tidal-and-wave-power",
+      "kind": "startup",
+      "title": "Tidal and Wave Power",
+      "href": "startup-tidal-and-wave-power.html",
+      "summary": "Find a coastal energy use that might justify careful testing of tidal or wave technology.",
+      "categoryIds": [
+        "clean-power-systems"
+      ],
+      "queenIds": [
+        "ember-queen",
+        "river-queen",
+        "forge-queen"
+      ],
+      "art": "categories/clean-power-systems"
+    },
+    {
+      "id": "startup:solar-desalination-bubbles",
+      "kind": "startup",
+      "title": "Solar Desalination Bubbles",
+      "href": "startup-solar-desalination-bubbles.html",
+      "summary": "Test whether a solar desalination concept can produce useful water with a manageable maintenance burden.",
+      "categoryIds": [
+        "clean-power-systems"
+      ],
+      "queenIds": [
+        "river-queen",
+        "ember-queen",
+        "forge-queen"
+      ],
+      "art": "categories/clean-power-systems"
+    },
+    {
+      "id": "startup:mid-level-plasma-fusion",
+      "kind": "startup",
+      "title": "Mid Level Plasma Fusion",
+      "href": "startup-mid-level-plasma-fusion.html",
+      "summary": "Convert a fusion-energy ambition into a precise research question and an independently reviewable experiment.",
+      "categoryIds": [
+        "clean-power-systems"
+      ],
+      "queenIds": [
+        "ember-queen",
+        "forge-queen",
+        "star-queen"
+      ],
+      "art": "categories/clean-power-systems"
+    },
+    {
+      "id": "startup:pumped-water-storage",
+      "kind": "startup",
+      "title": "Pumped Water Storage",
+      "href": "startup-pumped-water-storage.html",
+      "summary": "Assess pumped water storage as one option for matching energy supply with the times people need it.",
+      "categoryIds": [
+        "clean-power-systems"
+      ],
+      "queenIds": [
+        "ember-queen",
+        "river-queen",
+        "shield-queen"
+      ],
+      "art": "categories/clean-power-systems"
+    },
+    {
+      "id": "startup:battery-technology",
+      "kind": "startup",
+      "title": "Battery Technology",
+      "href": "startup-battery-technology.html",
+      "summary": "Build a battery service around the job the customer needs done and the full life of the equipment.",
+      "categoryIds": [
+        "clean-power-systems"
+      ],
+      "queenIds": [
+        "ember-queen",
+        "forge-queen",
+        "silk-queen"
+      ],
+      "art": "categories/clean-power-systems"
+    },
+    {
+      "id": "startup:superchargers",
+      "kind": "startup",
+      "title": "Superchargers",
+      "href": "startup-superchargers.html",
+      "summary": "Plan fast-charging access around real journeys, usable spaces and the local electricity supply.",
+      "categoryIds": [
+        "clean-power-systems"
+      ],
+      "queenIds": [
+        "ember-queen",
+        "forge-queen",
+        "dream-queen"
+      ],
+      "art": "categories/clean-power-systems"
+    },
+    {
+      "id": "startup:solar-concentration-furnaces",
+      "kind": "startup",
+      "title": "Solar Concentration Furnaces",
+      "href": "startup-solar-concentration-furnaces.html",
+      "summary": "Match concentrated solar heat to a specific process before designing a furnace around it.",
+      "categoryIds": [
+        "clean-power-systems"
+      ],
+      "queenIds": [
+        "ember-queen",
+        "forge-queen",
+        "lore-queen"
+      ],
+      "art": "categories/clean-power-systems"
+    },
+    {
+      "id": "startup:bladeless-wind-turbines",
+      "kind": "startup",
+      "title": "Bladeless Wind Turbines",
+      "href": "startup-bladeless-wind-turbines.html",
+      "summary": "Evaluate a bladeless wind concept against measured output and the needs of a real location.",
+      "categoryIds": [
+        "clean-power-systems"
+      ],
+      "queenIds": [
+        "ember-queen",
+        "forge-queen",
+        "shield-queen"
+      ],
+      "art": "categories/clean-power-systems"
+    },
+    {
+      "id": "startup:gravity-power",
+      "kind": "startup",
+      "title": "Gravity Power",
+      "href": "startup-gravity-power.html",
+      "summary": "Treat gravity as a possible energy-storage mechanism, with every input and loss counted.",
+      "categoryIds": [
+        "clean-power-systems"
+      ],
+      "queenIds": [
+        "ember-queen",
+        "forge-queen",
+        "lore-queen"
+      ],
+      "art": "categories/clean-power-systems"
+    },
+    {
+      "id": "startup:hydrogen",
+      "kind": "startup",
+      "title": "Hydrogen",
+      "href": "startup-hydrogen.html",
+      "summary": "Explore hydrogen only where a specific customer's need survives comparison with direct electricity and other options.",
+      "categoryIds": [
+        "clean-power-systems"
+      ],
+      "queenIds": [
+        "ember-queen",
+        "river-queen",
+        "silk-queen"
+      ],
+      "art": "categories/clean-power-systems"
+    },
+    {
+      "id": "startup:insects",
+      "kind": "startup",
+      "title": "Insects",
+      "href": "startup-insects.html",
+      "summary": "Explore an insect enterprise from the customer's product requirements back to the production system.",
+      "categoryIds": [
+        "closed-loop-food"
+      ],
+      "queenIds": [
+        "seed-queen",
+        "forge-queen",
+        "silk-queen"
+      ],
+      "art": "categories/closed-loop-food"
+    },
+    {
+      "id": "startup:seafood",
+      "kind": "startup",
+      "title": "Seafood",
+      "href": "startup-seafood.html",
+      "summary": "Build a seafood service that connects reliable supply, care for waterways and a product customers value.",
+      "categoryIds": [
+        "closed-loop-food"
+      ],
+      "queenIds": [
+        "seed-queen",
+        "river-queen",
+        "silk-queen"
+      ],
+      "art": "categories/closed-loop-food"
+    },
+    {
+      "id": "startup:seaweed",
+      "kind": "startup",
+      "title": "Seaweed",
+      "href": "startup-seaweed.html",
+      "summary": "Find a useful seaweed product by starting with the buyer, the species and the whole growing system.",
+      "categoryIds": [
+        "closed-loop-food"
+      ],
+      "queenIds": [
+        "seed-queen",
+        "river-queen",
+        "forge-queen"
+      ],
+      "art": "categories/closed-loop-food"
+    },
+    {
+      "id": "startup:superfoods",
+      "kind": "startup",
+      "title": "Superfoods",
+      "href": "startup-superfoods.html",
+      "summary": "Turn the broad superfoods label into a clearly described, enjoyable and honestly marketed food product.",
+      "categoryIds": [
+        "closed-loop-food"
+      ],
+      "queenIds": [
+        "seed-queen",
+        "silk-queen",
+        "dream-queen"
+      ],
+      "art": "categories/closed-loop-food"
+    },
+    {
+      "id": "startup:mushrooms-and-fungi",
+      "kind": "startup",
+      "title": "Mushrooms and Fungi",
+      "href": "startup-mushrooms-and-fungi.html",
+      "summary": "Explore fungi through one controlled product pathway, from growing conditions to a customer who needs the result.",
+      "categoryIds": [
+        "closed-loop-food"
+      ],
+      "queenIds": [
+        "seed-queen",
+        "forge-queen",
+        "river-queen"
+      ],
+      "art": "categories/closed-loop-food"
+    },
+    {
+      "id": "startup:legumes",
+      "kind": "startup",
+      "title": "Legumes",
+      "href": "startup-legumes.html",
+      "summary": "Build convenient legume products and supply relationships around how people actually cook and eat.",
+      "categoryIds": [
+        "closed-loop-food"
+      ],
+      "queenIds": [
+        "seed-queen",
+        "silk-queen",
+        "dream-queen"
+      ],
+      "art": "categories/closed-loop-food"
+    },
+    {
+      "id": "startup:bacteria-and-viruses",
+      "kind": "startup",
+      "title": "Bacteria and Viruses",
+      "href": "startup-bacteria-and-viruses.html",
+      "summary": "Give the broad microbes theme a precise, professionally supervised research or food-production purpose.",
+      "categoryIds": [
+        "closed-loop-food"
+      ],
+      "queenIds": [
+        "seed-queen",
+        "shield-queen",
+        "super-queen"
+      ],
+      "art": "categories/closed-loop-food"
+    },
+    {
+      "id": "startup:poultry",
+      "kind": "startup",
+      "title": "Poultry",
+      "href": "startup-poultry.html",
+      "summary": "Improve a poultry enterprise through animal care, useful production records and dependable local demand.",
+      "categoryIds": [
+        "closed-loop-food"
+      ],
+      "queenIds": [
+        "seed-queen",
+        "silk-queen",
+        "shield-queen"
+      ],
+      "art": "categories/closed-loop-food"
+    },
+    {
+      "id": "startup:medicinal-plants-and-spices",
+      "kind": "startup",
+      "title": "Medicinal Plants and Spices",
+      "href": "startup-medicinal-plants-and-spices.html",
+      "summary": "Develop plant and spice products with traceable ingredients, respectful knowledge use and evidence matched to the claim.",
+      "categoryIds": [
+        "closed-loop-food"
+      ],
+      "queenIds": [
+        "seed-queen",
+        "lore-queen",
+        "shield-queen"
+      ],
+      "art": "categories/closed-loop-food"
+    },
+    {
+      "id": "startup:food-compute-produce-dao",
+      "kind": "startup",
+      "title": "Food Compute/Produce DAO",
+      "href": "startup-food-compute-produce-dao.html",
+      "summary": "Coordinate food demand and production through a practical shared planning service.",
+      "categoryIds": [
+        "closed-loop-food"
+      ],
+      "queenIds": [
+        "seed-queen",
+        "silk-queen",
+        "shield-queen"
+      ],
+      "art": "categories/closed-loop-food"
+    },
+    {
+      "id": "startup:plastics-and-glass",
+      "kind": "startup",
+      "title": "Plastics and Glass",
+      "href": "startup-plastics-and-glass.html",
+      "summary": "Build a recovery business around clean material streams and customers who can use them.",
+      "categoryIds": [
+        "waste-reclamation"
+      ],
+      "queenIds": [
+        "forge-queen",
+        "river-queen",
+        "silk-queen"
+      ],
+      "art": "categories/waste-reclamation"
+    },
+    {
+      "id": "startup:nuclear-waste-and-water",
+      "kind": "startup",
+      "title": "Nuclear Waste and Water",
+      "href": "startup-nuclear-waste-and-water.html",
+      "summary": "Create a precise, institution-led research pathway for nuclear-waste and water questions.",
+      "categoryIds": [
+        "waste-reclamation"
+      ],
+      "queenIds": [
+        "shield-queen",
+        "forge-queen",
+        "river-queen"
+      ],
+      "art": "categories/waste-reclamation"
+    },
+    {
+      "id": "startup:industrial-process-byproducts",
+      "kind": "startup",
+      "title": "Industrial Process Byproducts",
+      "href": "startup-industrial-process-byproducts.html",
+      "summary": "Match one industrial byproduct to a real customer specification and an honest material balance.",
+      "categoryIds": [
+        "waste-reclamation"
+      ],
+      "queenIds": [
+        "forge-queen",
+        "river-queen",
+        "shield-queen"
+      ],
+      "art": "categories/waste-reclamation"
+    },
+    {
+      "id": "startup:solid-waste-refuse-tips",
+      "kind": "startup",
+      "title": "Solid Waste Refuse Tips",
+      "href": "startup-solid-waste-refuse-tips.html",
+      "summary": "Turn one recoverable waste stream into a practical local service with clear authority and customers.",
+      "categoryIds": [
+        "waste-reclamation"
+      ],
+      "queenIds": [
+        "forge-queen",
+        "river-queen",
+        "silk-queen"
+      ],
+      "art": "categories/waste-reclamation"
+    },
+    {
+      "id": "startup:human-waste-and-life-support",
+      "kind": "startup",
+      "title": "Human Waste and Life Support",
+      "href": "startup-human-waste-and-life-support.html",
+      "summary": "Design sanitation and resource-recovery services around health, dignity, maintainability and the people using them.",
+      "categoryIds": [
+        "waste-reclamation"
+      ],
+      "queenIds": [
+        "river-queen",
+        "dream-queen",
+        "forge-queen"
+      ],
+      "art": "categories/waste-reclamation"
+    },
+    {
+      "id": "startup:farming-process-byproducts",
+      "kind": "startup",
+      "title": "Farming Process Byproducts",
+      "href": "startup-farming-process-byproducts.html",
+      "summary": "Find a useful second life for one farm byproduct without creating extra unpaid work or an unreliable market.",
+      "categoryIds": [
+        "waste-reclamation"
+      ],
+      "queenIds": [
+        "seed-queen",
+        "river-queen",
+        "silk-queen"
+      ],
+      "art": "categories/waste-reclamation"
+    },
+    {
+      "id": "startup:subterranean-city-displaced-muck",
+      "kind": "startup",
+      "title": "Subterranean City Displaced Muck",
+      "href": "startup-subterranean-city-displaced-muck.html",
+      "summary": "Plan excavated-material handling before a major underground project creates the material.",
+      "categoryIds": [
+        "waste-reclamation"
+      ],
+      "queenIds": [
+        "forge-queen",
+        "river-queen",
+        "shield-queen"
+      ],
+      "art": "categories/waste-reclamation"
+    },
+    {
+      "id": "startup:mining-process-byproducts",
+      "kind": "startup",
+      "title": "Mining Process Byproducts",
+      "href": "startup-mining-process-byproducts.html",
+      "summary": "Evaluate mining byproducts with measured material properties and a customer-defined use.",
+      "categoryIds": [
+        "waste-reclamation"
+      ],
+      "queenIds": [
+        "forge-queen",
+        "river-queen",
+        "shield-queen"
+      ],
+      "art": "categories/waste-reclamation"
+    },
+    {
+      "id": "startup:water-pollution",
+      "kind": "startup",
+      "title": "Water Pollution",
+      "href": "startup-water-pollution.html",
+      "summary": "Turn a water-quality concern into a clear observation programme and a practical response pathway.",
+      "categoryIds": [
+        "waste-reclamation"
+      ],
+      "queenIds": [
+        "river-queen",
+        "shield-queen",
+        "super-queen"
+      ],
+      "art": "categories/waste-reclamation"
+    },
+    {
+      "id": "startup:computer-e-waste",
+      "kind": "startup",
+      "title": "Computer E-Waste",
+      "href": "startup-computer-e-waste.html",
+      "summary": "Keep computers useful for longer through repair, trustworthy data handling and responsible recovery.",
+      "categoryIds": [
+        "waste-reclamation"
+      ],
+      "queenIds": [
+        "forge-queen",
+        "shield-queen",
+        "silk-queen"
+      ],
+      "art": "categories/waste-reclamation"
+    },
+    {
+      "id": "startup:dna-rna-embryo-ark",
+      "kind": "startup",
+      "title": "DNA RNA Embryo Ark",
+      "href": "startup-dna-rna-embryo-ark.html",
+      "summary": "Explore biological preservation as an institution-led stewardship and continuity question.",
+      "categoryIds": [
+        "subterranean-cities"
+      ],
+      "queenIds": [
+        "shield-queen",
+        "seed-queen",
+        "lore-queen"
+      ],
+      "art": "categories/subterranean-cities"
+    },
+    {
+      "id": "startup:drilling-tunnelling-lateral-mining",
+      "kind": "startup",
+      "title": "Drilling, Tunnelling, Lateral Mining",
+      "href": "startup-drilling-tunnelling-lateral-mining.html",
+      "summary": "Develop useful excavation tools by selecting one measurable problem in a qualified engineering setting.",
+      "categoryIds": [
+        "subterranean-cities"
+      ],
+      "queenIds": [
+        "forge-queen",
+        "star-queen",
+        "shield-queen"
+      ],
+      "art": "categories/subterranean-cities"
+    },
+    {
+      "id": "startup:minimum-ideal-maximum-limits",
+      "kind": "startup",
+      "title": "Minimum, Ideal, Maximum Limits",
+      "href": "startup-minimum-ideal-maximum-limits.html",
+      "summary": "Define the operating limits of a proposed habitat in terms people and engineers can both examine.",
+      "categoryIds": [
+        "subterranean-cities"
+      ],
+      "queenIds": [
+        "dream-queen",
+        "forge-queen",
+        "shield-queen"
+      ],
+      "art": "categories/subterranean-cities"
+    },
+    {
+      "id": "startup:eternal-maintenance",
+      "kind": "startup",
+      "title": "Eternal Maintenance",
+      "href": "startup-eternal-maintenance.html",
+      "summary": "Make long-term maintenance visible, funded and possible for the people who must do it.",
+      "categoryIds": [
+        "subterranean-cities"
+      ],
+      "queenIds": [
+        "forge-queen",
+        "shield-queen",
+        "silk-queen"
+      ],
+      "art": "categories/subterranean-cities"
+    },
+    {
+      "id": "startup:ultra-fast-transport",
+      "kind": "startup",
+      "title": "Ultra Fast Transport",
+      "href": "startup-ultra-fast-transport.html",
+      "summary": "Judge fast transport by complete journeys, access and dependable operation rather than headline speed.",
+      "categoryIds": [
+        "subterranean-cities"
+      ],
+      "queenIds": [
+        "star-queen",
+        "dream-queen",
+        "forge-queen"
+      ],
+      "art": "categories/subterranean-cities"
+    },
+    {
+      "id": "startup:on-demand-production",
+      "kind": "startup",
+      "title": "On Demand Production",
+      "href": "startup-on-demand-production.html",
+      "summary": "Make a useful product when it is needed, with quality, repair and local skills built into the service.",
+      "categoryIds": [
+        "subterranean-cities"
+      ],
+      "queenIds": [
+        "forge-queen",
+        "spark-queen",
+        "silk-queen"
+      ],
+      "art": "categories/subterranean-cities"
+    },
+    {
+      "id": "startup:eternal-human-life-support",
+      "kind": "startup",
+      "title": "Eternal Human Life Support",
+      "href": "startup-eternal-human-life-support.html",
+      "summary": "Study resilient life-support services without claiming that an engineered habitat can sustain people forever.",
+      "categoryIds": [
+        "subterranean-cities"
+      ],
+      "queenIds": [
+        "star-queen",
+        "river-queen",
+        "dream-queen"
+      ],
+      "art": "categories/subterranean-cities"
+    },
+    {
+      "id": "startup:resurface-expansion-planning",
+      "kind": "startup",
+      "title": "Resurface & Expansion Planning",
+      "href": "startup-resurface-expansion-planning.html",
+      "summary": "Plan how a settlement could adapt, return to the surface or expand without trapping people in the original design.",
+      "categoryIds": [
+        "subterranean-cities"
+      ],
+      "queenIds": [
+        "star-queen",
+        "shield-queen",
+        "lore-queen"
+      ],
+      "art": "categories/subterranean-cities"
+    },
+    {
+      "id": "startup:gamification-of-governance",
+      "kind": "startup",
+      "title": "Gamification of Governance",
+      "href": "startup-gamification-of-governance.html",
+      "summary": "Make civic participation engaging while keeping real decisions accountable to the people affected.",
+      "categoryIds": [
+        "subterranean-cities"
+      ],
+      "queenIds": [
+        "spark-queen",
+        "shield-queen",
+        "dream-queen"
+      ],
+      "art": "categories/subterranean-cities"
+    },
+    {
+      "id": "startup:olympic-scale-entertainment",
+      "kind": "startup",
+      "title": "Olympic Scale Entertainment",
+      "href": "startup-olympic-scale-entertainment.html",
+      "summary": "Use the ambition of major events to design entertainment that is accessible, locally useful and responsibly delivered.",
+      "categoryIds": [
+        "subterranean-cities"
+      ],
+      "queenIds": [
+        "dream-queen",
+        "spark-queen",
+        "silk-queen"
+      ],
+      "art": "categories/subterranean-cities"
+    },
+    {
+      "id": "startup:superconductors",
+      "kind": "startup",
+      "title": "Superconductors",
+      "href": "startup-superconductors.html",
+      "summary": "Help a laboratory turn a superconducting material claim into a repeatable measurement and a clear engineering decision.",
+      "categoryIds": [
+        "extreme-metamaterials"
+      ],
+      "queenIds": [
+        "forge-queen",
+        "super-queen"
+      ],
+      "art": "categories/extreme-metamaterials"
+    },
+    {
+      "id": "startup:polymers",
+      "kind": "startup",
+      "title": "Polymers",
+      "href": "startup-polymers.html",
+      "summary": "Design useful polymers around a real product's life, repair and recovery needs.",
+      "categoryIds": [
+        "extreme-metamaterials"
+      ],
+      "queenIds": [
+        "forge-queen",
+        "river-queen"
+      ],
+      "art": "categories/extreme-metamaterials"
+    },
+    {
+      "id": "startup:perfect-crystal-growth",
+      "kind": "startup",
+      "title": "Perfect Crystal Growth",
+      "href": "startup-perfect-crystal-growth.html",
+      "summary": "Turn the ambition of perfect crystals into a disciplined service for controlling and measuring defects.",
+      "categoryIds": [
+        "extreme-metamaterials"
+      ],
+      "queenIds": [
+        "forge-queen",
+        "super-queen"
+      ],
+      "art": "categories/extreme-metamaterials"
+    },
+    {
+      "id": "startup:ceramics",
+      "kind": "startup",
+      "title": "Ceramics",
+      "href": "startup-ceramics.html",
+      "summary": "Build durable ceramic components by starting with one demanding local use.",
+      "categoryIds": [
+        "extreme-metamaterials"
+      ],
+      "queenIds": [
+        "forge-queen",
+        "ember-queen"
+      ],
+      "art": "categories/extreme-metamaterials"
+    },
+    {
+      "id": "startup:anodes-and-cathodes",
+      "kind": "startup",
+      "title": "Anodes and Cathodes",
+      "href": "startup-anodes-and-cathodes.html",
+      "summary": "Compare battery electrode ideas against a defined storage job and a full test record.",
+      "categoryIds": [
+        "extreme-metamaterials"
+      ],
+      "queenIds": [
+        "forge-queen",
+        "ember-queen"
+      ],
+      "art": "categories/extreme-metamaterials"
+    },
+    {
+      "id": "startup:electrolytes",
+      "kind": "startup",
+      "title": "Electrolytes",
+      "href": "startup-electrolytes.html",
+      "summary": "Investigate the electrolyte as part of a complete, clearly defined energy-storage system.",
+      "categoryIds": [
+        "extreme-metamaterials"
+      ],
+      "queenIds": [
+        "forge-queen",
+        "ember-queen",
+        "river-queen"
+      ],
+      "art": "categories/extreme-metamaterials"
+    },
+    {
+      "id": "startup:resonators",
+      "kind": "startup",
+      "title": "Resonators",
+      "href": "startup-resonators.html",
+      "summary": "Use carefully shaped resonators to solve one measurable sensing, vibration or signal problem.",
+      "categoryIds": [
+        "extreme-metamaterials"
+      ],
+      "queenIds": [
+        "forge-queen",
+        "super-queen"
+      ],
+      "art": "categories/extreme-metamaterials"
+    },
+    {
+      "id": "startup:absolute-vacuums",
+      "kind": "startup",
+      "title": "Absolute Vacuums",
+      "href": "startup-absolute-vacuums.html",
+      "summary": "Translate the ambition of an absolute vacuum into measurable vacuum engineering and leak control.",
+      "categoryIds": [
+        "extreme-metamaterials"
+      ],
+      "queenIds": [
+        "forge-queen",
+        "star-queen"
+      ],
+      "art": "categories/extreme-metamaterials"
+    },
+    {
+      "id": "startup:extremely-precise-lasers",
+      "kind": "startup",
+      "title": "Extremely Precise Lasers",
+      "href": "startup-extremely-precise-lasers.html",
+      "summary": "Make laser precision meaningful by connecting it to a specific measurement or manufacturing task.",
+      "categoryIds": [
+        "extreme-metamaterials"
+      ],
+      "queenIds": [
+        "forge-queen",
+        "super-queen"
+      ],
+      "art": "categories/extreme-metamaterials"
+    },
+    {
+      "id": "startup:extreme-magnetism-or-levitation",
+      "kind": "startup",
+      "title": "Extreme Magnetism or Levitation",
+      "href": "startup-extreme-magnetism-or-levitation.html",
+      "summary": "Explore magnetic control through an observable engineering demonstration with explicit limits.",
+      "categoryIds": [
+        "extreme-metamaterials"
+      ],
+      "queenIds": [
+        "forge-queen",
+        "ember-queen"
+      ],
+      "art": "categories/extreme-metamaterials"
+    },
+    {
+      "id": "startup:second-skin-space-suits",
+      "kind": "startup",
+      "title": "Second Skin Space Suits",
+      "href": "startup-second-skin-space-suits.html",
+      "summary": "Design spacewear around the movement, fit and dignity of many different bodies.",
+      "categoryIds": [
+        "space-industry"
+      ],
+      "queenIds": [
+        "star-queen",
+        "forge-queen",
+        "dream-queen"
+      ],
+      "art": "categories/space-industry"
+    },
+    {
+      "id": "startup:radiation-protection-systems",
+      "kind": "startup",
+      "title": "Radiation Protection Systems",
+      "href": "startup-radiation-protection-systems.html",
+      "summary": "Make radiation protection decisions traceable to an exposure scenario and evidence.",
+      "categoryIds": [
+        "space-industry"
+      ],
+      "queenIds": [
+        "star-queen",
+        "shield-queen",
+        "forge-queen"
+      ],
+      "art": "categories/space-industry"
+    },
+    {
+      "id": "startup:radiation-remediation-systems",
+      "kind": "startup",
+      "title": "Radiation Remediation Systems",
+      "href": "startup-radiation-remediation-systems.html",
+      "summary": "Support contamination-response planning with accountable records and specialist-led evidence.",
+      "categoryIds": [
+        "space-industry"
+      ],
+      "queenIds": [
+        "shield-queen",
+        "forge-queen",
+        "river-queen"
+      ],
+      "art": "categories/space-industry"
+    },
+    {
+      "id": "startup:3d-metallic-printers-welders",
+      "kind": "startup",
+      "title": "3D Metallic Printers/Welders",
+      "href": "startup-3d-metallic-printers-welders.html",
+      "summary": "Connect metal printing and welding to parts that customers can inspect, repair and trust.",
+      "categoryIds": [
+        "space-industry"
+      ],
+      "queenIds": [
+        "forge-queen",
+        "star-queen"
+      ],
+      "art": "categories/space-industry"
+    },
+    {
+      "id": "startup:starship-size-mining-payloads",
+      "kind": "startup",
+      "title": "Starship Size Mining Payloads",
+      "href": "startup-starship-size-mining-payloads.html",
+      "summary": "Explore a large mining payload through an Earth-based systems study with visible assumptions.",
+      "categoryIds": [
+        "space-industry"
+      ],
+      "queenIds": [
+        "star-queen",
+        "forge-queen",
+        "ember-queen"
+      ],
+      "art": "categories/space-industry"
+    },
+    {
+      "id": "startup:starship-size-deep-space-payloads",
+      "kind": "startup",
+      "title": "Starship Size Deep Space Payloads",
+      "href": "startup-starship-size-deep-space-payloads.html",
+      "summary": "Turn a large deep-space payload vision into a mission with a defined purpose and testable interfaces.",
+      "categoryIds": [
+        "space-industry"
+      ],
+      "queenIds": [
+        "star-queen",
+        "forge-queen",
+        "shield-queen"
+      ],
+      "art": "categories/space-industry"
+    },
+    {
+      "id": "startup:starship-size-eternal-life-support",
+      "kind": "startup",
+      "title": "Starship Size Eternal Life Support",
+      "href": "startup-starship-size-eternal-life-support.html",
+      "summary": "Investigate long-duration life support by measuring the limits of one resource loop.",
+      "categoryIds": [
+        "space-industry"
+      ],
+      "queenIds": [
+        "star-queen",
+        "river-queen",
+        "seed-queen"
+      ],
+      "art": "categories/space-industry"
+    },
+    {
+      "id": "startup:subterranean-city-designs",
+      "kind": "startup",
+      "title": "Subterranean City Designs",
+      "href": "startup-subterranean-city-designs.html",
+      "summary": "Explore underground space habitats through human needs, maintainable systems and site-specific questions.",
+      "categoryIds": [
+        "space-industry"
+      ],
+      "queenIds": [
+        "star-queen",
+        "forge-queen",
+        "dream-queen"
+      ],
+      "art": "categories/space-industry"
+    },
+    {
+      "id": "startup:interstellar-warp-or-portals",
+      "kind": "startup",
+      "title": "Interstellar Warp or Portals",
+      "href": "startup-interstellar-warp-or-portals.html",
+      "summary": "Give extraordinary travel ideas a rigorous home that separates mathematics, fiction and testable physics.",
+      "categoryIds": [
+        "space-industry"
+      ],
+      "queenIds": [
+        "star-queen",
+        "lore-queen",
+        "dream-queen"
+      ],
+      "art": "categories/space-industry"
+    },
+    {
+      "id": "startup:plasma-fusion-in-space",
+      "kind": "startup",
+      "title": "Plasma Fusion in Space",
+      "href": "startup-plasma-fusion-in-space.html",
+      "summary": "Study the whole engineering chain behind a proposed fusion system for space.",
+      "categoryIds": [
+        "space-industry"
+      ],
+      "queenIds": [
+        "ember-queen",
+        "star-queen",
+        "forge-queen"
+      ],
+      "art": "categories/space-industry"
+    },
+    {
+      "id": "startup:sensors-and-switches",
+      "kind": "startup",
+      "title": "Sensors and Switches",
+      "href": "startup-sensors-and-switches.html",
+      "summary": "Build simple sensing tools that make a local service easier to understand and maintain.",
+      "categoryIds": [
+        "micro-architectures"
+      ],
+      "queenIds": [
+        "forge-queen",
+        "river-queen"
+      ],
+      "art": "categories/micro-architectures"
+    },
+    {
+      "id": "startup:system-on-a-chip",
+      "kind": "startup",
+      "title": "System on a Chip",
+      "href": "startup-system-on-a-chip.html",
+      "summary": "Develop a chip concept from one clear workload and a reproducible comparison.",
+      "categoryIds": [
+        "micro-architectures"
+      ],
+      "queenIds": [
+        "forge-queen",
+        "super-queen"
+      ],
+      "art": "categories/micro-architectures"
+    },
+    {
+      "id": "startup:quantum-computers",
+      "kind": "startup",
+      "title": "Quantum Computers",
+      "href": "startup-quantum-computers.html",
+      "summary": "Help people evaluate quantum computing against a specific problem and a fair classical comparison.",
+      "categoryIds": [
+        "micro-architectures"
+      ],
+      "queenIds": [
+        "forge-queen",
+        "super-queen",
+        "lore-queen"
+      ],
+      "art": "categories/micro-architectures"
+    },
+    {
+      "id": "startup:micro-fluidics",
+      "kind": "startup",
+      "title": "Micro Fluidics",
+      "href": "startup-micro-fluidics.html",
+      "summary": "Make tiny fluid systems understandable through a visible, controlled flow experiment.",
+      "categoryIds": [
+        "micro-architectures"
+      ],
+      "queenIds": [
+        "forge-queen",
+        "river-queen"
+      ],
+      "art": "categories/micro-architectures"
+    },
+    {
+      "id": "startup:solid-state-crystal-compute",
+      "kind": "startup",
+      "title": "Solid State Crystal Compute",
+      "href": "startup-solid-state-crystal-compute.html",
+      "summary": "Investigate a crystal-based computing idea by defining exactly how information is represented and read.",
+      "categoryIds": [
+        "micro-architectures"
+      ],
+      "queenIds": [
+        "forge-queen",
+        "super-queen",
+        "lore-queen"
+      ],
+      "art": "categories/micro-architectures"
+    },
+    {
+      "id": "startup:rubidium-quantum-compute",
+      "kind": "startup",
+      "title": "Rubidium Quantum Compute",
+      "href": "startup-rubidium-quantum-compute.html",
+      "summary": "Create a carefully bounded learning and research pathway into atom-based quantum computing.",
+      "categoryIds": [
+        "micro-architectures"
+      ],
+      "queenIds": [
+        "forge-queen",
+        "super-queen",
+        "star-queen"
+      ],
+      "art": "categories/micro-architectures"
+    },
+    {
+      "id": "startup:molecular-machines",
+      "kind": "startup",
+      "title": "Molecular Machines",
+      "href": "startup-molecular-machines.html",
+      "summary": "Explore molecular-scale motion without confusing a research mechanism with a finished medical product.",
+      "categoryIds": [
+        "micro-architectures"
+      ],
+      "queenIds": [
+        "forge-queen",
+        "lore-queen",
+        "super-queen"
+      ],
+      "art": "categories/micro-architectures"
+    },
+    {
+      "id": "startup:claytronics",
+      "kind": "startup",
+      "title": "Claytronics",
+      "href": "startup-claytronics.html",
+      "summary": "Study programmable matter through a modest modular-robotics experiment with honest scale limits.",
+      "categoryIds": [
+        "micro-architectures"
+      ],
+      "queenIds": [
+        "forge-queen",
+        "super-queen",
+        "dream-queen"
+      ],
+      "art": "categories/micro-architectures"
+    },
+    {
+      "id": "startup:near-eye-light-field-displays",
+      "kind": "startup",
+      "title": "Near Eye Light Field Displays",
+      "href": "startup-near-eye-light-field-displays.html",
+      "summary": "Design near-eye displays around visual comfort, body fit and a clear task.",
+      "categoryIds": [
+        "micro-architectures"
+      ],
+      "queenIds": [
+        "forge-queen",
+        "dream-queen",
+        "star-queen"
+      ],
+      "art": "categories/micro-architectures"
+    },
+    {
+      "id": "startup:quantum-entanglement",
+      "kind": "startup",
+      "title": "Quantum Entanglement",
+      "href": "startup-quantum-entanglement.html",
+      "summary": "Teach quantum entanglement through experiments, assumptions and carefully bounded claims.",
+      "categoryIds": [
+        "micro-architectures"
+      ],
+      "queenIds": [
+        "lore-queen",
+        "super-queen",
+        "forge-queen"
+      ],
+      "art": "categories/micro-architectures"
+    },
+    {
+      "id": "startup:cinematic-universe",
+      "kind": "startup",
+      "title": "Cinematic Universe",
+      "href": "startup-cinematic-universe.html",
+      "summary": "Create a shared story world where women shape the future as complex leads, makers and owners.",
+      "categoryIds": [
+        "humanities-and-fun"
+      ],
+      "queenIds": [
+        "dream-queen",
+        "spark-queen",
+        "lore-queen"
+      ],
+      "art": "categories/humanities-and-fun"
+    },
+    {
+      "id": "startup:just-in-time-learning",
+      "kind": "startup",
+      "title": "Just-In-Time Learning",
+      "href": "startup-just-in-time-learning.html",
+      "summary": "Offer useful learning at the moment someone is ready to do a real task.",
+      "categoryIds": [
+        "humanities-and-fun"
+      ],
+      "queenIds": [
+        "spark-queen",
+        "lore-queen",
+        "dream-queen"
+      ],
+      "art": "categories/humanities-and-fun"
+    },
+    {
+      "id": "startup:radical-life-extension",
+      "kind": "startup",
+      "title": "Radical Life Extension",
+      "href": "startup-radical-life-extension.html",
+      "summary": "Explore longevity research with a clear boundary between scientific questions and promises to people.",
+      "categoryIds": [
+        "humanities-and-fun"
+      ],
+      "queenIds": [
+        "lore-queen",
+        "dream-queen",
+        "shield-queen"
+      ],
+      "art": "categories/humanities-and-fun"
+    },
+    {
+      "id": "startup:micro-biome-mastery",
+      "kind": "startup",
+      "title": "Micro Biome Mastery",
+      "href": "startup-micro-biome-mastery.html",
+      "summary": "Help people understand microbiome research without promising mastery of a complex living system.",
+      "categoryIds": [
+        "humanities-and-fun"
+      ],
+      "queenIds": [
+        "seed-queen",
+        "lore-queen",
+        "shield-queen"
+      ],
+      "art": "categories/humanities-and-fun"
+    },
+    {
+      "id": "startup:sex-and-sexual-education",
+      "kind": "startup",
+      "title": "Sex and Sexual Education",
+      "href": "startup-sex-and-sexual-education.html",
+      "summary": "Create adult relationship and sexuality education shaped by consent, body diversity and honest questions.",
+      "categoryIds": [
+        "humanities-and-fun"
+      ],
+      "queenIds": [
+        "dream-queen",
+        "shield-queen",
+        "lore-queen"
+      ],
+      "art": "categories/humanities-and-fun"
+    },
+    {
+      "id": "startup:matrimony-of-many",
+      "kind": "startup",
+      "title": "Matrimony of Many",
+      "href": "startup-matrimony-of-many.html",
+      "summary": "Explore how adults in varied households can make care, responsibilities and decisions explicit.",
+      "categoryIds": [
+        "humanities-and-fun"
+      ],
+      "queenIds": [
+        "dream-queen",
+        "shield-queen",
+        "lore-queen"
+      ],
+      "art": "categories/humanities-and-fun"
+    },
+    {
+      "id": "startup:game-design-school",
+      "kind": "startup",
+      "title": "Game Design School",
+      "href": "startup-game-design-school.html",
+      "summary": "Build a game-design learning studio where women create the worlds, rules and business decisions.",
+      "categoryIds": [
+        "humanities-and-fun"
+      ],
+      "queenIds": [
+        "spark-queen",
+        "dream-queen",
+        "forge-queen"
+      ],
+      "art": "categories/humanities-and-fun"
+    },
+    {
+      "id": "startup:mental-health-support",
+      "kind": "startup",
+      "title": "Mental Health Support",
+      "href": "startup-mental-health-support.html",
+      "summary": "Help people find a suitable next human support step without turning distress into a product label.",
+      "categoryIds": [
+        "humanities-and-fun"
+      ],
+      "queenIds": [
+        "dream-queen",
+        "shield-queen",
+        "lore-queen"
+      ],
+      "art": "categories/humanities-and-fun"
+    },
+    {
+      "id": "startup:creativity-and-performance-art",
+      "kind": "startup",
+      "title": "Creativity and Performance Art",
+      "href": "startup-creativity-and-performance-art.html",
+      "summary": "Create paid stages and shared production resources for women with many ways of being visible.",
+      "categoryIds": [
+        "humanities-and-fun"
+      ],
+      "queenIds": [
+        "dream-queen",
+        "spark-queen",
+        "silk-queen"
+      ],
+      "art": "categories/humanities-and-fun"
+    },
+    {
+      "id": "startup:philosophy-and-life-long-learning",
+      "kind": "startup",
+      "title": "Philosophy and Life Long Learning",
+      "href": "startup-philosophy-and-life-long-learning.html",
+      "summary": "Make sustained philosophical learning part of ordinary community life and practical decision-making.",
+      "categoryIds": [
+        "humanities-and-fun"
+      ],
+      "queenIds": [
+        "lore-queen",
+        "dream-queen",
+        "shield-queen"
+      ],
+      "art": "categories/humanities-and-fun"
+    },
+    {
+      "id": "startup:aged-care-and-ndis",
+      "kind": "startup",
+      "title": "Aged Care and NDIS",
+      "href": "startup-aged-care-and-ndis.html",
+      "summary": "Find care-service opportunities by listening to the people receiving and delivering the work.",
+      "categoryIds": [
+        "market-analysis"
+      ],
+      "queenIds": [
+        "silk-queen",
+        "shield-queen",
+        "dream-queen"
+      ],
+      "art": "categories/market-analysis"
+    },
+    {
+      "id": "startup:education-and-training",
+      "kind": "startup",
+      "title": "Education and Training",
+      "href": "startup-education-and-training.html",
+      "summary": "Identify training opportunities from real learner barriers and actual tasks employers need done.",
+      "categoryIds": [
+        "market-analysis"
+      ],
+      "queenIds": [
+        "silk-queen",
+        "spark-queen",
+        "lore-queen"
+      ],
+      "art": "categories/market-analysis"
+    },
+    {
+      "id": "startup:mental-health-happiness",
+      "kind": "startup",
+      "title": "Mental Health & Happiness",
+      "href": "startup-mental-health-happiness.html",
+      "summary": "Study what people say would improve their wellbeing without reducing happiness to a sales score.",
+      "categoryIds": [
+        "market-analysis"
+      ],
+      "queenIds": [
+        "silk-queen",
+        "dream-queen",
+        "shield-queen"
+      ],
+      "art": "categories/market-analysis"
+    },
+    {
+      "id": "startup:physical-health-living-standards",
+      "kind": "startup",
+      "title": "Physical Health & Living Standards",
+      "href": "startup-physical-health-living-standards.html",
+      "summary": "Connect everyday living conditions with practical opportunities for healthier, easier lives.",
+      "categoryIds": [
+        "market-analysis"
+      ],
+      "queenIds": [
+        "silk-queen",
+        "river-queen",
+        "dream-queen"
+      ],
+      "art": "categories/market-analysis"
+    },
+    {
+      "id": "startup:migration-international-students",
+      "kind": "startup",
+      "title": "Migration & International Students",
+      "href": "startup-migration-international-students.html",
+      "summary": "Understand how newcomers find belonging, useful information and fair opportunities in Australia.",
+      "categoryIds": [
+        "market-analysis"
+      ],
+      "queenIds": [
+        "silk-queen",
+        "shield-queen",
+        "lore-queen"
+      ],
+      "art": "categories/market-analysis"
+    },
+    {
+      "id": "startup:pandemics-plagues-extreme-weather",
+      "kind": "startup",
+      "title": "Pandemics, Plagues & Extreme Weather",
+      "href": "startup-pandemics-plagues-extreme-weather.html",
+      "summary": "Help communities compare disruption needs through practical continuity exercises and current official information.",
+      "categoryIds": [
+        "market-analysis"
+      ],
+      "queenIds": [
+        "silk-queen",
+        "storm-queen",
+        "shield-queen"
+      ],
+      "art": "categories/market-analysis"
+    },
+    {
+      "id": "startup:agriculture-and-aquaculture",
+      "kind": "startup",
+      "title": "Agriculture and Aquaculture",
+      "href": "startup-agriculture-and-aquaculture.html",
+      "summary": "Find food-production opportunities by tracing one product from grower or producer to a willing customer.",
+      "categoryIds": [
+        "market-analysis"
+      ],
+      "queenIds": [
+        "silk-queen",
+        "seed-queen",
+        "river-queen"
+      ],
+      "art": "categories/market-analysis"
+    },
+    {
+      "id": "startup:housing-and-tourism",
+      "kind": "startup",
+      "title": "Housing and Tourism",
+      "href": "startup-housing-and-tourism.html",
+      "summary": "Study housing and visitor-economy choices together without treating residents as an afterthought.",
+      "categoryIds": [
+        "market-analysis"
+      ],
+      "queenIds": [
+        "silk-queen",
+        "river-queen",
+        "shield-queen"
+      ],
+      "art": "categories/market-analysis"
+    },
+    {
+      "id": "startup:population-stability",
+      "kind": "startup",
+      "title": "Population Stability",
+      "href": "startup-population-stability.html",
+      "summary": "Explore population change through community needs, personal choice and transparent scenarios.",
+      "categoryIds": [
+        "market-analysis"
+      ],
+      "queenIds": [
+        "silk-queen",
+        "lore-queen",
+        "shield-queen"
+      ],
+      "art": "categories/market-analysis"
+    },
+    {
+      "id": "startup:governing-protocol-confidence",
+      "kind": "startup",
+      "title": "Governing Protocol & Confidence",
+      "href": "startup-governing-protocol-confidence.html",
+      "summary": "Make shared decisions easier to follow, challenge and improve.",
+      "categoryIds": [
+        "market-analysis"
+      ],
+      "queenIds": [
+        "shield-queen",
+        "lore-queen",
+        "silk-queen"
+      ],
+      "art": "categories/market-analysis"
+    },
+    {
+      "id": "startup:500-queens-aura-framework",
+      "kind": "startup",
+      "title": "500 Queens: Aura Framework",
+      "href": "startup-500-queens-aura-framework.html",
+      "summary": "Connect the Queens, founders and project ideas through a transparent, human-led learning network.",
+      "categoryIds": [
+        "aura-of-intelligence"
+      ],
+      "queenIds": [
+        "super-queen",
+        "shield-queen",
+        "spark-queen"
+      ],
+      "art": "categories/aura-of-intelligence"
+    },
+    {
+      "id": "startup:aura-events-on-nvidia-dgx1",
+      "kind": "startup",
+      "title": "Aura Events on NVIDIA DGX1",
+      "href": "startup-aura-events-on-nvidia-dgx1.html",
+      "summary": "Explore shared AI events through a real workload, welcoming participation and transparent computing needs.",
+      "categoryIds": [
+        "aura-of-intelligence"
+      ],
+      "queenIds": [
+        "super-queen",
+        "spark-queen",
+        "forge-queen"
+      ],
+      "art": "categories/aura-of-intelligence"
+    },
+    {
+      "id": "startup:queens-wharf-conscious-a-i-art",
+      "kind": "startup",
+      "title": "Queens Wharf Conscious A.i. Art",
+      "href": "startup-queens-wharf-conscious-a-i-art.html",
+      "summary": "Create public AI art that invites people to question consciousness, agency and the futures they want.",
+      "categoryIds": [
+        "aura-of-intelligence"
+      ],
+      "queenIds": [
+        "dream-queen",
+        "super-queen",
+        "lore-queen"
+      ],
+      "art": "categories/aura-of-intelligence"
+    },
+    {
+      "id": "startup:magic-mirror-conscious-aura",
+      "kind": "startup",
+      "title": "Magic Mirror Conscious Aura",
+      "href": "startup-magic-mirror-conscious-aura.html",
+      "summary": "Explore a reflective AI interface that respects the person in front of it.",
+      "categoryIds": [
+        "aura-of-intelligence"
+      ],
+      "queenIds": [
+        "super-queen",
+        "dream-queen",
+        "shield-queen"
+      ],
+      "art": "categories/aura-of-intelligence"
+    },
+    {
+      "id": "startup:millionaire-aura",
+      "kind": "startup",
+      "title": "Millionaire Aura",
+      "href": "startup-millionaire-aura.html",
+      "summary": "Explore a personal Aura service for complex projects without promising that AI creates wealth.",
+      "categoryIds": [
+        "aura-of-intelligence"
+      ],
+      "queenIds": [
+        "super-queen",
+        "silk-queen",
+        "shield-queen"
+      ],
+      "art": "categories/aura-of-intelligence"
+    },
+    {
+      "id": "startup:billionaire-aura",
+      "kind": "startup",
+      "title": "Billionaire Aura",
+      "href": "startup-billionaire-aura.html",
+      "summary": "Explore large-scale stewardship with visible responsibilities, evidence and human accountability.",
+      "categoryIds": [
+        "aura-of-intelligence"
+      ],
+      "queenIds": [
+        "super-queen",
+        "shield-queen",
+        "lore-queen"
+      ],
+      "art": "categories/aura-of-intelligence"
+    },
+    {
+      "id": "startup:intimate-values-underwear",
+      "kind": "startup",
+      "title": "Intimate Values Underwear",
+      "href": "startup-intimate-values-underwear.html",
+      "summary": "Design intimate apparel around women's own definitions of comfort, support, beauty and identity.",
+      "categoryIds": [
+        "aura-of-intelligence"
+      ],
+      "queenIds": [
+        "dream-queen",
+        "forge-queen",
+        "silk-queen"
+      ],
+      "art": "categories/aura-of-intelligence"
+    },
+    {
+      "id": "startup:ndis-aura-development",
+      "kind": "startup",
+      "title": "NDIS Aura Development",
+      "href": "startup-ndis-aura-development.html",
+      "summary": "Co-design an Aura support tool around a disabled person's chosen task and control.",
+      "categoryIds": [
+        "aura-of-intelligence"
+      ],
+      "queenIds": [
+        "super-queen",
+        "shield-queen",
+        "dream-queen"
+      ],
+      "art": "categories/aura-of-intelligence"
+    },
+    {
+      "id": "startup:aged-care-aura-development",
+      "kind": "startup",
+      "title": "Aged Care Aura Development",
+      "href": "startup-aged-care-aura-development.html",
+      "summary": "Explore AI assistance that supports older people's preferences and the people caring alongside them.",
+      "categoryIds": [
+        "aura-of-intelligence"
+      ],
+      "queenIds": [
+        "super-queen",
+        "dream-queen",
+        "shield-queen"
+      ],
+      "art": "categories/aura-of-intelligence"
+    },
+    {
+      "id": "startup:female-prisoner-rehabilitation",
+      "kind": "startup",
+      "title": "Female Prisoner Rehabilitation",
+      "href": "startup-female-prisoner-rehabilitation.html",
+      "summary": "Support women returning from prison through participant-led learning, practical access and accountable human relationships.",
+      "categoryIds": [
+        "aura-of-intelligence"
+      ],
+      "queenIds": [
+        "shield-queen",
+        "dream-queen",
+        "super-queen"
+      ],
+      "art": "categories/aura-of-intelligence"
+    }
+  ],
+  "categories": [
+    {
+      "id": "simulations-and-robots",
+      "title": "Simulations and robots",
+      "summary": "Use models, software and machines to make a specific human task easier, safer or better understood. This broad strand connects care and hospitality with creative worlds, scientific observation and ambitious infrastructure. The twenty original suggestions are different starting points, not one product roadmap.",
+      "href": "category-simulations-and-robots.html",
+      "queenIds": [
+        "star-queen",
+        "forge-queen",
+        "super-queen",
+        "dream-queen"
+      ],
+      "sharedInfrastructure": [
+        "A shared simulation and data workspace with source records, units, assumptions and version history.",
+        "Accessible prototype facilities where different bodies, communication styles and levels of technical experience can participate.",
+        "Human mentors in robotics, operations, care and science who review the boundary between a demonstration and a deployable service."
+      ]
+    },
+    {
+      "id": "clean-power-systems",
+      "title": "Clean power systems",
+      "summary": "Begin with the energy service people need: a reliable home, a working workshop, useful heat, transport or clean water. The ten original suggestions include established engineering pathways and frontier research. Each needs its own evidence, customer and complete accounting of inputs and outputs.",
+      "href": "category-clean-power-systems.html",
+      "queenIds": [
+        "ember-queen",
+        "river-queen",
+        "forge-queen"
+      ],
+      "sharedInfrastructure": [
+        "A common load-data and comparison method, with the same service requirement applied to every option.",
+        "Qualified electrical, mechanical, water and marine advice appropriate to the specific proposal.",
+        "A service and maintenance knowledge base that records spare parts, response times, training and whole-life responsibilities."
+      ]
+    },
+    {
+      "id": "closed-loop-food",
+      "title": "Closed-loop food",
+      "summary": "Connect food people enjoy with reliable production, useful livelihoods and careful use of materials. The ten original themes span familiar crops, seafood, fungi, insects and scientific research. A loop is a design question: its inputs, outputs, losses and responsibilities still need to be measured.",
+      "href": "category-closed-loop-food.html",
+      "queenIds": [
+        "seed-queen",
+        "river-queen",
+        "silk-queen"
+      ],
+      "sharedInfrastructure": [
+        "A shared product-brief format covering the customer, ingredient provenance, quality requirements, handling and repeat demand.",
+        "Access to qualified food-development, production and laboratory partners for the chosen application.",
+        "A producer-and-buyer coordination service that distinguishes forecasts from confirmed orders and records the complete labour and material balance."
+      ]
+    },
+    {
+      "id": "waste-reclamation",
+      "title": "Waste reclamation",
+      "summary": "Keep useful products and materials in service by matching a specific stream to a real need. The ten original suggestions range from computer repair and farm residues to specialised industrial and nuclear research questions. They require different expertise and must not be treated as interchangeable recovery opportunities.",
+      "href": "category-waste-reclamation.html",
+      "queenIds": [
+        "forge-queen",
+        "river-queen",
+        "seed-queen",
+        "shield-queen"
+      ],
+      "sharedInfrastructure": [
+        "A material register recording source, ownership, composition, contamination, volume, seasonal variation and intended destination.",
+        "Relationships with qualified testing, repair and authorised handling partners suited to each stream.",
+        "A common costing method that includes collection, preparation, storage, transport, quality checks and material that cannot be sold."
+      ]
+    },
+    {
+      "id": "subterranean-cities",
+      "title": "Subterranean cities",
+      "summary": "Use a bold habitat vision to ask concrete questions about a life people would choose, the services it depends on and who decides its future. The ten original themes include preservation, excavation, maintenance, production, transport, life support, governance and entertainment. City-scale feasibility remains unproven.",
+      "href": "category-subterranean-cities.html",
+      "queenIds": [
+        "star-queen",
+        "forge-queen",
+        "ember-queen",
+        "dream-queen",
+        "shield-queen"
+      ],
+      "sharedInfrastructure": [
+        "A transparent dependency model connecting air, water, food, energy, waste, access, communications, maintenance and human responsibilities.",
+        "Full-size surface mock-ups and digital scenarios for accessibility, maintenance and everyday-life review without relying on an unproven habitat.",
+        "Qualified engineering and human-factors mentors alongside people who would use, clean, maintain and govern the proposed spaces."
+      ]
+    },
+    {
+      "id": "extreme-metamaterials",
+      "title": "Extreme metamaterials",
+      "summary": "Materials shape what an invention can do, how long it lasts and whether it can be repaired. This category brings together polymers, ceramics, crystals, electrodes, optics and more demanding research ambitions. Its starting discipline is simple: name the property, identify the sample and measure it under conditions that matter. A striking material image or an extreme title is an invitation to investigate, not proof of a breakthrough.",
+      "href": "category-extreme-metamaterials.html",
+      "queenIds": [
+        "forge-queen",
+        "ember-queen",
+        "super-queen"
+      ],
+      "sharedInfrastructure": [
+        "A common sample register linking preparation, handling and measurements",
+        "Access arrangements with qualified laboratories and fabrication partners",
+        "A library of customer requirements and conventional comparison materials",
+        "Clear contributor credit, intellectual-property decisions and reproducible test records"
+      ]
+    },
+    {
+      "id": "space-industry",
+      "title": "Space industry",
+      "summary": "Space enterprises connect human needs with unforgiving engineering questions. This category spans inclusive spacewear, radiation research, fabrication, large payloads, long-duration habitats and openly speculative travel ideas. The scale of the vision is welcome, but every project needs a clear account of what can be tested on Earth, what depends on a future mission and what remains a question in fundamental science.",
+      "href": "category-space-industry.html",
+      "queenIds": [
+        "star-queen",
+        "forge-queen",
+        "ember-queen",
+        "dream-queen"
+      ],
+      "sharedInfrastructure": [
+        "A shared mission-assumption register with no implied launch or venue agreements",
+        "Technical review across structures, energy, materials and human factors",
+        "Earth-based analogues that clearly state where the comparison fails",
+        "Inclusive fit, access and maintenance requirements for every human-facing design"
+      ]
+    },
+    {
+      "id": "micro-architectures",
+      "title": "Micro-architectures",
+      "summary": "Small devices can create large possibilities, from an ordinary sensor that saves a worker time to a frontier experiment about quantum information. This category connects electronics, chip design, fluid systems, near-eye displays and molecular or programmable-matter ideas. Each entry should explain its mechanism, inputs, outputs and evidence before asking readers to accept a future application.",
+      "href": "category-micro-architectures.html",
+      "queenIds": [
+        "forge-queen",
+        "super-queen",
+        "lore-queen"
+      ],
+      "sharedInfrastructure": [
+        "Reproducible design files, test inputs and documented software environments",
+        "A conventional reference against which new approaches can be compared",
+        "Accessible maker tools and clearly defined specialist laboratory partnerships",
+        "Shared review of data control, human interfaces and maintenance requirements"
+      ]
+    },
+    {
+      "id": "humanities-and-fun",
+      "title": "Humanities and fun",
+      "summary": "A good future needs stories, pleasure, learning, friendship and room to ask difficult questions. These enterprises connect creative work with everyday wellbeing and the ways people choose to live together. Some can begin as a small production or learning circle. Others, such as radical life extension, belong to research and should never be presented as a ready-made personal benefit.",
+      "href": "category-humanities-and-fun.html",
+      "queenIds": [
+        "dream-queen",
+        "spark-queen",
+        "lore-queen",
+        "shield-queen"
+      ],
+      "sharedInfrastructure": [
+        "Clear creative rights, payment and contributor credit",
+        "Accessible venues, production tools and remote participation routes",
+        "Qualified reviewers for health, relationship and specialist research material",
+        "Participant-led feedback that does not require intimate personal disclosure"
+      ]
+    },
+    {
+      "id": "market-analysis",
+      "title": "Market analysis",
+      "summary": "A market is made of people, routines, institutions and unmet needs, not just a large number in a pitch deck. This category investigates care, learning, wellbeing, migration, disruption, food, housing, population change and governance. Its purpose is to discover a useful service question with the people affected, then test whether a proposed enterprise can answer it.",
+      "href": "category-market-analysis.html",
+      "queenIds": [
+        "silk-queen",
+        "shield-queen",
+        "lore-queen"
+      ],
+      "sharedInfrastructure": [
+        "Dated source records with clear definitions and gaps",
+        "Paid participant involvement and accessible interview formats",
+        "Transparent assumptions, scenarios and conflict-of-interest records",
+        "A route from findings to a willing organisation's actual decision"
+      ]
+    },
+    {
+      "id": "aura-of-intelligence",
+      "title": "Aura of Intelligence",
+      "summary": "Aura brings the network's questions about intelligence, identity, assistance and responsibility into everyday life. The ideas range from the Queens framework and public art to personal interfaces, inclusive apparel and participant-led care tools. Consciousness remains a philosophical and research question. A persona, mirror or generated response is not evidence that a system is conscious.",
+      "href": "category-aura-of-intelligence.html",
+      "queenIds": [
+        "super-queen",
+        "shield-queen",
+        "dream-queen",
+        "spark-queen"
+      ],
+      "sharedInfrastructure": [
+        "Visible distinctions between authored personas, generated outputs and human-reviewed information",
+        "Participant control over purpose, memory, correction and deletion",
+        "Accessible non-AI and human support routes",
+        "Shared project records showing proposed, tested and operational capabilities separately"
+      ]
+    }
+  ],
+  "queens": [
+    {
+      "id": "spark-queen",
+      "title": "Spark Queen",
+      "summary": "Give the idea a first, testable form.",
+      "href": "queen-spark-queen.html",
+      "categoryIds": [
+        "humanities-and-fun",
+        "micro-architectures",
+        "market-analysis"
+      ],
+      "group": "pillar"
+    },
+    {
+      "id": "shield-queen",
+      "title": "Shield Queen",
+      "summary": "Understand the agreement before the signature.",
+      "href": "queen-shield-queen.html",
+      "categoryIds": [
+        "market-analysis",
+        "aura-of-intelligence",
+        "extreme-metamaterials"
+      ],
+      "group": "pillar"
+    },
+    {
+      "id": "seed-queen",
+      "title": "Seed Queen",
+      "summary": "Grow an enterprise that can keep growing.",
+      "href": "queen-seed-queen.html",
+      "categoryIds": [
+        "closed-loop-food",
+        "waste-reclamation",
+        "clean-power-systems"
+      ],
+      "group": "pillar"
+    },
+    {
+      "id": "storm-queen",
+      "title": "Storm Queen",
+      "summary": "Make the message earn attention.",
+      "href": "queen-storm-queen.html",
+      "categoryIds": [
+        "humanities-and-fun",
+        "market-analysis",
+        "aura-of-intelligence"
+      ],
+      "group": "pillar"
+    },
+    {
+      "id": "star-queen",
+      "title": "Star Queen",
+      "summary": "Hold the long horizon. Choose the next measurement.",
+      "href": "queen-star-queen.html",
+      "categoryIds": [
+        "space-industry",
+        "simulations-and-robots",
+        "extreme-metamaterials"
+      ],
+      "group": "pillar"
+    },
+    {
+      "id": "super-queen",
+      "title": "Super Queen (Aura)",
+      "summary": "Bring the parts into a system people can trust.",
+      "href": "queen-super-queen.html",
+      "categoryIds": [
+        "aura-of-intelligence",
+        "simulations-and-robots",
+        "market-analysis"
+      ],
+      "group": "pillar"
+    },
+    {
+      "id": "river-queen",
+      "title": "River Queen",
+      "summary": "Follow the water, and the people who depend on it.",
+      "href": "queen-river-queen.html",
+      "categoryIds": [
+        "closed-loop-food",
+        "waste-reclamation",
+        "clean-power-systems"
+      ],
+      "group": "pillar"
+    },
+    {
+      "id": "forge-queen",
+      "title": "Forge Queen",
+      "summary": "Build it. Measure it. Improve it.",
+      "href": "queen-forge-queen.html",
+      "categoryIds": [
+        "extreme-metamaterials",
+        "micro-architectures",
+        "simulations-and-robots"
+      ],
+      "group": "pillar"
+    },
+    {
+      "id": "ember-queen",
+      "title": "Ember Queen",
+      "summary": "Make essential systems dependable.",
+      "href": "queen-ember-queen.html",
+      "categoryIds": [
+        "clean-power-systems",
+        "subterranean-cities",
+        "micro-architectures"
+      ],
+      "group": "pillar"
+    },
+    {
+      "id": "silk-queen",
+      "title": "Silk Queen",
+      "summary": "Build relationships that can carry real trade.",
+      "href": "queen-silk-queen.html",
+      "categoryIds": [
+        "market-analysis",
+        "extreme-metamaterials",
+        "humanities-and-fun"
+      ],
+      "group": "pillar"
+    },
+    {
+      "id": "lore-queen",
+      "title": "Lore Queen",
+      "summary": "Make power, responsibility and participation clear.",
+      "href": "queen-lore-queen.html",
+      "categoryIds": [
+        "market-analysis",
+        "aura-of-intelligence",
+        "humanities-and-fun"
+      ],
+      "group": "pillar"
+    },
+    {
+      "id": "dream-queen",
+      "title": "Dream Queen",
+      "summary": "Help people imagine a future they can take part in.",
+      "href": "queen-dream-queen.html",
+      "categoryIds": [
+        "humanities-and-fun",
+        "simulations-and-robots",
+        "aura-of-intelligence"
+      ],
+      "group": "pillar"
+    },
+    {
+      "id": "rainbow-serpent-queen",
+      "title": "Rainbow Serpent Queen",
+      "summary": "Begin with relationship, place and the people entitled to speak.",
+      "href": "queen-rainbow-serpent-queen.html",
+      "categoryIds": [
+        "closed-loop-food",
+        "humanities-and-fun",
+        "aura-of-intelligence"
+      ],
+      "group": "cultural"
+    },
+    {
+      "id": "dragon-queen",
+      "title": "Dragon Queen",
+      "summary": "Translate ambition into a relationship that works both ways.",
+      "href": "queen-dragon-queen.html",
+      "categoryIds": [
+        "extreme-metamaterials",
+        "market-analysis",
+        "simulations-and-robots"
+      ],
+      "group": "cultural"
+    },
+    {
+      "id": "lotus-queen",
+      "title": "Lotus Queen",
+      "summary": "Let ambition and your chosen commitments fit in the same life.",
+      "href": "queen-lotus-queen.html",
+      "categoryIds": [
+        "aura-of-intelligence",
+        "closed-loop-food",
+        "humanities-and-fun"
+      ],
+      "group": "cultural"
+    },
+    {
+      "id": "olive-queen",
+      "title": "Olive Queen",
+      "summary": "Carry what is valuable forward, and make room for change.",
+      "href": "queen-olive-queen.html",
+      "categoryIds": [
+        "closed-loop-food",
+        "market-analysis",
+        "humanities-and-fun"
+      ],
+      "group": "cultural"
+    },
+    {
+      "id": "crescent-queen",
+      "title": "Crescent Queen",
+      "summary": "Make your values visible in how the enterprise works.",
+      "href": "queen-crescent-queen.html",
+      "categoryIds": [
+        "market-analysis",
+        "aura-of-intelligence",
+        "humanities-and-fun"
+      ],
+      "group": "cultural"
+    },
+    {
+      "id": "coral-queen",
+      "title": "Coral Queen",
+      "summary": "Let connected communities shape the work.",
+      "href": "queen-coral-queen.html",
+      "categoryIds": [
+        "closed-loop-food",
+        "clean-power-systems",
+        "waste-reclamation"
+      ],
+      "group": "cultural"
+    },
+    {
+      "id": "clover-queen",
+      "title": "Clover Queen",
+      "summary": "Make a place for imagination and useful shared work.",
+      "href": "queen-clover-queen.html",
+      "categoryIds": [
+        "humanities-and-fun",
+        "micro-architectures",
+        "aura-of-intelligence"
+      ],
+      "group": "cultural"
+    },
+    {
+      "id": "flame-queen",
+      "title": "Flame Queen",
+      "summary": "Claim authority, build capability and open the next door.",
+      "href": "queen-flame-queen.html",
+      "categoryIds": [
+        "market-analysis",
+        "humanities-and-fun",
+        "extreme-metamaterials"
+      ],
+      "group": "cultural"
+    },
+    {
+      "id": "phoenix-queen",
+      "title": "Phoenix Queen",
+      "summary": "Use what you have learned to begin again with purpose.",
+      "href": "queen-phoenix-queen.html",
+      "categoryIds": [
+        "market-analysis",
+        "aura-of-intelligence",
+        "humanities-and-fun"
+      ],
+      "group": "cultural"
+    },
+    {
+      "id": "sun-queen",
+      "title": "Sun Queen",
+      "summary": "Understand inherited advantage, then use authority responsibly.",
+      "href": "queen-sun-queen.html",
+      "categoryIds": [
+        "market-analysis",
+        "aura-of-intelligence",
+        "space-industry"
+      ],
+      "group": "cultural"
+    },
+    {
+      "id": "pearl-queen",
+      "title": "Pearl Queen",
+      "summary": "You can belong to more than one story.",
+      "href": "queen-pearl-queen.html",
+      "categoryIds": [
+        "humanities-and-fun",
+        "market-analysis",
+        "aura-of-intelligence"
+      ],
+      "group": "cultural"
+    },
+    {
+      "id": "prism-queen",
+      "title": "Prism Queen",
+      "summary": "Design belonging into the work itself.",
+      "href": "queen-prism-queen.html",
+      "categoryIds": [
+        "aura-of-intelligence",
+        "micro-architectures",
+        "humanities-and-fun"
+      ],
+      "group": "cultural"
+    }
+  ],
+  "startups": [
+    {
+      "id": "aged-care-support-systems",
+      "title": "Aged Care Support Systems",
+      "summary": "Give older people more control over everyday support, while making the work of care teams easier.",
+      "href": "startup-aged-care-support-systems.html",
+      "categoryId": "simulations-and-robots",
+      "queenIds": [
+        "dream-queen",
+        "shield-queen",
+        "super-queen"
+      ],
+      "stage": "Practical pilot"
+    },
+    {
+      "id": "ndis-support-systems",
+      "title": "NDIS Support Systems",
+      "summary": "Build disability support around a person's goals, access needs and authority over their own life.",
+      "href": "startup-ndis-support-systems.html",
+      "categoryId": "simulations-and-robots",
+      "queenIds": [
+        "shield-queen",
+        "dream-queen",
+        "super-queen"
+      ],
+      "stage": "Practical pilot"
+    },
+    {
+      "id": "smart-city-capsule-hotels",
+      "title": "Smart City Capsule Hotels",
+      "summary": "Explore compact city accommodation that makes short stays dignified, accessible and easy to run.",
+      "href": "startup-smart-city-capsule-hotels.html",
+      "categoryId": "simulations-and-robots",
+      "queenIds": [
+        "star-queen",
+        "forge-queen",
+        "dream-queen"
+      ],
+      "stage": "Engineering development"
+    },
+    {
+      "id": "smart-city-quarantine-hotels",
+      "title": "Smart City Quarantine Hotels",
+      "summary": "Design adaptable accommodation workflows for public-health disruptions and supported isolation.",
+      "href": "startup-smart-city-quarantine-hotels.html",
+      "categoryId": "simulations-and-robots",
+      "queenIds": [
+        "shield-queen",
+        "star-queen",
+        "dream-queen"
+      ],
+      "stage": "Practical pilot"
+    },
+    {
+      "id": "automated-fleet-cleaning",
+      "title": "Automated Fleet Cleaning",
+      "summary": "Turn fleet cleaning into a measurable service for workers, vehicles and water use.",
+      "href": "startup-automated-fleet-cleaning.html",
+      "categoryId": "simulations-and-robots",
+      "queenIds": [
+        "forge-queen",
+        "river-queen",
+        "silk-queen"
+      ],
+      "stage": "Practical pilot"
+    },
+    {
+      "id": "frozen-food-warehouse-systems",
+      "title": "Frozen Food Warehouse Systems",
+      "summary": "Help cold stores keep food traceable, accessible and moving through the right temperature conditions.",
+      "href": "startup-frozen-food-warehouse-systems.html",
+      "categoryId": "simulations-and-robots",
+      "queenIds": [
+        "forge-queen",
+        "seed-queen",
+        "ember-queen"
+      ],
+      "stage": "Practical pilot"
+    },
+    {
+      "id": "space-port-island-construction",
+      "title": "Space Port Island Construction",
+      "summary": "Test the assumptions behind an island spaceport before proposing a site or construction programme.",
+      "href": "startup-space-port-island-construction.html",
+      "categoryId": "simulations-and-robots",
+      "queenIds": [
+        "star-queen",
+        "shield-queen",
+        "forge-queen"
+      ],
+      "stage": "Speculative concept"
+    },
+    {
+      "id": "east-coast-under-ocean-ufrt",
+      "title": "East Coast Under Ocean UFRT",
+      "summary": "Examine whether an under-ocean fast-transport vision has a useful, testable starting point.",
+      "href": "startup-east-coast-under-ocean-ufrt.html",
+      "categoryId": "simulations-and-robots",
+      "queenIds": [
+        "star-queen",
+        "forge-queen",
+        "shield-queen"
+      ],
+      "stage": "Speculative concept"
+    },
+    {
+      "id": "cinematic-universe-simulations",
+      "title": "Cinematic Universe Simulations",
+      "summary": "Use shared fictional worlds to explore real choices about future lives, communities and technology.",
+      "href": "startup-cinematic-universe-simulations.html",
+      "categoryId": "simulations-and-robots",
+      "queenIds": [
+        "dream-queen",
+        "spark-queen",
+        "star-queen"
+      ],
+      "stage": "Practical pilot"
+    },
+    {
+      "id": "space-weather-modelling",
+      "title": "Space Weather Modelling",
+      "summary": "Make space-weather observations easier to compare, explain and connect to operational decisions.",
+      "href": "startup-space-weather-modelling.html",
+      "categoryId": "simulations-and-robots",
+      "queenIds": [
+        "star-queen",
+        "super-queen",
+        "shield-queen"
+      ],
+      "stage": "Research frontier"
+    },
+    {
+      "id": "near-earth-object-mapping",
+      "title": "Near Earth Object Mapping",
+      "summary": "Help observers turn asteroid measurements into clear, traceable understanding of objects near Earth.",
+      "href": "startup-near-earth-object-mapping.html",
+      "categoryId": "simulations-and-robots",
+      "queenIds": [
+        "star-queen",
+        "super-queen",
+        "lore-queen"
+      ],
+      "stage": "Practical pilot"
+    },
+    {
+      "id": "100k-solar-system-satellite-web",
+      "title": "100K Solar System Satellite Web",
+      "summary": "Work backwards from a useful observation to the smallest satellite network that could provide it.",
+      "href": "startup-100k-solar-system-satellite-web.html",
+      "categoryId": "simulations-and-robots",
+      "queenIds": [
+        "star-queen",
+        "forge-queen",
+        "super-queen"
+      ],
+      "stage": "Research frontier"
+    },
+    {
+      "id": "off-world-mining-and-refining",
+      "title": "Off World Mining and Refining",
+      "summary": "Turn off-world resource ambitions into material-handling experiments with clear terrestrial value.",
+      "href": "startup-off-world-mining-and-refining.html",
+      "categoryId": "simulations-and-robots",
+      "queenIds": [
+        "star-queen",
+        "forge-queen",
+        "ember-queen"
+      ],
+      "stage": "Research frontier"
+    },
+    {
+      "id": "earthquake-volcano-prediction",
+      "title": "Earthquake/Volcano Prediction",
+      "summary": "Improve hazard understanding while clearly separating earthquake prediction from monitoring and preparedness.",
+      "href": "startup-earthquake-volcano-prediction.html",
+      "categoryId": "simulations-and-robots",
+      "queenIds": [
+        "star-queen",
+        "shield-queen",
+        "lore-queen"
+      ],
+      "stage": "Research frontier"
+    },
+    {
+      "id": "quantum-computing-frameworks",
+      "title": "Quantum Computing Frameworks",
+      "summary": "Help teams understand where quantum computing might fit, using honest comparisons with conventional methods.",
+      "href": "startup-quantum-computing-frameworks.html",
+      "categoryId": "simulations-and-robots",
+      "queenIds": [
+        "super-queen",
+        "forge-queen",
+        "lore-queen"
+      ],
+      "stage": "Research frontier"
+    },
+    {
+      "id": "global-governance-networks",
+      "title": "Global Governance Networks",
+      "summary": "Connect local decisions through transparent agreements, shared learning and accountable representation.",
+      "href": "startup-global-governance-networks.html",
+      "categoryId": "simulations-and-robots",
+      "queenIds": [
+        "shield-queen",
+        "lore-queen",
+        "silk-queen"
+      ],
+      "stage": "Practical pilot"
+    },
+    {
+      "id": "fukushima-extreme-robotics",
+      "title": "Fukushima Extreme Robotics",
+      "summary": "Build remote-handling capability for difficult environments without claiming access to Fukushima operations.",
+      "href": "startup-fukushima-extreme-robotics.html",
+      "categoryId": "simulations-and-robots",
+      "queenIds": [
+        "forge-queen",
+        "shield-queen",
+        "star-queen"
+      ],
+      "stage": "Engineering development"
+    },
+    {
+      "id": "subterranean-city-building",
+      "title": "Subterranean City Building",
+      "summary": "Break the underground-city vision into inspectable systems, human needs and decisions that can be tested.",
+      "href": "startup-subterranean-city-building.html",
+      "categoryId": "simulations-and-robots",
+      "queenIds": [
+        "star-queen",
+        "forge-queen",
+        "dream-queen"
+      ],
+      "stage": "Speculative concept"
+    },
+    {
+      "id": "live-aid-2025-cities-50k-people",
+      "title": "Live Aid 2025 Cities >50K People",
+      "summary": "Reinterpret the archive's city-scale Live Aid ambition as a practical network of locally led creative events.",
+      "href": "startup-live-aid-2025-cities-50k-people.html",
+      "categoryId": "simulations-and-robots",
+      "queenIds": [
+        "spark-queen",
+        "dream-queen",
+        "silk-queen"
+      ],
+      "stage": "Practical pilot"
+    },
+    {
+      "id": "live-aid-2025-artistic-world-vote",
+      "title": "Live Aid 2025 Artistic World Vote",
+      "summary": "Explore fair audience participation that celebrates art without turning popularity into the only measure of value.",
+      "href": "startup-live-aid-2025-artistic-world-vote.html",
+      "categoryId": "simulations-and-robots",
+      "queenIds": [
+        "dream-queen",
+        "shield-queen",
+        "spark-queen"
+      ],
+      "stage": "Practical pilot"
+    },
+    {
+      "id": "tidal-and-wave-power",
+      "title": "Tidal and Wave Power",
+      "summary": "Find a coastal energy use that might justify careful testing of tidal or wave technology.",
+      "href": "startup-tidal-and-wave-power.html",
+      "categoryId": "clean-power-systems",
+      "queenIds": [
+        "ember-queen",
+        "river-queen",
+        "forge-queen"
+      ],
+      "stage": "Engineering development"
+    },
+    {
+      "id": "solar-desalination-bubbles",
+      "title": "Solar Desalination Bubbles",
+      "summary": "Test whether a solar desalination concept can produce useful water with a manageable maintenance burden.",
+      "href": "startup-solar-desalination-bubbles.html",
+      "categoryId": "clean-power-systems",
+      "queenIds": [
+        "river-queen",
+        "ember-queen",
+        "forge-queen"
+      ],
+      "stage": "Engineering development"
+    },
+    {
+      "id": "mid-level-plasma-fusion",
+      "title": "Mid Level Plasma Fusion",
+      "summary": "Convert a fusion-energy ambition into a precise research question and an independently reviewable experiment.",
+      "href": "startup-mid-level-plasma-fusion.html",
+      "categoryId": "clean-power-systems",
+      "queenIds": [
+        "ember-queen",
+        "forge-queen",
+        "star-queen"
+      ],
+      "stage": "Research frontier"
+    },
+    {
+      "id": "pumped-water-storage",
+      "title": "Pumped Water Storage",
+      "summary": "Assess pumped water storage as one option for matching energy supply with the times people need it.",
+      "href": "startup-pumped-water-storage.html",
+      "categoryId": "clean-power-systems",
+      "queenIds": [
+        "ember-queen",
+        "river-queen",
+        "shield-queen"
+      ],
+      "stage": "Engineering development"
+    },
+    {
+      "id": "battery-technology",
+      "title": "Battery Technology",
+      "summary": "Build a battery service around the job the customer needs done and the full life of the equipment.",
+      "href": "startup-battery-technology.html",
+      "categoryId": "clean-power-systems",
+      "queenIds": [
+        "ember-queen",
+        "forge-queen",
+        "silk-queen"
+      ],
+      "stage": "Practical pilot"
+    },
+    {
+      "id": "superchargers",
+      "title": "Superchargers",
+      "summary": "Plan fast-charging access around real journeys, usable spaces and the local electricity supply.",
+      "href": "startup-superchargers.html",
+      "categoryId": "clean-power-systems",
+      "queenIds": [
+        "ember-queen",
+        "forge-queen",
+        "dream-queen"
+      ],
+      "stage": "Practical pilot"
+    },
+    {
+      "id": "solar-concentration-furnaces",
+      "title": "Solar Concentration Furnaces",
+      "summary": "Match concentrated solar heat to a specific process before designing a furnace around it.",
+      "href": "startup-solar-concentration-furnaces.html",
+      "categoryId": "clean-power-systems",
+      "queenIds": [
+        "ember-queen",
+        "forge-queen",
+        "lore-queen"
+      ],
+      "stage": "Engineering development"
+    },
+    {
+      "id": "bladeless-wind-turbines",
+      "title": "Bladeless Wind Turbines",
+      "summary": "Evaluate a bladeless wind concept against measured output and the needs of a real location.",
+      "href": "startup-bladeless-wind-turbines.html",
+      "categoryId": "clean-power-systems",
+      "queenIds": [
+        "ember-queen",
+        "forge-queen",
+        "shield-queen"
+      ],
+      "stage": "Research frontier"
+    },
+    {
+      "id": "gravity-power",
+      "title": "Gravity Power",
+      "summary": "Treat gravity as a possible energy-storage mechanism, with every input and loss counted.",
+      "href": "startup-gravity-power.html",
+      "categoryId": "clean-power-systems",
+      "queenIds": [
+        "ember-queen",
+        "forge-queen",
+        "lore-queen"
+      ],
+      "stage": "Engineering development"
+    },
+    {
+      "id": "hydrogen",
+      "title": "Hydrogen",
+      "summary": "Explore hydrogen only where a specific customer's need survives comparison with direct electricity and other options.",
+      "href": "startup-hydrogen.html",
+      "categoryId": "clean-power-systems",
+      "queenIds": [
+        "ember-queen",
+        "river-queen",
+        "silk-queen"
+      ],
+      "stage": "Engineering development"
+    },
+    {
+      "id": "insects",
+      "title": "Insects",
+      "summary": "Explore an insect enterprise from the customer's product requirements back to the production system.",
+      "href": "startup-insects.html",
+      "categoryId": "closed-loop-food",
+      "queenIds": [
+        "seed-queen",
+        "forge-queen",
+        "silk-queen"
+      ],
+      "stage": "Practical pilot"
+    },
+    {
+      "id": "seafood",
+      "title": "Seafood",
+      "summary": "Build a seafood service that connects reliable supply, care for waterways and a product customers value.",
+      "href": "startup-seafood.html",
+      "categoryId": "closed-loop-food",
+      "queenIds": [
+        "seed-queen",
+        "river-queen",
+        "silk-queen"
+      ],
+      "stage": "Practical pilot"
+    },
+    {
+      "id": "seaweed",
+      "title": "Seaweed",
+      "summary": "Find a useful seaweed product by starting with the buyer, the species and the whole growing system.",
+      "href": "startup-seaweed.html",
+      "categoryId": "closed-loop-food",
+      "queenIds": [
+        "seed-queen",
+        "river-queen",
+        "forge-queen"
+      ],
+      "stage": "Practical pilot"
+    },
+    {
+      "id": "superfoods",
+      "title": "Superfoods",
+      "summary": "Turn the broad superfoods label into a clearly described, enjoyable and honestly marketed food product.",
+      "href": "startup-superfoods.html",
+      "categoryId": "closed-loop-food",
+      "queenIds": [
+        "seed-queen",
+        "silk-queen",
+        "dream-queen"
+      ],
+      "stage": "Practical pilot"
+    },
+    {
+      "id": "mushrooms-and-fungi",
+      "title": "Mushrooms and Fungi",
+      "summary": "Explore fungi through one controlled product pathway, from growing conditions to a customer who needs the result.",
+      "href": "startup-mushrooms-and-fungi.html",
+      "categoryId": "closed-loop-food",
+      "queenIds": [
+        "seed-queen",
+        "forge-queen",
+        "river-queen"
+      ],
+      "stage": "Practical pilot"
+    },
+    {
+      "id": "legumes",
+      "title": "Legumes",
+      "summary": "Build convenient legume products and supply relationships around how people actually cook and eat.",
+      "href": "startup-legumes.html",
+      "categoryId": "closed-loop-food",
+      "queenIds": [
+        "seed-queen",
+        "silk-queen",
+        "dream-queen"
+      ],
+      "stage": "Practical pilot"
+    },
+    {
+      "id": "bacteria-and-viruses",
+      "title": "Bacteria and Viruses",
+      "summary": "Give the broad microbes theme a precise, professionally supervised research or food-production purpose.",
+      "href": "startup-bacteria-and-viruses.html",
+      "categoryId": "closed-loop-food",
+      "queenIds": [
+        "seed-queen",
+        "shield-queen",
+        "super-queen"
+      ],
+      "stage": "Research frontier"
+    },
+    {
+      "id": "poultry",
+      "title": "Poultry",
+      "summary": "Improve a poultry enterprise through animal care, useful production records and dependable local demand.",
+      "href": "startup-poultry.html",
+      "categoryId": "closed-loop-food",
+      "queenIds": [
+        "seed-queen",
+        "silk-queen",
+        "shield-queen"
+      ],
+      "stage": "Practical pilot"
+    },
+    {
+      "id": "medicinal-plants-and-spices",
+      "title": "Medicinal Plants and Spices",
+      "summary": "Develop plant and spice products with traceable ingredients, respectful knowledge use and evidence matched to the claim.",
+      "href": "startup-medicinal-plants-and-spices.html",
+      "categoryId": "closed-loop-food",
+      "queenIds": [
+        "seed-queen",
+        "lore-queen",
+        "shield-queen"
+      ],
+      "stage": "Practical pilot"
+    },
+    {
+      "id": "food-compute-produce-dao",
+      "title": "Food Compute/Produce DAO",
+      "summary": "Coordinate food demand and production through a practical shared planning service.",
+      "href": "startup-food-compute-produce-dao.html",
+      "categoryId": "closed-loop-food",
+      "queenIds": [
+        "seed-queen",
+        "silk-queen",
+        "shield-queen"
+      ],
+      "stage": "Practical pilot"
+    },
+    {
+      "id": "plastics-and-glass",
+      "title": "Plastics and Glass",
+      "summary": "Build a recovery business around clean material streams and customers who can use them.",
+      "href": "startup-plastics-and-glass.html",
+      "categoryId": "waste-reclamation",
+      "queenIds": [
+        "forge-queen",
+        "river-queen",
+        "silk-queen"
+      ],
+      "stage": "Practical pilot"
+    },
+    {
+      "id": "nuclear-waste-and-water",
+      "title": "Nuclear Waste and Water",
+      "summary": "Create a precise, institution-led research pathway for nuclear-waste and water questions.",
+      "href": "startup-nuclear-waste-and-water.html",
+      "categoryId": "waste-reclamation",
+      "queenIds": [
+        "shield-queen",
+        "forge-queen",
+        "river-queen"
+      ],
+      "stage": "Research frontier"
+    },
+    {
+      "id": "industrial-process-byproducts",
+      "title": "Industrial Process Byproducts",
+      "summary": "Match one industrial byproduct to a real customer specification and an honest material balance.",
+      "href": "startup-industrial-process-byproducts.html",
+      "categoryId": "waste-reclamation",
+      "queenIds": [
+        "forge-queen",
+        "river-queen",
+        "shield-queen"
+      ],
+      "stage": "Engineering development"
+    },
+    {
+      "id": "solid-waste-refuse-tips",
+      "title": "Solid Waste Refuse Tips",
+      "summary": "Turn one recoverable waste stream into a practical local service with clear authority and customers.",
+      "href": "startup-solid-waste-refuse-tips.html",
+      "categoryId": "waste-reclamation",
+      "queenIds": [
+        "forge-queen",
+        "river-queen",
+        "silk-queen"
+      ],
+      "stage": "Practical pilot"
+    },
+    {
+      "id": "human-waste-and-life-support",
+      "title": "Human Waste and Life Support",
+      "summary": "Design sanitation and resource-recovery services around health, dignity, maintainability and the people using them.",
+      "href": "startup-human-waste-and-life-support.html",
+      "categoryId": "waste-reclamation",
+      "queenIds": [
+        "river-queen",
+        "dream-queen",
+        "forge-queen"
+      ],
+      "stage": "Engineering development"
+    },
+    {
+      "id": "farming-process-byproducts",
+      "title": "Farming Process Byproducts",
+      "summary": "Find a useful second life for one farm byproduct without creating extra unpaid work or an unreliable market.",
+      "href": "startup-farming-process-byproducts.html",
+      "categoryId": "waste-reclamation",
+      "queenIds": [
+        "seed-queen",
+        "river-queen",
+        "silk-queen"
+      ],
+      "stage": "Practical pilot"
+    },
+    {
+      "id": "subterranean-city-displaced-muck",
+      "title": "Subterranean City Displaced Muck",
+      "summary": "Plan excavated-material handling before a major underground project creates the material.",
+      "href": "startup-subterranean-city-displaced-muck.html",
+      "categoryId": "waste-reclamation",
+      "queenIds": [
+        "forge-queen",
+        "river-queen",
+        "shield-queen"
+      ],
+      "stage": "Engineering development"
+    },
+    {
+      "id": "mining-process-byproducts",
+      "title": "Mining Process Byproducts",
+      "summary": "Evaluate mining byproducts with measured material properties and a customer-defined use.",
+      "href": "startup-mining-process-byproducts.html",
+      "categoryId": "waste-reclamation",
+      "queenIds": [
+        "forge-queen",
+        "river-queen",
+        "shield-queen"
+      ],
+      "stage": "Research frontier"
+    },
+    {
+      "id": "water-pollution",
+      "title": "Water Pollution",
+      "summary": "Turn a water-quality concern into a clear observation programme and a practical response pathway.",
+      "href": "startup-water-pollution.html",
+      "categoryId": "waste-reclamation",
+      "queenIds": [
+        "river-queen",
+        "shield-queen",
+        "super-queen"
+      ],
+      "stage": "Practical pilot"
+    },
+    {
+      "id": "computer-e-waste",
+      "title": "Computer E-Waste",
+      "summary": "Keep computers useful for longer through repair, trustworthy data handling and responsible recovery.",
+      "href": "startup-computer-e-waste.html",
+      "categoryId": "waste-reclamation",
+      "queenIds": [
+        "forge-queen",
+        "shield-queen",
+        "silk-queen"
+      ],
+      "stage": "Practical pilot"
+    },
+    {
+      "id": "dna-rna-embryo-ark",
+      "title": "DNA RNA Embryo Ark",
+      "summary": "Explore biological preservation as an institution-led stewardship and continuity question.",
+      "href": "startup-dna-rna-embryo-ark.html",
+      "categoryId": "subterranean-cities",
+      "queenIds": [
+        "shield-queen",
+        "seed-queen",
+        "lore-queen"
+      ],
+      "stage": "Speculative concept"
+    },
+    {
+      "id": "drilling-tunnelling-lateral-mining",
+      "title": "Drilling, Tunnelling, Lateral Mining",
+      "summary": "Develop useful excavation tools by selecting one measurable problem in a qualified engineering setting.",
+      "href": "startup-drilling-tunnelling-lateral-mining.html",
+      "categoryId": "subterranean-cities",
+      "queenIds": [
+        "forge-queen",
+        "star-queen",
+        "shield-queen"
+      ],
+      "stage": "Engineering development"
+    },
+    {
+      "id": "minimum-ideal-maximum-limits",
+      "title": "Minimum, Ideal, Maximum Limits",
+      "summary": "Define the operating limits of a proposed habitat in terms people and engineers can both examine.",
+      "href": "startup-minimum-ideal-maximum-limits.html",
+      "categoryId": "subterranean-cities",
+      "queenIds": [
+        "dream-queen",
+        "forge-queen",
+        "shield-queen"
+      ],
+      "stage": "Practical pilot"
+    },
+    {
+      "id": "eternal-maintenance",
+      "title": "Eternal Maintenance",
+      "summary": "Make long-term maintenance visible, funded and possible for the people who must do it.",
+      "href": "startup-eternal-maintenance.html",
+      "categoryId": "subterranean-cities",
+      "queenIds": [
+        "forge-queen",
+        "shield-queen",
+        "silk-queen"
+      ],
+      "stage": "Practical pilot"
+    },
+    {
+      "id": "ultra-fast-transport",
+      "title": "Ultra Fast Transport",
+      "summary": "Judge fast transport by complete journeys, access and dependable operation rather than headline speed.",
+      "href": "startup-ultra-fast-transport.html",
+      "categoryId": "subterranean-cities",
+      "queenIds": [
+        "star-queen",
+        "dream-queen",
+        "forge-queen"
+      ],
+      "stage": "Practical pilot"
+    },
+    {
+      "id": "on-demand-production",
+      "title": "On Demand Production",
+      "summary": "Make a useful product when it is needed, with quality, repair and local skills built into the service.",
+      "href": "startup-on-demand-production.html",
+      "categoryId": "subterranean-cities",
+      "queenIds": [
+        "forge-queen",
+        "spark-queen",
+        "silk-queen"
+      ],
+      "stage": "Practical pilot"
+    },
+    {
+      "id": "eternal-human-life-support",
+      "title": "Eternal Human Life Support",
+      "summary": "Study resilient life-support services without claiming that an engineered habitat can sustain people forever.",
+      "href": "startup-eternal-human-life-support.html",
+      "categoryId": "subterranean-cities",
+      "queenIds": [
+        "star-queen",
+        "river-queen",
+        "dream-queen"
+      ],
+      "stage": "Speculative concept"
+    },
+    {
+      "id": "resurface-expansion-planning",
+      "title": "Resurface & Expansion Planning",
+      "summary": "Plan how a settlement could adapt, return to the surface or expand without trapping people in the original design.",
+      "href": "startup-resurface-expansion-planning.html",
+      "categoryId": "subterranean-cities",
+      "queenIds": [
+        "star-queen",
+        "shield-queen",
+        "lore-queen"
+      ],
+      "stage": "Speculative concept"
+    },
+    {
+      "id": "gamification-of-governance",
+      "title": "Gamification of Governance",
+      "summary": "Make civic participation engaging while keeping real decisions accountable to the people affected.",
+      "href": "startup-gamification-of-governance.html",
+      "categoryId": "subterranean-cities",
+      "queenIds": [
+        "spark-queen",
+        "shield-queen",
+        "dream-queen"
+      ],
+      "stage": "Practical pilot"
+    },
+    {
+      "id": "olympic-scale-entertainment",
+      "title": "Olympic Scale Entertainment",
+      "summary": "Use the ambition of major events to design entertainment that is accessible, locally useful and responsibly delivered.",
+      "href": "startup-olympic-scale-entertainment.html",
+      "categoryId": "subterranean-cities",
+      "queenIds": [
+        "dream-queen",
+        "spark-queen",
+        "silk-queen"
+      ],
+      "stage": "Practical pilot"
+    },
+    {
+      "id": "superconductors",
+      "title": "Superconductors",
+      "summary": "Help a laboratory turn a superconducting material claim into a repeatable measurement and a clear engineering decision.",
+      "href": "startup-superconductors.html",
+      "categoryId": "extreme-metamaterials",
+      "queenIds": [
+        "forge-queen",
+        "super-queen"
+      ],
+      "stage": "Research frontier"
+    },
+    {
+      "id": "polymers",
+      "title": "Polymers",
+      "summary": "Design useful polymers around a real product's life, repair and recovery needs.",
+      "href": "startup-polymers.html",
+      "categoryId": "extreme-metamaterials",
+      "queenIds": [
+        "forge-queen",
+        "river-queen"
+      ],
+      "stage": "Practical pilot"
+    },
+    {
+      "id": "perfect-crystal-growth",
+      "title": "Perfect Crystal Growth",
+      "summary": "Turn the ambition of perfect crystals into a disciplined service for controlling and measuring defects.",
+      "href": "startup-perfect-crystal-growth.html",
+      "categoryId": "extreme-metamaterials",
+      "queenIds": [
+        "forge-queen",
+        "super-queen"
+      ],
+      "stage": "Engineering development"
+    },
+    {
+      "id": "ceramics",
+      "title": "Ceramics",
+      "summary": "Build durable ceramic components by starting with one demanding local use.",
+      "href": "startup-ceramics.html",
+      "categoryId": "extreme-metamaterials",
+      "queenIds": [
+        "forge-queen",
+        "ember-queen"
+      ],
+      "stage": "Practical pilot"
+    },
+    {
+      "id": "anodes-and-cathodes",
+      "title": "Anodes and Cathodes",
+      "summary": "Compare battery electrode ideas against a defined storage job and a full test record.",
+      "href": "startup-anodes-and-cathodes.html",
+      "categoryId": "extreme-metamaterials",
+      "queenIds": [
+        "forge-queen",
+        "ember-queen"
+      ],
+      "stage": "Engineering development"
+    },
+    {
+      "id": "electrolytes",
+      "title": "Electrolytes",
+      "summary": "Investigate the electrolyte as part of a complete, clearly defined energy-storage system.",
+      "href": "startup-electrolytes.html",
+      "categoryId": "extreme-metamaterials",
+      "queenIds": [
+        "forge-queen",
+        "ember-queen",
+        "river-queen"
+      ],
+      "stage": "Engineering development"
+    },
+    {
+      "id": "resonators",
+      "title": "Resonators",
+      "summary": "Use carefully shaped resonators to solve one measurable sensing, vibration or signal problem.",
+      "href": "startup-resonators.html",
+      "categoryId": "extreme-metamaterials",
+      "queenIds": [
+        "forge-queen",
+        "super-queen"
+      ],
+      "stage": "Practical pilot"
+    },
+    {
+      "id": "absolute-vacuums",
+      "title": "Absolute Vacuums",
+      "summary": "Translate the ambition of an absolute vacuum into measurable vacuum engineering and leak control.",
+      "href": "startup-absolute-vacuums.html",
+      "categoryId": "extreme-metamaterials",
+      "queenIds": [
+        "forge-queen",
+        "star-queen"
+      ],
+      "stage": "Engineering development"
+    },
+    {
+      "id": "extremely-precise-lasers",
+      "title": "Extremely Precise Lasers",
+      "summary": "Make laser precision meaningful by connecting it to a specific measurement or manufacturing task.",
+      "href": "startup-extremely-precise-lasers.html",
+      "categoryId": "extreme-metamaterials",
+      "queenIds": [
+        "forge-queen",
+        "super-queen"
+      ],
+      "stage": "Engineering development"
+    },
+    {
+      "id": "extreme-magnetism-or-levitation",
+      "title": "Extreme Magnetism or Levitation",
+      "summary": "Explore magnetic control through an observable engineering demonstration with explicit limits.",
+      "href": "startup-extreme-magnetism-or-levitation.html",
+      "categoryId": "extreme-metamaterials",
+      "queenIds": [
+        "forge-queen",
+        "ember-queen"
+      ],
+      "stage": "Engineering development"
+    },
+    {
+      "id": "second-skin-space-suits",
+      "title": "Second Skin Space Suits",
+      "summary": "Design spacewear around the movement, fit and dignity of many different bodies.",
+      "href": "startup-second-skin-space-suits.html",
+      "categoryId": "space-industry",
+      "queenIds": [
+        "star-queen",
+        "forge-queen",
+        "dream-queen"
+      ],
+      "stage": "Engineering development"
+    },
+    {
+      "id": "radiation-protection-systems",
+      "title": "Radiation Protection Systems",
+      "summary": "Make radiation protection decisions traceable to an exposure scenario and evidence.",
+      "href": "startup-radiation-protection-systems.html",
+      "categoryId": "space-industry",
+      "queenIds": [
+        "star-queen",
+        "shield-queen",
+        "forge-queen"
+      ],
+      "stage": "Research frontier"
+    },
+    {
+      "id": "radiation-remediation-systems",
+      "title": "Radiation Remediation Systems",
+      "summary": "Support contamination-response planning with accountable records and specialist-led evidence.",
+      "href": "startup-radiation-remediation-systems.html",
+      "categoryId": "space-industry",
+      "queenIds": [
+        "shield-queen",
+        "forge-queen",
+        "river-queen"
+      ],
+      "stage": "Engineering development"
+    },
+    {
+      "id": "3d-metallic-printers-welders",
+      "title": "3D Metallic Printers/Welders",
+      "summary": "Connect metal printing and welding to parts that customers can inspect, repair and trust.",
+      "href": "startup-3d-metallic-printers-welders.html",
+      "categoryId": "space-industry",
+      "queenIds": [
+        "forge-queen",
+        "star-queen"
+      ],
+      "stage": "Practical pilot"
+    },
+    {
+      "id": "starship-size-mining-payloads",
+      "title": "Starship Size Mining Payloads",
+      "summary": "Explore a large mining payload through an Earth-based systems study with visible assumptions.",
+      "href": "startup-starship-size-mining-payloads.html",
+      "categoryId": "space-industry",
+      "queenIds": [
+        "star-queen",
+        "forge-queen",
+        "ember-queen"
+      ],
+      "stage": "Research frontier"
+    },
+    {
+      "id": "starship-size-deep-space-payloads",
+      "title": "Starship Size Deep Space Payloads",
+      "summary": "Turn a large deep-space payload vision into a mission with a defined purpose and testable interfaces.",
+      "href": "startup-starship-size-deep-space-payloads.html",
+      "categoryId": "space-industry",
+      "queenIds": [
+        "star-queen",
+        "forge-queen",
+        "shield-queen"
+      ],
+      "stage": "Research frontier"
+    },
+    {
+      "id": "starship-size-eternal-life-support",
+      "title": "Starship Size Eternal Life Support",
+      "summary": "Investigate long-duration life support by measuring the limits of one resource loop.",
+      "href": "startup-starship-size-eternal-life-support.html",
+      "categoryId": "space-industry",
+      "queenIds": [
+        "star-queen",
+        "river-queen",
+        "seed-queen"
+      ],
+      "stage": "Research frontier"
+    },
+    {
+      "id": "subterranean-city-designs",
+      "title": "Subterranean City Designs",
+      "summary": "Explore underground space habitats through human needs, maintainable systems and site-specific questions.",
+      "href": "startup-subterranean-city-designs.html",
+      "categoryId": "space-industry",
+      "queenIds": [
+        "star-queen",
+        "forge-queen",
+        "dream-queen"
+      ],
+      "stage": "Research frontier"
+    },
+    {
+      "id": "interstellar-warp-or-portals",
+      "title": "Interstellar Warp or Portals",
+      "summary": "Give extraordinary travel ideas a rigorous home that separates mathematics, fiction and testable physics.",
+      "href": "startup-interstellar-warp-or-portals.html",
+      "categoryId": "space-industry",
+      "queenIds": [
+        "star-queen",
+        "lore-queen",
+        "dream-queen"
+      ],
+      "stage": "Speculative concept"
+    },
+    {
+      "id": "plasma-fusion-in-space",
+      "title": "Plasma Fusion in Space",
+      "summary": "Study the whole engineering chain behind a proposed fusion system for space.",
+      "href": "startup-plasma-fusion-in-space.html",
+      "categoryId": "space-industry",
+      "queenIds": [
+        "ember-queen",
+        "star-queen",
+        "forge-queen"
+      ],
+      "stage": "Research frontier"
+    },
+    {
+      "id": "sensors-and-switches",
+      "title": "Sensors and Switches",
+      "summary": "Build simple sensing tools that make a local service easier to understand and maintain.",
+      "href": "startup-sensors-and-switches.html",
+      "categoryId": "micro-architectures",
+      "queenIds": [
+        "forge-queen",
+        "river-queen"
+      ],
+      "stage": "Practical pilot"
+    },
+    {
+      "id": "system-on-a-chip",
+      "title": "System on a Chip",
+      "summary": "Develop a chip concept from one clear workload and a reproducible comparison.",
+      "href": "startup-system-on-a-chip.html",
+      "categoryId": "micro-architectures",
+      "queenIds": [
+        "forge-queen",
+        "super-queen"
+      ],
+      "stage": "Engineering development"
+    },
+    {
+      "id": "quantum-computers",
+      "title": "Quantum Computers",
+      "summary": "Help people evaluate quantum computing against a specific problem and a fair classical comparison.",
+      "href": "startup-quantum-computers.html",
+      "categoryId": "micro-architectures",
+      "queenIds": [
+        "forge-queen",
+        "super-queen",
+        "lore-queen"
+      ],
+      "stage": "Research frontier"
+    },
+    {
+      "id": "micro-fluidics",
+      "title": "Micro Fluidics",
+      "summary": "Make tiny fluid systems understandable through a visible, controlled flow experiment.",
+      "href": "startup-micro-fluidics.html",
+      "categoryId": "micro-architectures",
+      "queenIds": [
+        "forge-queen",
+        "river-queen"
+      ],
+      "stage": "Engineering development"
+    },
+    {
+      "id": "solid-state-crystal-compute",
+      "title": "Solid State Crystal Compute",
+      "summary": "Investigate a crystal-based computing idea by defining exactly how information is represented and read.",
+      "href": "startup-solid-state-crystal-compute.html",
+      "categoryId": "micro-architectures",
+      "queenIds": [
+        "forge-queen",
+        "super-queen",
+        "lore-queen"
+      ],
+      "stage": "Research frontier"
+    },
+    {
+      "id": "rubidium-quantum-compute",
+      "title": "Rubidium Quantum Compute",
+      "summary": "Create a carefully bounded learning and research pathway into atom-based quantum computing.",
+      "href": "startup-rubidium-quantum-compute.html",
+      "categoryId": "micro-architectures",
+      "queenIds": [
+        "forge-queen",
+        "super-queen",
+        "star-queen"
+      ],
+      "stage": "Research frontier"
+    },
+    {
+      "id": "molecular-machines",
+      "title": "Molecular Machines",
+      "summary": "Explore molecular-scale motion without confusing a research mechanism with a finished medical product.",
+      "href": "startup-molecular-machines.html",
+      "categoryId": "micro-architectures",
+      "queenIds": [
+        "forge-queen",
+        "lore-queen",
+        "super-queen"
+      ],
+      "stage": "Research frontier"
+    },
+    {
+      "id": "claytronics",
+      "title": "Claytronics",
+      "summary": "Study programmable matter through a modest modular-robotics experiment with honest scale limits.",
+      "href": "startup-claytronics.html",
+      "categoryId": "micro-architectures",
+      "queenIds": [
+        "forge-queen",
+        "super-queen",
+        "dream-queen"
+      ],
+      "stage": "Speculative concept"
+    },
+    {
+      "id": "near-eye-light-field-displays",
+      "title": "Near Eye Light Field Displays",
+      "summary": "Design near-eye displays around visual comfort, body fit and a clear task.",
+      "href": "startup-near-eye-light-field-displays.html",
+      "categoryId": "micro-architectures",
+      "queenIds": [
+        "forge-queen",
+        "dream-queen",
+        "star-queen"
+      ],
+      "stage": "Engineering development"
+    },
+    {
+      "id": "quantum-entanglement",
+      "title": "Quantum Entanglement",
+      "summary": "Teach quantum entanglement through experiments, assumptions and carefully bounded claims.",
+      "href": "startup-quantum-entanglement.html",
+      "categoryId": "micro-architectures",
+      "queenIds": [
+        "lore-queen",
+        "super-queen",
+        "forge-queen"
+      ],
+      "stage": "Research frontier"
+    },
+    {
+      "id": "cinematic-universe",
+      "title": "Cinematic Universe",
+      "summary": "Create a shared story world where women shape the future as complex leads, makers and owners.",
+      "href": "startup-cinematic-universe.html",
+      "categoryId": "humanities-and-fun",
+      "queenIds": [
+        "dream-queen",
+        "spark-queen",
+        "lore-queen"
+      ],
+      "stage": "Practical pilot"
+    },
+    {
+      "id": "just-in-time-learning",
+      "title": "Just-In-Time Learning",
+      "summary": "Offer useful learning at the moment someone is ready to do a real task.",
+      "href": "startup-just-in-time-learning.html",
+      "categoryId": "humanities-and-fun",
+      "queenIds": [
+        "spark-queen",
+        "lore-queen",
+        "dream-queen"
+      ],
+      "stage": "Practical pilot"
+    },
+    {
+      "id": "radical-life-extension",
+      "title": "Radical Life Extension",
+      "summary": "Explore longevity research with a clear boundary between scientific questions and promises to people.",
+      "href": "startup-radical-life-extension.html",
+      "categoryId": "humanities-and-fun",
+      "queenIds": [
+        "lore-queen",
+        "dream-queen",
+        "shield-queen"
+      ],
+      "stage": "Research frontier"
+    },
+    {
+      "id": "micro-biome-mastery",
+      "title": "Micro Biome Mastery",
+      "summary": "Help people understand microbiome research without promising mastery of a complex living system.",
+      "href": "startup-micro-biome-mastery.html",
+      "categoryId": "humanities-and-fun",
+      "queenIds": [
+        "seed-queen",
+        "lore-queen",
+        "shield-queen"
+      ],
+      "stage": "Research frontier"
+    },
+    {
+      "id": "sex-and-sexual-education",
+      "title": "Sex and Sexual Education",
+      "summary": "Create adult relationship and sexuality education shaped by consent, body diversity and honest questions.",
+      "href": "startup-sex-and-sexual-education.html",
+      "categoryId": "humanities-and-fun",
+      "queenIds": [
+        "dream-queen",
+        "shield-queen",
+        "lore-queen"
+      ],
+      "stage": "Practical pilot"
+    },
+    {
+      "id": "matrimony-of-many",
+      "title": "Matrimony of Many",
+      "summary": "Explore how adults in varied households can make care, responsibilities and decisions explicit.",
+      "href": "startup-matrimony-of-many.html",
+      "categoryId": "humanities-and-fun",
+      "queenIds": [
+        "dream-queen",
+        "shield-queen",
+        "lore-queen"
+      ],
+      "stage": "Practical pilot"
+    },
+    {
+      "id": "game-design-school",
+      "title": "Game Design School",
+      "summary": "Build a game-design learning studio where women create the worlds, rules and business decisions.",
+      "href": "startup-game-design-school.html",
+      "categoryId": "humanities-and-fun",
+      "queenIds": [
+        "spark-queen",
+        "dream-queen",
+        "forge-queen"
+      ],
+      "stage": "Practical pilot"
+    },
+    {
+      "id": "mental-health-support",
+      "title": "Mental Health Support",
+      "summary": "Help people find a suitable next human support step without turning distress into a product label.",
+      "href": "startup-mental-health-support.html",
+      "categoryId": "humanities-and-fun",
+      "queenIds": [
+        "dream-queen",
+        "shield-queen",
+        "lore-queen"
+      ],
+      "stage": "Practical pilot"
+    },
+    {
+      "id": "creativity-and-performance-art",
+      "title": "Creativity and Performance Art",
+      "summary": "Create paid stages and shared production resources for women with many ways of being visible.",
+      "href": "startup-creativity-and-performance-art.html",
+      "categoryId": "humanities-and-fun",
+      "queenIds": [
+        "dream-queen",
+        "spark-queen",
+        "silk-queen"
+      ],
+      "stage": "Practical pilot"
+    },
+    {
+      "id": "philosophy-and-life-long-learning",
+      "title": "Philosophy and Life Long Learning",
+      "summary": "Make sustained philosophical learning part of ordinary community life and practical decision-making.",
+      "href": "startup-philosophy-and-life-long-learning.html",
+      "categoryId": "humanities-and-fun",
+      "queenIds": [
+        "lore-queen",
+        "dream-queen",
+        "shield-queen"
+      ],
+      "stage": "Practical pilot"
+    },
+    {
+      "id": "aged-care-and-ndis",
+      "title": "Aged Care and NDIS",
+      "summary": "Find care-service opportunities by listening to the people receiving and delivering the work.",
+      "href": "startup-aged-care-and-ndis.html",
+      "categoryId": "market-analysis",
+      "queenIds": [
+        "silk-queen",
+        "shield-queen",
+        "dream-queen"
+      ],
+      "stage": "Practical pilot"
+    },
+    {
+      "id": "education-and-training",
+      "title": "Education and Training",
+      "summary": "Identify training opportunities from real learner barriers and actual tasks employers need done.",
+      "href": "startup-education-and-training.html",
+      "categoryId": "market-analysis",
+      "queenIds": [
+        "silk-queen",
+        "spark-queen",
+        "lore-queen"
+      ],
+      "stage": "Practical pilot"
+    },
+    {
+      "id": "mental-health-happiness",
+      "title": "Mental Health & Happiness",
+      "summary": "Study what people say would improve their wellbeing without reducing happiness to a sales score.",
+      "href": "startup-mental-health-happiness.html",
+      "categoryId": "market-analysis",
+      "queenIds": [
+        "silk-queen",
+        "dream-queen",
+        "shield-queen"
+      ],
+      "stage": "Practical pilot"
+    },
+    {
+      "id": "physical-health-living-standards",
+      "title": "Physical Health & Living Standards",
+      "summary": "Connect everyday living conditions with practical opportunities for healthier, easier lives.",
+      "href": "startup-physical-health-living-standards.html",
+      "categoryId": "market-analysis",
+      "queenIds": [
+        "silk-queen",
+        "river-queen",
+        "dream-queen"
+      ],
+      "stage": "Practical pilot"
+    },
+    {
+      "id": "migration-international-students",
+      "title": "Migration & International Students",
+      "summary": "Understand how newcomers find belonging, useful information and fair opportunities in Australia.",
+      "href": "startup-migration-international-students.html",
+      "categoryId": "market-analysis",
+      "queenIds": [
+        "silk-queen",
+        "shield-queen",
+        "lore-queen"
+      ],
+      "stage": "Practical pilot"
+    },
+    {
+      "id": "pandemics-plagues-extreme-weather",
+      "title": "Pandemics, Plagues & Extreme Weather",
+      "summary": "Help communities compare disruption needs through practical continuity exercises and current official information.",
+      "href": "startup-pandemics-plagues-extreme-weather.html",
+      "categoryId": "market-analysis",
+      "queenIds": [
+        "silk-queen",
+        "storm-queen",
+        "shield-queen"
+      ],
+      "stage": "Practical pilot"
+    },
+    {
+      "id": "agriculture-and-aquaculture",
+      "title": "Agriculture and Aquaculture",
+      "summary": "Find food-production opportunities by tracing one product from grower or producer to a willing customer.",
+      "href": "startup-agriculture-and-aquaculture.html",
+      "categoryId": "market-analysis",
+      "queenIds": [
+        "silk-queen",
+        "seed-queen",
+        "river-queen"
+      ],
+      "stage": "Practical pilot"
+    },
+    {
+      "id": "housing-and-tourism",
+      "title": "Housing and Tourism",
+      "summary": "Study housing and visitor-economy choices together without treating residents as an afterthought.",
+      "href": "startup-housing-and-tourism.html",
+      "categoryId": "market-analysis",
+      "queenIds": [
+        "silk-queen",
+        "river-queen",
+        "shield-queen"
+      ],
+      "stage": "Practical pilot"
+    },
+    {
+      "id": "population-stability",
+      "title": "Population Stability",
+      "summary": "Explore population change through community needs, personal choice and transparent scenarios.",
+      "href": "startup-population-stability.html",
+      "categoryId": "market-analysis",
+      "queenIds": [
+        "silk-queen",
+        "lore-queen",
+        "shield-queen"
+      ],
+      "stage": "Practical pilot"
+    },
+    {
+      "id": "governing-protocol-confidence",
+      "title": "Governing Protocol & Confidence",
+      "summary": "Make shared decisions easier to follow, challenge and improve.",
+      "href": "startup-governing-protocol-confidence.html",
+      "categoryId": "market-analysis",
+      "queenIds": [
+        "shield-queen",
+        "lore-queen",
+        "silk-queen"
+      ],
+      "stage": "Practical pilot"
+    },
+    {
+      "id": "500-queens-aura-framework",
+      "title": "500 Queens: Aura Framework",
+      "summary": "Connect the Queens, founders and project ideas through a transparent, human-led learning network.",
+      "href": "startup-500-queens-aura-framework.html",
+      "categoryId": "aura-of-intelligence",
+      "queenIds": [
+        "super-queen",
+        "shield-queen",
+        "spark-queen"
+      ],
+      "stage": "Practical pilot"
+    },
+    {
+      "id": "aura-events-on-nvidia-dgx1",
+      "title": "Aura Events on NVIDIA DGX1",
+      "summary": "Explore shared AI events through a real workload, welcoming participation and transparent computing needs.",
+      "href": "startup-aura-events-on-nvidia-dgx1.html",
+      "categoryId": "aura-of-intelligence",
+      "queenIds": [
+        "super-queen",
+        "spark-queen",
+        "forge-queen"
+      ],
+      "stage": "Practical pilot"
+    },
+    {
+      "id": "queens-wharf-conscious-a-i-art",
+      "title": "Queens Wharf Conscious A.i. Art",
+      "summary": "Create public AI art that invites people to question consciousness, agency and the futures they want.",
+      "href": "startup-queens-wharf-conscious-a-i-art.html",
+      "categoryId": "aura-of-intelligence",
+      "queenIds": [
+        "dream-queen",
+        "super-queen",
+        "lore-queen"
+      ],
+      "stage": "Practical pilot"
+    },
+    {
+      "id": "magic-mirror-conscious-aura",
+      "title": "Magic Mirror Conscious Aura",
+      "summary": "Explore a reflective AI interface that respects the person in front of it.",
+      "href": "startup-magic-mirror-conscious-aura.html",
+      "categoryId": "aura-of-intelligence",
+      "queenIds": [
+        "super-queen",
+        "dream-queen",
+        "shield-queen"
+      ],
+      "stage": "Practical pilot"
+    },
+    {
+      "id": "millionaire-aura",
+      "title": "Millionaire Aura",
+      "summary": "Explore a personal Aura service for complex projects without promising that AI creates wealth.",
+      "href": "startup-millionaire-aura.html",
+      "categoryId": "aura-of-intelligence",
+      "queenIds": [
+        "super-queen",
+        "silk-queen",
+        "shield-queen"
+      ],
+      "stage": "Practical pilot"
+    },
+    {
+      "id": "billionaire-aura",
+      "title": "Billionaire Aura",
+      "summary": "Explore large-scale stewardship with visible responsibilities, evidence and human accountability.",
+      "href": "startup-billionaire-aura.html",
+      "categoryId": "aura-of-intelligence",
+      "queenIds": [
+        "super-queen",
+        "shield-queen",
+        "lore-queen"
+      ],
+      "stage": "Practical pilot"
+    },
+    {
+      "id": "intimate-values-underwear",
+      "title": "Intimate Values Underwear",
+      "summary": "Design intimate apparel around women's own definitions of comfort, support, beauty and identity.",
+      "href": "startup-intimate-values-underwear.html",
+      "categoryId": "aura-of-intelligence",
+      "queenIds": [
+        "dream-queen",
+        "forge-queen",
+        "silk-queen"
+      ],
+      "stage": "Practical pilot"
+    },
+    {
+      "id": "ndis-aura-development",
+      "title": "NDIS Aura Development",
+      "summary": "Co-design an Aura support tool around a disabled person's chosen task and control.",
+      "href": "startup-ndis-aura-development.html",
+      "categoryId": "aura-of-intelligence",
+      "queenIds": [
+        "super-queen",
+        "shield-queen",
+        "dream-queen"
+      ],
+      "stage": "Practical pilot"
+    },
+    {
+      "id": "aged-care-aura-development",
+      "title": "Aged Care Aura Development",
+      "summary": "Explore AI assistance that supports older people's preferences and the people caring alongside them.",
+      "href": "startup-aged-care-aura-development.html",
+      "categoryId": "aura-of-intelligence",
+      "queenIds": [
+        "super-queen",
+        "dream-queen",
+        "shield-queen"
+      ],
+      "stage": "Practical pilot"
+    },
+    {
+      "id": "female-prisoner-rehabilitation",
+      "title": "Female Prisoner Rehabilitation",
+      "summary": "Support women returning from prison through participant-led learning, practical access and accountable human relationships.",
+      "href": "startup-female-prisoner-rehabilitation.html",
+      "categoryId": "aura-of-intelligence",
+      "queenIds": [
+        "shield-queen",
+        "dream-queen",
+        "super-queen"
+      ],
+      "stage": "Practical pilot"
+    }
+  ]
+}

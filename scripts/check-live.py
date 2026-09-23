@@ -10,6 +10,7 @@ def fetch(path):
 def check_page(path):
     status,body=fetch(path)
     if status!=200 or b'<h1>' not in body:raise ValueError(f'Page failed: {path}')
+    if hashlib.sha256(body).digest()!=hashlib.sha256((ROOT/path).read_bytes()).digest():raise ValueError(f'Page is not the latest local build: {path}')
     return path
 def check_document(doc):
     status,body=fetch(doc['href'])
@@ -24,7 +25,10 @@ def main():
     lib=json.loads((ROOT/'data/reference-library.json').read_text(encoding='utf-8'))
     arts=json.loads((ROOT/'assets/images/provenance.json').read_text(encoding='utf-8'))
     assets=['assets/images/'+f for a in arts['assets'] for f in a['files']]
-    assets+=['assets/brand/favicon.ico','assets/brand/500-queens-original.png','assets/site.css?v=20260923-3','assets/site.js?v=20260923-3']
+    assets+=['assets/brand/favicon.ico','assets/brand/500-queens-original.png','assets/site.css?v=20260923-network-2','assets/site.js?v=20260923-network-2','assets/network.css?v=20260923-network-2','assets/network.js?v=20260923-network-2','assets/readers.css?v=20260923-network-2','assets/heroes.css?v=20260923-network-2','data/network.json']
+    readers=ROOT/'data/reference-readers.json'
+    if readers.exists():
+        assets += list(dict.fromkeys(f for r in json.loads(readers.read_text(encoding='utf-8')) for f in r['files']))
     with concurrent.futures.ThreadPoolExecutor(max_workers=6) as pool:
         list(pool.map(check_page,pages));print(f'PASS: {len(pages)} public pages return HTTP 200')
         list(pool.map(check_document,lib['documents']));print(f'PASS: all {len(lib["documents"])} public downloads match supplied original SHA-256 checksums')
