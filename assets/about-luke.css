@@ -1,0 +1,7 @@
+#about-luke{scroll-margin-top:110px}
+#about-luke .wrap>p{max-width:940px}
+.about-photographs{display:grid;grid-template-columns:1.42fr 1fr;align-items:start;gap:28px;max-width:900px;margin:42px auto 0}
+.about-photographs figure{margin:0;min-width:0}
+.about-photographs img{display:block;width:100%;height:auto;border-radius:8px;border:1px solid var(--line)}
+.about-photographs figcaption{font-size:1rem;line-height:1.5;color:var(--muted);margin-top:14px}
+@media(max-width:600px){#about-luke{scroll-margin-top:90px}.about-photographs{grid-template-columns:1fr;gap:30px;max-width:440px}}

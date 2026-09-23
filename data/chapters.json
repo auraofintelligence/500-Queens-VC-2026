@@ -730,10 +730,27 @@
         ]
       },
       {
-        "heading": "Why Brisbane, why 500",
+        "heading": "About Luke and the idea",
         "paragraphs": [
           "Luke Nathan Hayes began the idea during COVID while living in Festival Towers, responding to reporting about the small share of venture capital reaching women-led companies. The connection between Hancock Prospecting and 500 Queen Street inspired the arbitrary starting number. Queen's Wharf suggested a global headquarters and Brisbane 2032 added an international horizon.",
           "The current Australian reference is the 2025 State of Australian Startup Funding report: female-only founding teams received 2% of funding, while teams with at least one female founder received 24%, including that 2%. These describe founding-team funding categories. The 500 Queens purpose reaches further into who sets strategy, controls resources, holds ownership and makes consequential decisions."
+        ],
+        "id": "about-luke",
+        "photographs": [
+          {
+            "src": "assets/people/luke-formal.jpeg",
+            "width": 1080,
+            "height": 1350,
+            "alt": "Luke Nathan Hayes wearing glasses and a blue shirt, with colourful geometric artwork behind him.",
+            "caption": "Luke Nathan Hayes. Photograph supplied by Luke."
+          },
+          {
+            "src": "assets/people/luke-office.jpeg",
+            "width": 1152,
+            "height": 2048,
+            "alt": "Luke Nathan Hayes with long hair and glasses at his office desk.",
+            "caption": "Luke in his office. Photograph supplied by Luke."
+          }
         ]
       },
       {

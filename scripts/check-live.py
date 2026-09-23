@@ -27,6 +27,9 @@ def main():
     assets=['assets/images/'+f for a in arts['assets'] for f in a['files']]
     assets+=['assets/brand/favicon.ico','assets/brand/500-queens-original.png','assets/site.css?v=20260924-queens-1','assets/site.js?v=20260924-queens-1','assets/network.css?v=20260924-queens-1','assets/network.js?v=20260924-queens-1','assets/readers.css?v=20260924-queens-1','assets/heroes.css?v=20260924-queens-1','assets/site-map.css?v=20260924-queens-1','data/network.json']
     readers=ROOT/'data/reference-readers.json'
+    chapters=json.loads((ROOT/'data/chapters.json').read_text(encoding='utf-8'))
+    assets += [photo['src'] for chapter in chapters for section in chapter['sections'] for photo in section.get('photographs',[])]
+    if (ROOT/'assets/about-luke.css').exists():assets.append('assets/about-luke.css?v=1')
     if readers.exists():
         assets += list(dict.fromkeys(f for r in json.loads(readers.read_text(encoding='utf-8')) for f in r['files']))
     with concurrent.futures.ThreadPoolExecutor(max_workers=6) as pool:
