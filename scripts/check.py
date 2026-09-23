@@ -42,6 +42,24 @@ if len(catalogue['enterprises'])!=120:errors.append('Expected 120 original enter
 if len(lib['documents'])!=27:errors.append('Expected 27 original documents')
 if len(lib['websites'])!=15:errors.append('Expected 15 supplied sites')
 for path in (ROOT/'data').glob('*.json'):
-    if re.search(r'C:[/\\]|file://',path.read_text()):errors.append(f'Local path exposed: {path.name}')
+    if re.search(r'C:[/\\]|file://',path.read_text(encoding='utf-8')):errors.append(f'Local path exposed: {path.name}')
+main_pages=[name for name in pages if name!='404.html']
+if len(main_pages)>=15:
+    hero_paths=[]
+    for name in main_pages:
+        text=(ROOT/name).read_text(encoding='utf-8')
+        match=re.search(r'class="hero-bg".*?<img src="([^"]+)"',text)
+        if not match:errors.append(f'{name}: missing generated full-width hero')
+        else:hero_paths.append(match.group(1))
+    if len(set(hero_paths))!=15:errors.append('Expected a distinct GenAI hero for each of the 15 main pages')
+    provenance=json.loads((ROOT/'assets/images/provenance.json').read_text(encoding='utf-8'))
+    if len(provenance['assets'])!=15:errors.append('Expected provenance for 15 original artworks')
+    for asset in provenance['assets']:
+        for name in asset['files']:
+            if not (ROOT/'assets/images'/name).exists():errors.append(f'Missing artwork file: {name}')
+font_css=(ROOT/'assets/fonts/fonts.css')
+if font_css.exists():
+    for name in re.findall(r'url\(([^)]+)\)',font_css.read_text(encoding='utf-8')):
+        if not (font_css.parent/name).exists():errors.append(f'Missing bundled font: {name}')
 if errors:print('\n'.join(errors));sys.exit(1)
 print(f'PASS: {len(pages)} pages; local links and anchors; image alt text; page navigation; 27 original checksums; 120 concepts; 15 supplied websites.')

@@ -182,6 +182,51 @@
       ],
       "disclosure": "AI-generated concept imagery. People and places are illustrative, not actual participants, built facilities or investments.",
       "optimisation": "Pillow WebP quality 83; downscaled only, no content edits."
+    },
+    {
+      "slug": "brisbane-hero",
+      "generatedAt": "2026-09-23T12:44:28.451131+00:00",
+      "prompt": "Use case: stylized-concept. Asset type: full-width landscape website hero, wide 1536 by 1024 composition. Original exquisite photorealistic architectural concept of a proposed flexible shared workspace overlooking the Brisbane River at dawn. Broad floor-to-ceiling glass gives an expansive view of the Brisbane river bend, subtropical riverside planting, believable city skyline and graceful distant bridge. Inside: long beautiful shared walnut worktables, cream stone floor, curved plum upholstered seating, small movable collaboration tables, accessible wide circulation, generous plants, warm brushed brass lighting, shelves of physical prototypes with no text. A few adult women arrive for quiet collaborative work in the mid distance, small within the architectural scene. The room feels welcoming, useful, airy, optimistic and ambitious rather than a corporate office or a hotel. Royal violet dawn sky outside, warm champagne sunrise reflected in glass and river, softly luminous sophisticated editorial finish, realistic materials and construction. Camera from within room at eye level, wide landscape composition with strong architectural depth. Do not reproduce an exact actual premises or claim a known address. No logos, captions, signs, readable words or numbers, watermarks, crowns, finance charts or cryptocurrency. This is an imaginary proposed workspace visual.\n",
+      "sourceDimensions": [
+        1536,
+        1024
+      ],
+      "files": [
+        "brisbane-hero.webp",
+        "brisbane-hero-mobile.webp"
+      ],
+      "disclosure": "AI-generated concept imagery. People and places are illustrative, not actual participants, built facilities or investments.",
+      "optimisation": "Pillow WebP quality 83; downscaled only, no content edits."
+    },
+    {
+      "slug": "invitation-hero",
+      "generatedAt": "2026-09-23T12:45:48.884668+00:00",
+      "prompt": "Use case: photorealistic-natural. Asset type: full-width landscape website hero, wide 1536 by 1024 composition. Create an original aspirational editorial photograph of three diverse young adult women walking together into a bright elegant collaborative learning hall, with natural warmth and quiet confidence. One has dark brown skin and short natural curls, another has medium skin and long dark hair, another has fair skin and copper-brown hair. Show them at a three-quarter angle walking through a welcoming generous archway, exchanging an authentic friendly smile, holding one blank notebook and a small practical canvas bag. Contemporary stylish comfortable clothing in cream, plum and champagne, no costumes or crowns. Beyond the arch lies a beautifully designed open learning hall with circular shared tables, a few women already talking, plants, bookshelves, cream stone, warm timber, subtle brushed gold details and soft violet fabric wall panels. Natural bright morning light, luminous royal editorial finish, human-scale architecture, diverse warmth, welcoming participation not exclusivity. Wide cinematic framing with depth from foreground women into hall, realistically proportioned bodies and natural hands. No signs, readable text, badges, logos, numbers or watermarks. No handshake, no red carpet, no nightclub, no fake interface. These are invented illustrative people, not actual participants.\n",
+      "sourceDimensions": [
+        1536,
+        1024
+      ],
+      "files": [
+        "invitation-hero.webp",
+        "invitation-hero-mobile.webp"
+      ],
+      "disclosure": "AI-generated concept imagery. People and places are illustrative, not actual participants, built facilities or investments.",
+      "optimisation": "Pillow WebP quality 83; downscaled only, no content edits."
+    },
+    {
+      "slug": "licence-hero",
+      "generatedAt": "2026-09-23T12:47:22.775021+00:00",
+      "prompt": "Use case: stylized-concept. Asset type: full-width landscape website hero, wide 1536 by 1024 composition. Create an original luxurious intimate archive desk still life expressing heritage, stewardship and future possibilities for a royal purple and gold concept website. A beautifully crafted walnut desk holds two substantial open books with entirely blank textured ivory pages, one closed deep-plum clothbound book with no lettering, a polished brass archival magnifying glass, a simple elegant fountain pen, a small clear glass paperweight and a carefully finished contemporary geometric brass sculpture. Behind the desk, shelves of leather and cloth books with plain unlettered spines fade into soft focus and an arched window casts violet twilight into the room. A warm brass desk lamp creates champagne pools of light on paper grain and wood; subtle dust in the air adds depth. Elegant restrained tactile editorial photograph quality, intimate rather than enormous, contemporary craft meeting archival heritage. Camera at close low angle wide enough to show the desk and atmospheric shelves, exquisite materials, calm serious stewardship. No people required. No writing, signatures, text, letters, numbers, labels, logos, copyright symbols, seals, watermarks, financial charts, coins or cryptocurrency anywhere. Books must remain blank rather than generating garbled text. This is AI concept art.\n",
+      "sourceDimensions": [
+        1536,
+        1024
+      ],
+      "files": [
+        "licence-hero.webp",
+        "licence-hero-mobile.webp"
+      ],
+      "disclosure": "AI-generated concept imagery. People and places are illustrative, not actual participants, built facilities or investments.",
+      "optimisation": "Pillow WebP quality 83; downscaled only, no content edits."
     }
   ]
 }

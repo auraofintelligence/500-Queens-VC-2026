@@ -4,6 +4,8 @@ A public proposal for women developing as CEOs, enterprise leaders and decision 
 
 Live website: https://auraofintelligence.github.io/500-Queens-VC-2026/
 
+The public edition has 15 main pages, a custom missing-page screen, 15 original GenAI artworks with smaller phone versions, the original brand mark, source downloads, venture search and an illustrative funding calculator. Published in three review batches on 23 September 2026.
+
 ## Build and check
 
 Python 3 is sufficient for the static site:
@@ -15,6 +17,8 @@ python -m http.server 8768 --bind 127.0.0.1
 ```
 
 The optional browser check uses Playwright with installed Microsoft Edge. Set `PLAYWRIGHT_MODULE` if Playwright is not installed in the project environment, then run `node scripts/browser-check.cjs` with the preview server running.
+
+`node scripts/verify-interactions.cjs` checks all main pages on phone and desktop, plus search, calculator, menu and local note-download behaviour. `python scripts/check-live.py` verifies the deployed pages, artwork and original reference download checksums over the public internet.
 
 ## Content and sources
 

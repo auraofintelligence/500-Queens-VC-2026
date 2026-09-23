@@ -8,3 +8,5 @@ references/documents/** -text -diff
 *.png binary
 *.webp binary
 *.ico binary
+*.woff2 binary
+assets/fonts/*-OFL.txt -diff
