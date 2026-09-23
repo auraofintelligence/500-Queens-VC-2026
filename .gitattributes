@@ -4,7 +4,7 @@
 *.js text eol=lf
 *.json text eol=lf
 *.py text eol=lf
-references/documents/** -text
+references/documents/** -text -diff
 *.png binary
 *.webp binary
 *.ico binary

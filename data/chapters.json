@@ -1,0 +1,777 @@
+[
+  {
+    "slug": "community",
+    "title": "Our community",
+    "heading": "Bring your ambition. Find useful work.",
+    "dek": "You can begin with a question, a skill or a problem worth solving. A company of your own can come later.",
+    "hero": "commons-hero",
+    "sections": [
+      {
+        "heading": "A place to begin",
+        "paragraphs": [
+          "500 Queens starts with people: women imagining a different working life, experienced leaders with something to share, researchers with a difficult problem and business owners considering what comes next. The invitation includes people entering work, returning after time away and changing direction. Curiosity and experience both belong here.",
+          "The proposal is to connect these people around useful enterprises and real responsibility. Community, culture and learning provide accessible ways in. Mentoring, practical projects and capital can then help turn participation into leadership. At least 500 women developing and exercising leadership in Australia is the starting ambition, with room to grow beyond it."
+        ]
+      },
+      {
+        "heading": "Let people shape the programme",
+        "paragraphs": [
+          "An opening conversation would ask what a good working life looks like, which problems people want to address and what would help them participate. A Brisbane gathering and online introduction could connect women's networks, employers, universities, TAFEs and local organisations around those questions.",
+          "Gather the essentials once: location, interests, availability, support sought, contributions offered and permission to follow up. Use those answers to connect each person with a group, a project and a next working session. The GAJRA approach begins by listening, then agreeing something useful to do together."
+        ]
+      },
+      {
+        "heading": "Turn an introduction into a result",
+        "paragraphs": [],
+        "steps": [
+          {
+            "title": "Choose meaningful work",
+            "text": "Explore an enterprise idea, a business improvement, a succession opportunity or a community challenge. The original catalogue and linked project library offer places to start."
+          },
+          {
+            "title": "Make the brief concrete",
+            "text": "Describe the need, the work, expected time, payment or voluntary basis, a willing contact and the next step. Bring a customer, business owner or affected community into the conversation early."
+          },
+          {
+            "title": "Agree the first result",
+            "text": "Match willing participants and mentors around a small deliverable and a review date. A demonstration, a customer conversation or a costed proposal gives the group something to examine."
+          },
+          {
+            "title": "Build the delivery group",
+            "text": "Turn specific offers of organising, teaching, finance, relationship building and fundraising into agreed responsibilities. Put paid roles into the operating request and recruit when the work is funded."
+          }
+        ]
+      },
+      {
+        "heading": "Make room for different lives",
+        "paragraphs": [
+          "Repeated workshops, local groups and online participation would allow the community to grow beyond the people who fit into one room. Funded places, selection criteria, timing and future intakes should be clear when a programme is ready to open. Demand that cannot yet be met becomes evidence for the next funding request.",
+          "A useful rhythm is simple: a clear question, an agreed action, a result to examine and a revision. Share demonstrations and participant-approved stories. Celebrate learning as well as delivery, and keep the next opportunity visible. <a href=\"care.html\">Care and C-Hour</a> add ways for young people and community contributors to learn alongside developing women leaders."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "500 Queens planning document, 23 September 2026",
+        "href": "references/documents/queens-venture-capital-planning-document.pdf"
+      },
+      {
+        "title": "GAJRA Earth Infinity",
+        "href": "https://auraofintelligence.github.io/GAJRA-earth-infinity/"
+      },
+      {
+        "title": "Project Atlas",
+        "href": "https://auraofintelligence.github.io/project-atlas/"
+      },
+      {
+        "title": "Community Ledger",
+        "href": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+      }
+    ]
+  },
+  {
+    "slug": "leadership",
+    "title": "Leadership development",
+    "heading": "Learn to lead by leading something real.",
+    "dek": "Customers, budgets, people and delivery turn ambition into executive experience.",
+    "hero": "leadership-hero",
+    "sections": [
+      {
+        "heading": "Responsibility is the classroom",
+        "paragraphs": [
+          "Leadership development in 500 Queens centres on work with consequences: understanding customers, allocating a budget, supporting a team and delivering a useful result. Experienced executives contribute judgement, feedback and relationships. AI Queens help with preparation and reflection between those human conversations.",
+          "The Try Everything Once idea from Mutual Futures adds paid exploration across functions and sectors, mentoring and a return relationship with a home organisation. A participant could discover strengths in operations, finance, research or creative production before deciding where to lead next. Paid time and access support belong in the programme budget."
+        ]
+      },
+      {
+        "heading": "Four starting points",
+        "paragraphs": [],
+        "cards": [
+          {
+            "title": "Improve or succeed a business",
+            "text": "Work with a willing owner on customers, cash flow and succession. Produce a trading and handover plan."
+          },
+          {
+            "title": "Build an enterprise or shared service",
+            "text": "Test demand, organise delivery and price the offer. Gain a customer or complete a working demonstration."
+          },
+          {
+            "title": "Help solve an existential threat",
+            "text": "Work with researchers on a defined failure mode and response. Test a component and record how it performs."
+          },
+          {
+            "title": "Open access to intelligence and science",
+            "text": "Build a usable data, simulation, learning or instrument project, then test it with the people it is meant to help."
+          }
+        ]
+      },
+      {
+        "heading": "A flexible 13-week guide",
+        "paragraphs": [
+          "The original programme guide allows 13 weeks and approximately 300-500 hours of development. It is a planning framework to adapt around funded time and participants' lives. Strategy, finance, people, operations and governance are learned through the decisions a project actually requires."
+        ],
+        "steps": [
+          {
+            "title": "Define the problem",
+            "text": "Listen to intended users and describe the result that would make a difference."
+          },
+          {
+            "title": "Test demand and prepare the budget",
+            "text": "Check the need, compare approaches and identify resources, costs and uncertainties."
+          },
+          {
+            "title": "Lead delivery",
+            "text": "Coordinate people, make decisions, track spending and respond to what the work reveals."
+          },
+          {
+            "title": "Present results and the next decision",
+            "text": "Show what happened, what was learned and whether to continue, change direction or stop."
+          }
+        ]
+      },
+      {
+        "heading": "Give a bold idea a measurable next step",
+        "paragraphs": [
+          "Grain by Grain connects leadership with food, water, energy and resilient infrastructure, while keeping its larger purpose of solving for existential threats. Virtual Solar Swarm extends the field into observation and instrumentation. Extreme Matter Atlas offers a practical research habit: name the target property, mechanism, nearest working technology and next measurement.",
+          "A materials brief can then specify a sample or prototype, a willing laboratory collaborator, test cost and measurable result. This gives a research ambition something concrete to ask a backer to support."
+        ]
+      },
+      {
+        "heading": "Make authority visible",
+        "paragraphs": [
+          "The next step might be paid project leadership, an acting executive assignment, startup development or business succession. Each placement should record authority, budget, pay, supervision and handover. CEO, C-suite, board and investment roles need explicit decision rights, information access and, where relevant, votes and ownership.",
+          "Record who sets strategy, allocates money, appoints people and answers for performance. Disclose interests, use an uninvolved reviewer for conflicted decisions and provide a separate contact for concerns. Measure projects delivered, paid responsibility, ownership and consequential decisions so progress reflects economic influence."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "500 Queens planning document, 23 September 2026",
+        "href": "references/documents/queens-venture-capital-planning-document.pdf"
+      },
+      {
+        "title": "Mutual Futures",
+        "href": "https://auraofintelligence.github.io/mutual-futures/"
+      },
+      {
+        "title": "Extreme Matter Atlas",
+        "href": "https://auraofintelligence.github.io/extreme-matter-atlas/"
+      },
+      {
+        "title": "Grain by Grain",
+        "href": "https://auraofintelligence.github.io/grain-by-grain-documentary/"
+      }
+    ]
+  },
+  {
+    "slug": "ai-queens",
+    "title": "AI Queens",
+    "heading": "Meet the Council of Aura.",
+    "dek": "Twenty-four creative AI mentors connect enterprise knowledge, imagination, identity and belonging.",
+    "hero": "council-hero",
+    "sections": [
+      {
+        "heading": "A council you can learn with",
+        "paragraphs": [
+          "The AI Queens mentorship system, also called the Council of Aura or Council of 24, gives different kinds of expertise a memorable face. Twelve Civilisation Pillar Queens organise the work people might build. Twelve Cultural Anchor Queens bring identity and cultural perspectives into the learning design.",
+          "Participants would develop the characters and their meaning through a mutable mythos: a shared creative world that can change as people contribute. The purpose is practical. A founder can explore a decision from several angles, rehearse a difficult conversation and prepare a clearer budget, experiment or presentation."
+        ]
+      },
+      {
+        "heading": "The twelve Civilisation Pillar Queens",
+        "paragraphs": [],
+        "cards": [
+          {
+            "title": "Spark Queen",
+            "text": "Creativity, idea development and the courage to begin."
+          },
+          {
+            "title": "Shield Queen",
+            "text": "Contracts, intellectual property and funding basics."
+          },
+          {
+            "title": "Seed Queen",
+            "text": "Food systems, regeneration and cooperative enterprise."
+          },
+          {
+            "title": "Storm Queen",
+            "text": "Growth, public communication and campaigns."
+          },
+          {
+            "title": "Star Queen",
+            "text": "Long-term strategy and existential threats."
+          },
+          {
+            "title": "Super Queen (Aura)",
+            "text": "AI coherence, alignment and coordination across projects."
+          },
+          {
+            "title": "River Queen",
+            "text": "Water security, restoration and the blue economy."
+          },
+          {
+            "title": "Forge Queen",
+            "text": "Manufacturing, trades and working prototypes."
+          },
+          {
+            "title": "Ember Queen",
+            "text": "Energy, hazard resilience and local systems."
+          },
+          {
+            "title": "Silk Queen",
+            "text": "Trade, export and Asia-Pacific connections."
+          },
+          {
+            "title": "Lore Queen",
+            "text": "Governance, law and democratic participation."
+          },
+          {
+            "title": "Dream Queen",
+            "text": "Storytelling, culture, arts and immersive media."
+          }
+        ]
+      },
+      {
+        "heading": "The twelve Cultural Anchor Queens",
+        "paragraphs": [
+          "Rainbow Serpent Queen, Dragon Queen, Lotus Queen, Olive Queen, Crescent Queen, Coral Queen, Clover Queen, Flame Queen, Phoenix Queen, Sun Queen, Pearl Queen and Prism Queen form the cultural and identity strand of the original design.",
+          "Together, the proposed strands span First Nations, East and South Asian, Mediterranean, Middle Eastern and Central Asian, Pacific, Celtic, African, Southeast Asian, Anglo-colonial, mixed-heritage and inclusive perspectives. These are creative AI characters. Cultural knowledge, interpretation and permission remain with the people involved. Ready S.E.T. Co-op's cultural intelligence approach connects a contribution to its source, purpose and agreed uses."
+        ]
+      },
+      {
+        "heading": "Rehearse a decision, then test it",
+        "paragraphs": [
+          "Imagine exploring a new water service with River, Forge and Shield. River helps frame the need; Forge asks what can be built and measured; Shield helps prepare the questions about agreements, intellectual property and funding. The participant makes the decision, with appropriate human expertise and the people affected by the work.",
+          "A session would begin with an enterprise brief and approved sources. The participant explores alternatives, prepares a result and takes it to a human mentor for review. Recording the decision and what happened afterwards gives the next session better evidence."
+        ]
+      },
+      {
+        "heading": "Build the mentorship service",
+        "paragraphs": [
+          "Establishment means assembling 24 character briefs, connecting approved source libraries and testing realistic business scenarios with prospective participants. Hosting, maintenance and human mentoring need a costed delivery plan.",
+          "Measure accuracy, usefulness, cost and access. Corrections and well-sourced examples can improve the service over time. The Council is currently a mentorship design to develop; the site introduces its characters and method without claiming that a live AI mentoring service is operating."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "500 Queens planning document, 23 September 2026",
+        "href": "references/documents/queens-venture-capital-planning-document.pdf"
+      },
+      {
+        "title": "Ready S.E.T. Cultural Intelligence Node",
+        "href": "https://auraofintelligence.github.io/ready-set-co-op-cultural-intelligence-node/"
+      },
+      {
+        "title": "Original 500 Queens site",
+        "href": "https://auraofintelligence.github.io/Queens_Venture/"
+      }
+    ]
+  },
+  {
+    "slug": "shared-intelligence",
+    "title": "Shared intelligence",
+    "heading": "Put useful intelligence within reach.",
+    "dek": "Personal tools, shared computing and scientific collaboration can help women build enterprises with lasting public value.",
+    "hero": "council-hero",
+    "sections": [
+      {
+        "heading": "Start with what people need to do",
+        "paragraphs": [
+          "Trustworthy AI connects personal development, executive learning, care, creativity and long-term civilisation planning. The questions are practical: who owns productive intelligence, who can use it and who receives the benefits? The proposed programme places human capability and shared prosperity at the centre.",
+          "A leadership participant might need to compare a budget, prepare a decision brief or rehearse a presentation. A creative team may need editing, rendering and translation. Researchers may need to examine sensor data or run a materials model. Begin with those workloads, the people doing them and the result that would be useful."
+        ]
+      },
+      {
+        "heading": "A connected range of computing",
+        "paragraphs": [
+          "The missing middle of computing connects personal devices with local shared services, regional and national systems, and cloud services. Each has a role. Local control can help people choose what they share, what remains private and which services fit their work.",
+          "Ready S.E.T. Co-op's proposed Cultural Intelligence Node explores this through media production, local models, digital twins, fabrication and environmental observation. The Dunwich rack is a reference proposal with its own engineering and financial case. A Brisbane incubator would choose and price the access it actually needs."
+        ]
+      },
+      {
+        "heading": "From access to a useful result",
+        "paragraphs": [],
+        "table": {
+          "headers": [
+            "Work",
+            "What shared intelligence could help produce"
+          ],
+          "rows": [
+            [
+              "CEO development",
+              "Source-based research, an AI Queens rehearsal and a reviewed decision brief."
+            ],
+            [
+              "Creative enterprise",
+              "Editing, rendering or translation for a client-ready production."
+            ],
+            [
+              "Science and engineering",
+              "A materials model, sensor analysis or reproducible experiment."
+            ],
+            [
+              "Local business and resilience",
+              "Scheduling, a service map or a tested continuity arrangement."
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "An enterprise family to explore",
+        "paragraphs": [
+          "The original Aura ideas include Innovation Labs, Universal Translation, AI In-Home Auto-Farms, Smart Pod Hotels, Entrepreneurs Co-Living, Clothing and Wellness, Entertainment, Travel, the Affinity Marketplace and Gamify Democracy. Personalised disability and aged-care support is another proposed field.",
+          "Each needs a present-day service brief: intended users, the work to be done, suitable technology and a benefit that can be tested. In a care project, participants would work with practitioners and intended users. AI can support research, simulation and preparation while those people shape the service and its responsibilities."
+        ]
+      },
+      {
+        "heading": "Price the work and preserve the evidence",
+        "paragraphs": [
+          "Compare purchased access, an institutional arrangement and a locally operated node. Count computing, software, storage, power, cooling, maintenance and people. The cheapest equipment price alone does not describe the cost of a usable service.",
+          "The Sensorium concept links Earth-space observations, simulations and open scientific debate. Alongside Virtual Solar Swarm, space-weather research and Extreme Matter Atlas, it suggests enterprises built around preserved data sources, competing explanations and reproducible tests.",
+          "Ready S.E.T. connects equipment with paid work and training. Mutual Futures connects productivity with ownership and freedom over time. Record agreed uses of cultural material and measure output, errors, cost and benefits returned to participants. Those results show whether shared intelligence is making daily life better."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "500 Queens planning document, 23 September 2026",
+        "href": "references/documents/queens-venture-capital-planning-document.pdf"
+      },
+      {
+        "title": "Ready S.E.T. Cultural Intelligence Node",
+        "href": "https://auraofintelligence.github.io/ready-set-co-op-cultural-intelligence-node/"
+      },
+      {
+        "title": "A Fair Go for the AI Age",
+        "href": "references/documents/a-fair-go-for-the-ai-age-federated-sovereign-compute-for-australian-communities.docx"
+      },
+      {
+        "title": "UNGA81 Joyful Responsible Abundance paper",
+        "href": "references/documents/unga81-joyful-responsible-abundance-refined-new-reference-links.pdf"
+      }
+    ]
+  },
+  {
+    "slug": "care",
+    "title": "Care and C-Hour",
+    "heading": "Make the care around us visible.",
+    "dek": "Recognise contribution, encourage participation and let leadership grow through helping one another.",
+    "hero": "commons-hero",
+    "sections": [
+      {
+        "heading": "An hour, a contribution and a story",
+        "paragraphs": [
+          "C-Hour is a proposed mechanism for care and reciprocity. One verified hour of community contribution equals one C-Hour. It recognises time given, with no economic equivalent. The accompanying story records care, learning, relationships and results, making otherwise overlooked contributions visible without assigning them a price.",
+          "The Incomplete Ledger names the gap this addresses: ordinary financial accounts miss much of the care that sustains a community. Within 500 Queens, the idea is to recognise that work, measure progress and make participation encouraging, especially for young people."
+        ]
+      },
+      {
+        "heading": "Begin with something meaningful",
+        "paragraphs": [
+          "Help someone learn a tool, join a restoration activity, contribute to community science, support a creative production or share a useful skill. Each activity can connect participants with women leaders and mentors through work they find worthwhile.",
+          "Give the activity a clear purpose, an accessible starting task and someone to learn with. Confirm the contribution and time with the people involved, then add what changed or was learned. A return visit can reveal whether the original effort helped and what is needed next."
+        ]
+      },
+      {
+        "heading": "Progress worth recognising",
+        "paragraphs": [],
+        "cards": [
+          {
+            "title": "A skill shared",
+            "text": "Learning a tool and helping another person creates capability and a new mentoring relationship."
+          },
+          {
+            "title": "Environmental care",
+            "text": "Record the work completed and return to observe changes over time."
+          },
+          {
+            "title": "Science and making",
+            "text": "Recognise observations, experiments, repairs and shared learning alongside the finished result."
+          },
+          {
+            "title": "Creative and community work",
+            "text": "Notice the care given, people helped and collective result behind an event or production."
+          }
+        ]
+      },
+      {
+        "heading": "Scan, design, simulate, do, share",
+        "paragraphs": [
+          "The Gamify Democracy sequence turns a local need into a cooperative challenge. Scan the situation with the people involved. Design a response. Try it in a model or rehearsal. Carry out the activity. Share the result so others can learn from it.",
+          "A community garden or accessible public-space project can make each step visible. Participants might compare options, divide tasks, learn skills and return to see what changed. Learning milestones and recognition should celebrate curiosity, persistence, care and helping others as well as completed work.",
+          "Young people help shape the challenges and the forms of recognition that encourage them to return. AI Queens could help explain an activity, explore options and support reflection. Human relationships give the record its meaning."
+        ]
+      },
+      {
+        "heading": "Care and leadership grow together",
+        "paragraphs": [
+          "A progress record brings together the contribution, recognised time, learning and observed result. It creates encounters with leadership before someone has a business, qualification or investment pitch. Listening, organising, encouraging others and following through are already leadership practice.",
+          "Mentors can recognise developing capability and invite further learning. Review who joins, who returns, what people learn and how reciprocal help develops. Grants, wages and investment remain in the programme's financial accounts. C-Hour belongs to its account of community contribution and progress."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "500 Queens planning document, 23 September 2026",
+        "href": "references/documents/queens-venture-capital-planning-document.pdf"
+      },
+      {
+        "title": "Australian C-Hour Legislative Strategy",
+        "href": "references/documents/australian-c-hour-legislative-strategy.pdf"
+      },
+      {
+        "title": "Local Government Funding submission",
+        "href": "references/documents/local-government-2funding-inquiry-submission.pdf"
+      }
+    ]
+  },
+  {
+    "slug": "capital",
+    "title": "Capital and shared prosperity",
+    "heading": "Back the work. Grow the possibilities.",
+    "dek": "Bring enterprise grants, leadership development and operating support together around clear uses of money.",
+    "hero": "capital-hero",
+    "sections": [
+      {
+        "heading": "Build a funding case people can examine",
+        "paragraphs": [
+          "The proposed funding pack brings together a delivery group or suitable host, enterprise briefs, a five-year guide, current operating costs and a payment schedule. It should show what each contribution makes possible and who is responsible for delivery. Research requests can include laboratory access, samples, prototypes and a defined next measurement.",
+          "500 Queens is at the establishment stage. Luke has contributed the vision and public materials voluntarily, with no money committed and no operating or fundraising role undertaken. Interested people with delivery experience, relationships and backing would be needed to establish the programme."
+        ]
+      },
+      {
+        "heading": "Four kinds of backing",
+        "paragraphs": [],
+        "cards": [
+          {
+            "title": "Enterprise grants",
+            "text": "Philanthropists, foundations, sponsors and suitable public programmes could support useful enterprise work. The original guide proposes 100 grants of A$50,000 each year."
+          },
+          {
+            "title": "Incubator operations",
+            "text": "Anchor sponsors, programme funders and an operating host could support staff, premises, learning, mentoring, events and overheads."
+          },
+          {
+            "title": "Establishment",
+            "text": "Founding backers and hosts could help with setup, deposits, systems, professional work or agreed facilities and services."
+          },
+          {
+            "title": "Investment and succession",
+            "text": "Experienced investors, fund operators and succession partners could later support enterprise growth or negotiated business transfers."
+          }
+        ]
+      },
+      {
+        "heading": "The original Australian five-year guide",
+        "paragraphs": [
+          "These are rounded 2021 planning inputs for 100 enterprises annually over five years. Replace them with current costs, programme choices and setup requirements before making an actual funding request."
+        ],
+        "table": {
+          "headers": [
+            "Use",
+            "Annual guide",
+            "Five-year guide"
+          ],
+          "rows": [
+            [
+              "Enterprise grants",
+              "A$5 million",
+              "A$25 million"
+            ],
+            [
+              "Incubator and accelerator operations",
+              "A$1 million",
+              "A$5 million"
+            ],
+            [
+              "Combined guide",
+              "A$6 million",
+              "A$30 million"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Make the numbers serve the programme",
+        "paragraphs": [
+          "The original grants take no equity and require no repayment. The derived A$10,000 operating allocation per enterprise pays for pooled incubator services; it is not an additional grant. Leadership participants, grants and executive appointments should be counted separately. Each five-year delivery period begins when funded operations open.",
+          "One, five or ten A$50,000 grants give conversation sizes of A$50,000, A$250,000 or A$500,000. Four A$250,000 operating contributions equal the old annual A$1 million guide. The archive also proposes A$5, A$10, A$20, A$50 and A$100 support packs. Any real offer needs priced delivery, with donations, purchases and investment recorded separately."
+        ]
+      },
+      {
+        "heading": "From commitments to shared prosperity",
+        "paragraphs": [
+          "Compare a suitable host with a dedicated operation. Agree the receiving organisation, spending responsibility, terms and reporting. Match signed commitments to rent, payroll, teaching and grant payments. Calculate the cash still needed in each payment period after confirmed backing and costs replaced by agreed in-kind support.",
+          "Investment subscriptions require an experienced fund operator and legal adviser to address structure, licensing and terms. Later investment capital would cover planned investments, follow-on reserves and fund costs.",
+          "Mutual Futures adds paid placements, income that meets living needs, ownership participation and time for care, learning and intermittent retirement. After costs, taxes, financing, asset spending and reserves, available cash could support ownership returns, shared services and income or leave arrangements. Measure who benefits and whether those arrangements are funded."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "500 Queens planning document, 23 September 2026",
+        "href": "references/documents/queens-venture-capital-planning-document.pdf"
+      },
+      {
+        "title": "Mutual Futures",
+        "href": "https://auraofintelligence.github.io/mutual-futures/"
+      },
+      {
+        "title": "Original funding presentation",
+        "href": "references/documents/500-queens-vc-new-long.pptx"
+      }
+    ]
+  },
+  {
+    "slug": "brisbane",
+    "title": "A Brisbane home",
+    "heading": "A shared home for ambitious work.",
+    "dek": "Flexible desks, teaching, mentoring and connection, with 24-hour access and participation from home in the proposed model.",
+    "hero": "home-hero",
+    "sections": [
+      {
+        "heading": "Start in the heart of Brisbane",
+        "paragraphs": [
+          "500 Queen Street anchors the proposed Brisbane incubator. The idea is a place where developing executives, entrepreneurs, mentors and researchers can work alongside one another. A shared home would support concentrated work, teaching, meetings and the informal conversations that turn an introduction into a useful relationship.",
+          "Overlapping hot desks, 24-hour access and working from home are integral to the plan. A growing community should be able to participate without everyone needing a permanent desk or attending at the same time. Actual after-hours access would need to be agreed in a tenancy proposal."
+        ]
+      },
+      {
+        "heading": "Compare two fitted-office options",
+        "paragraphs": [
+          "The 23 September 2026 planning document records the following Caden listing comparison. Annual rent figures use the annual basis supplied by Luke and are pre-incentive planning inputs. Lease terms, GST, outgoings, incentives and access conditions need confirmation for a real tenancy."
+        ],
+        "table": {
+          "headers": [
+            "Option",
+            "Advertised fit-out in the plan",
+            "Annual rent comparison"
+          ],
+          "rows": [
+            [
+              "Level 2, 830 sqm",
+              "64 open-plan workstations, 3 executive offices and meeting rooms",
+              "A$697,200"
+            ],
+            [
+              "Level 7, 422 sqm",
+              "43 open-plan workstations, 1 executive office and meeting rooms",
+              "A$367,140"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Count the whole operation",
+        "paragraphs": [
+          "Against the old A$1 million annual operating guide, Level 2 leaves A$302,800 after rent, while Level 7 leaves A$632,860. The difference is A$330,060 annually, or A$1,650,300 over five years if rents remain unchanged. These comparisons help expose the operating question: what programme can the full budget actually support?",
+          "Add staff, learning and mentoring, marketing and events, technology and administration, access support and contingency. Include cleaning, connectivity, insurance, access control and after-hours support. Obtain quotes for the chosen arrangement before updating the five-year funding guide."
+        ]
+      },
+      {
+        "heading": "Make space work around people",
+        "paragraphs": [
+          "One booking calendar could connect desks, teaching and events with online participation and AI Queens access from home. Weekly shared desk-hours are the number of shared desks multiplied by bookable hours. Compare actual bookings and peak attendance with that capacity.",
+          "Repeated sessions, working from home and added space can respond to demonstrated demand. People should be able to understand when a desk or session is available and which services their participation includes. The purpose is useful access across different working lives."
+        ]
+      },
+      {
+        "heading": "Share the services that matter",
+        "paragraphs": [
+          "Oceania Healthy De-Slop Co-ops informs the wider shared-facility idea: pooled equipment, local computing and space for wellbeing and connection. Choose useful services with clear ownership, membership access, operating responsibility and contributions.",
+          "Shared computing and operator support belong in the technology budget. A rack-scale node has a separate capital and engineering case. Participant-controlled personal reflection should remain separate from operational records.",
+          "Queen's Wharf remains part of the original global-headquarters ambition. A whole-building purchase would require its own acquisition finance, rental income and property-cost analysis. The immediate planning task is a suitable shared home with a programme and operating budget that work together."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "500 Queens planning document, 23 September 2026",
+        "href": "references/documents/queens-venture-capital-planning-document.pdf"
+      },
+      {
+        "title": "Caden: 500 Queen Street",
+        "href": "https://caden.com.au/building/500-queen-street/"
+      },
+      {
+        "title": "Oceania Healthy De-Slop Co-ops",
+        "href": "https://auraofintelligence.github.io/Oceania-healthy-de-slop-co-ops/"
+      }
+    ]
+  },
+  {
+    "slug": "global",
+    "title": "Oceania and the world",
+    "heading": "Start locally. Connect across the world.",
+    "dek": "Share teaching, research and opportunity while each community shapes the work that matters to it.",
+    "hero": "horizons-hero",
+    "sections": [
+      {
+        "heading": "Connected people, distinct places",
+        "paragraphs": [
+          "The international ambition grows from useful enterprises, relationships and backing. A network could share teaching, research, tools, mentoring and investment introductions while local communities shape their programmes. GAJRA's garland analogy captures the idea: distinct flowers connected through a shared purpose.",
+          "The Australian starting ambition is at least 500 women developing and exercising leadership. The original UNG20 pathway connects 500 across 20 national programmes with an aspiration to involve the United Nations, giving a starting scale of 10,000. A further 500 across 100 programme equivalents illustrates 50,000. Each figure is a minimum ambition with room for more participants and repeat intakes."
+        ]
+      },
+      {
+        "heading": "Build each connection through work",
+        "paragraphs": [
+          "Bring a local group, a willing delivery partner and potential backers together around an opportunity. Run a shared project, price the local programme and agree services, representation and use of the name. Publish its activities and results before extending the relationship to the next community.",
+          "The Vuvale and Ocean of Peace submissions contribute a Pacific approach: listening, reciprocal learning and locally chosen projects in food, climate resilience, cultural production and civic AI. These are cooperation proposals. Government partnerships and involvement by UN organisations would need to be established through their own conversations and decisions."
+        ]
+      },
+      {
+        "heading": "Understand the scale of the original guide",
+        "paragraphs": [
+          "The comparison below repeats the rounded 2021 Australian grant and operating inputs over five years. It illustrates scale, with local costs, currencies, programme sizes and start dates still to be worked through."
+        ],
+        "table": {
+          "headers": [
+            "Reference scale",
+            "Five-year grants",
+            "Five-year operations",
+            "Combined guide"
+          ],
+          "rows": [
+            [
+              "500, one programme",
+              "A$25 million",
+              "A$5 million",
+              "A$30 million"
+            ],
+            [
+              "10,000, twenty equivalents",
+              "A$500 million",
+              "A$100 million",
+              "A$600 million"
+            ],
+            [
+              "50,000, one hundred equivalents",
+              "A$2.5 billion",
+              "A$500 million",
+              "A$3 billion"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Carry the investment ambition forward",
+        "paragraphs": [
+          "The original Series A ambition envisages A$500 million to A$10 billion in fund capital, with A$200,000 to A$10 million invested per enterprise. Series B and beyond imagines A$100 million to A$10 billion per investment and a fund larger than the SoftBank Vision Fund of that original period. These are historical ambitions for scale, not capital raised or currently available offers.",
+          "Build the next stage from enterprise cases: customer demand, leadership, financial records, use of funds and ownership terms. Capital sought would cover planned investments, follow-on reserves and fund costs. Access rights and fees need negotiation; a time-limited first look is one alternative to the archive's exclusive Series A access."
+        ]
+      },
+      {
+        "heading": "Show what prosperity delivers",
+        "paragraphs": [
+          "Review community growth, paid executive responsibility, enterprise performance, available cash, income coverage and time for care and learning. These measures connect the Future of Life 2045 vision to daily experience.",
+          "Demonstrations, participant-approved stories and the proposed Earth-Space-AI Summit could help people find one another across borders. Keep the next action visible in each group: the work, a willing contact, resources and a date. Useful enterprises can then support further opportunity while shared research carries knowledge from local needs towards the solar-system horizon."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "500 Queens planning document, 23 September 2026",
+        "href": "references/documents/queens-venture-capital-planning-document.pdf"
+      },
+      {
+        "title": "Fiji-Australia Vuvale Union submission",
+        "href": "references/documents/fiji-australia-vuvale-union-submission-luke-nathan-hayes-2026.docx"
+      },
+      {
+        "title": "Ocean of Peace Alliance submission",
+        "href": "references/documents/ocean-of-peace-alliance-veitacini-treaty-submission-luke-nathan-hayes-2026.docx"
+      },
+      {
+        "title": "Future of Life 2045",
+        "href": "https://auraofintelligence.github.io/Future-of-Life-2045/"
+      }
+    ]
+  },
+  {
+    "slug": "vision",
+    "title": "The vision",
+    "heading": "Women leading a future worth building.",
+    "dek": "Joyful responsible abundance connects enterprise, intelligence, care and the long work of civilisation.",
+    "hero": "horizons-hero",
+    "sections": [
+      {
+        "heading": "Leadership with the means to act",
+        "paragraphs": [
+          "500 Queens Venture Capital is a plan to develop women as CEOs, enterprise leaders and decision makers, with capital and relationships to put that leadership into practice. Its purpose is joyful responsible abundance: a rewarding life, responsibility for consequences and prosperity that reaches more people.",
+          "That includes women building a first enterprise, improving an existing business, leading research or taking responsibility for investment. It also includes people who do not arrive with a startup idea. Community participation, learning and useful work can be the beginning."
+        ]
+      },
+      {
+        "heading": "Five ambitions, one larger purpose",
+        "paragraphs": [],
+        "cards": [
+          {
+            "title": "World-leading ecosystems",
+            "text": "Connect enterprises, learning, research and shared services so progress in one place can help people elsewhere."
+          },
+          {
+            "title": "The biggest moonshots",
+            "text": "Give difficult, long-horizon ideas a route towards a clear brief, a practical experiment and a measurable next result."
+          },
+          {
+            "title": "Trustworthy AI",
+            "text": "Develop intelligence that expands human capability, with meaningful choices about access, ownership and benefits."
+          },
+          {
+            "title": "Major cinematic storytelling",
+            "text": "Help people imagine possible futures through ambitious film, culture and shared stories grounded in a visible source trail."
+          },
+          {
+            "title": "Autonomously built resilient cities",
+            "text": "Explore the systems and components of long-term resilience, keeping working technologies, proposed integration and speculative horizons identifiable."
+          }
+        ]
+      },
+      {
+        "heading": "Why Brisbane, why 500",
+        "paragraphs": [
+          "Luke Nathan Hayes began the idea during COVID while living in Festival Towers, responding to reporting about the small share of venture capital reaching women-led companies. The connection between Hancock Prospecting and 500 Queen Street inspired the arbitrary starting number. Queen's Wharf suggested a global headquarters and Brisbane 2032 added an international horizon.",
+          "The current Australian reference is the 2025 State of Australian Startup Funding report: female-only founding teams received 2% of funding, while teams with at least one female founder received 24%, including that 2%. These describe founding-team funding categories. The 500 Queens purpose reaches further into who sets strategy, controls resources, holds ownership and makes consequential decisions."
+        ]
+      },
+      {
+        "heading": "From participation to economic influence",
+        "paragraphs": [
+          "The proposed path connects community participation, an enterprise idea, AI Queens and experienced mentors, practical leadership and capital for delivery. Enterprise grants, later investment and business succession offer different routes. Productive work can then strengthen livelihoods, shared knowledge and further opportunity.",
+          "At least 500 women developing and exercising leadership in Australia is the first scale. The international starting ambitions are 10,000 and 50,000, with open-ended growth beyond them. These are ambitions to pursue, not a count of existing members or funded places."
+        ]
+      },
+      {
+        "heading": "A good life belongs in the economics",
+        "paragraphs": [
+          "Mutual Futures contributes paid exploration of work, pathways into ownership, adequate incomes and time for care, learning and intermittent retirement. Grain by Grain contributes the task of solving for existential threats while improving life now. Shared intelligence, facilities and scientific collaboration widen access to the tools for that work.",
+          "The vision has been contributed voluntarily by Luke, with no money committed and no operating or fundraising role undertaken. Establishment begins with interested people bringing delivery experience, relationships and backing. The next chapter is practical: gather the people, choose useful work and build the means for women to lead it."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "500 Queens planning document, 23 September 2026",
+        "href": "references/documents/queens-venture-capital-planning-document.pdf"
+      },
+      {
+        "title": "State of Australian Startup Funding 2025",
+        "href": "https://www.australianstartupfunding.com/"
+      },
+      {
+        "title": "Mutual Futures",
+        "href": "https://auraofintelligence.github.io/mutual-futures/"
+      },
+      {
+        "title": "Grain by Grain",
+        "href": "https://auraofintelligence.github.io/grain-by-grain-documentary/"
+      },
+      {
+        "title": "GAJRA Earth Infinity",
+        "href": "https://auraofintelligence.github.io/GAJRA-earth-infinity/"
+      }
+    ]
+  }
+]

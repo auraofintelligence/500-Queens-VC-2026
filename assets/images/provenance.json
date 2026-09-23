@@ -122,6 +122,66 @@
       ],
       "disclosure": "AI-generated concept imagery. People and places are illustrative, not actual participants, built facilities or investments.",
       "optimisation": "Pillow WebP quality 83; downscaled only, no content edits."
+    },
+    {
+      "slug": "vision-hero",
+      "generatedAt": "2026-09-23T12:39:05.648871+00:00",
+      "prompt": "Use case: stylized-concept. Asset type: full-width landscape website hero, wide 1536 by 1024 composition. An extraordinary original editorial architectural artwork for the vision of 500 Queens Venture Capital. In a remarkable circular gallery with warm champagne bronze ribs, luminous ivory stone and tall plum-violet recesses, a large meticulously made living coastal city architectural model sits on a circular walnut table. The model shows low rise homes, lush urban gardens, connected public spaces, clean energy roofs, workshops and a sheltered bay: a joyful responsible future at human scale. Three thoughtful adult women of varied skin colours and ages, dressed in elegant practical cream and purple linen, stand around the model planning together with natural gestures. Scale is clear: this is a physical model being discussed, not an existing city. Camera wide, eye level slightly elevated to reveal intricate model and graceful circular room, striking but credible materials. Daylight and discreet golden lighting, rich luminous royal editorial quality, welcoming, intellectual and ambitious. No crowns, no costumes, no handshake, no letters, numbers, signs, logos, readable pages or watermarks. Concept art with realistic skin and credible hands.\n",
+      "sourceDimensions": [
+        1536,
+        1024
+      ],
+      "files": [
+        "vision-hero.webp",
+        "vision-hero-mobile.webp"
+      ],
+      "disclosure": "AI-generated concept imagery. People and places are illustrative, not actual participants, built facilities or investments.",
+      "optimisation": "Pillow WebP quality 83; downscaled only, no content edits."
+    },
+    {
+      "slug": "catalogue-hero",
+      "generatedAt": "2026-09-23T12:40:19.057166+00:00",
+      "prompt": "Use case: stylized-concept. Asset type: full-width landscape website hero, wide 1536 by 1024 composition. Create a beautifully detailed physical cabinet of invention prototypes, an original luxurious editorial artwork for a women-led venture concept catalogue. A remarkable wide cabinet with deep plum velvet backing, curved dark walnut shelves, slender champagne brass frames and sophisticated museum lighting. On its shelves and a large workbench in the foreground are tangible miniature and bench-sized prototypes: a friendly functional small wheeled research robot without a face, a clear glass water filtration column, a compact solar and battery module, an elegant satellite instrument with foil and small solar panels, ceramic material samples, folded plant-fibre textiles, and a precision optical instrument. These are carefully composed useful inventions, each visually distinct and credible, not crowded. Beautiful material textures, clear glass, brushed metal, hand-finished wood, warm violet and gold light. Atmosphere of curiosity, possibility and rigorous making. No people needed. Camera slightly oblique wide view with layered depth, extraordinary craftsmanship, no fantasy treasure or ornate trinkets. No labels, logos, numbers, letters, charts, screens, symbols, cryptocurrency or watermarks. No text anywhere. The scene is illustrative concept art.\n",
+      "sourceDimensions": [
+        1536,
+        1024
+      ],
+      "files": [
+        "catalogue-hero.webp",
+        "catalogue-hero-mobile.webp"
+      ],
+      "disclosure": "AI-generated concept imagery. People and places are illustrative, not actual participants, built facilities or investments.",
+      "optimisation": "Pillow WebP quality 83; downscaled only, no content edits."
+    },
+    {
+      "slug": "intelligence-hero",
+      "generatedAt": "2026-09-23T12:41:47.642939+00:00",
+      "prompt": "Use case: photorealistic-natural. Asset type: full-width landscape website hero, wide 1536 by 1024 composition. Original sophisticated editorial photography concept of a woman researcher and two women creative collaborators working with tangible modular local computing and media tools in a beautiful studio. Main researcher is a young adult woman with brown skin, natural dark curls and practical cream shirt; she carefully connects a small modular computer board on a broad timber workbench, while one colleague in plum linen operates a compact sound mixing console and another prepares a professional camera on a small tripod. The open computer housing reveals neatly arranged realistic electronic components and cables, no fantasy holograms. One monitor angled away shows a soft abstract violet waveform without any readable letters or numbers. Practical studio with acoustic textile panels, small warm brass task lamps, books with blank spines, a houseplant, elegant stone and walnut surfaces. Balance actual useful tools with royal purple and champagne lighting, warm collaborative competence and care, realistic skin texture and credible hands. Cinematic wide scene at workbench height, people centred, no exaggerated neon cyberpunk. No crowns, no suits handshake, no text, logos, watermarks, financial charts, crypto symbols, giant robots or fake floating interfaces. Illustrative concept of a proposed local research workspace.\n",
+      "sourceDimensions": [
+        1536,
+        1024
+      ],
+      "files": [
+        "intelligence-hero.webp",
+        "intelligence-hero-mobile.webp"
+      ],
+      "disclosure": "AI-generated concept imagery. People and places are illustrative, not actual participants, built facilities or investments.",
+      "optimisation": "Pillow WebP quality 83; downscaled only, no content edits."
+    },
+    {
+      "slug": "care-hero",
+      "generatedAt": "2026-09-23T12:43:18.896951+00:00",
+      "prompt": "Use case: photorealistic-natural. Asset type: full-width landscape website hero, wide 1536 by 1024 composition. Create a beautiful original editorial photograph concept of meaningful reciprocity and intergenerational learning in a subtropical community garden. At an accessible raised timber garden bed, an older adult woman with silver hair and a warm natural smile teaches two young adult women with different skin colours how to transplant a healthy basil seedling. Their hands are visibly doing a simple credible careful gardening task, a small hand trowel and terracotta pots on the bed edge. Another adult woman waters leafy vegetables quietly in background. All wear comfortable practical clothes in cream, plum and warm earth tones, with simple garden gloves where suitable, no formal dresses. Surround them with edible plants, flowers, passionfruit vines, a shaded open timber learning pavilion and distant palms. Warm afternoon sunlight through leaves produces gentle champagne highlights and natural rich greens balanced with subtle royal purple flowers. Beautiful magazine quality but grounded joyful human care, authentic wrinkles and skin textures, not staged business posing. Camera at garden bed height, wide layered composition, open welcoming setting. No readable signs, labels, text, logos, watermarks, charts or symbols. Illustrative concept, no claims about actual participants.\n",
+      "sourceDimensions": [
+        1536,
+        1024
+      ],
+      "files": [
+        "care-hero.webp",
+        "care-hero-mobile.webp"
+      ],
+      "disclosure": "AI-generated concept imagery. People and places are illustrative, not actual participants, built facilities or investments.",
+      "optimisation": "Pillow WebP quality 83; downscaled only, no content edits."
     }
   ]
 }

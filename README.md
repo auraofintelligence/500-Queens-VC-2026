@@ -27,7 +27,7 @@ The optional browser check uses Playwright with installed Microsoft Edge. Set `P
 
 The 23 September 2026 planning document guides the public explanation. Historical archives retain their original wording, local links and obsolete references. Named premises, partners, funding, programmes and global relationships are proposals unless explicitly evidenced otherwise. C-Hour recognises community contribution and has no economic equivalent.
 
-The site has no account system, analytics, payment collection or application backend. The starting-note tool downloads a local text file. Its contents are not submitted. Site fonts are served by Google Fonts.
+The site has no account system, analytics, payment collection or application backend. The starting-note tool downloads a local text file. Its contents are not submitted. Site fonts are bundled locally under their original open font licences.
 
 ## Licence
 
