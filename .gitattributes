@@ -5,6 +5,8 @@
 *.json text eol=lf
 *.py text eol=lf
 references/documents/** -text -diff
+# Extracted reference text retains the source's line-end spacing.
+references/previews/**/readable-text.txt -whitespace
 *.png binary
 *.webp binary
 *.ico binary

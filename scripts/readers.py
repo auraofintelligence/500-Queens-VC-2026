@@ -10,11 +10,9 @@ def build_readers(root,section):
     for r in records:
         fragment=(root/r['fragment']).read_text(encoding='utf-8')
         count=r.get('pageCount',0)
-        detail=f'{count} pages or slides' if count else 'Full document'
+        detail=f'{count} slides' if r['format']=='PPTX' else f'{count} pages' if r['format']!='MD' and count else 'Full document'
         body='<nav class="context-nav wrap" aria-label="Source library"><a href="references.html#documents">All references</a><span aria-hidden="true">/</span><a href="#read">Read online</a></nav>'
-        body+='<section class="section light" id="read"><div class="wrap"><div class="reader-toolbar"><div><h2>Read the source.</h2><p>'+e(r['format'])+' original · '+detail+'</p></div><a class="button" href="'+e(r['sourceHref'])+'" download>Download original '+e(r['format'])+' ↓</a></div><p class="notice">This is the supplied source material. Its original dates, wording and proposals remain part of the record. The current website develops these ideas further.</p>'
-        if r['previewType']!='markdown':
-            body+='<p class="reader-help">Browse the pages below. Tap a page to open it at full size and zoom in. Readable text is available beneath each page.</p>'
+        body+='<section class="section light" id="read"><div class="wrap"><div class="reader-toolbar"><div><h2>Read the source.</h2><p>'+e(r['format'])+' original · '+detail+'</p></div><a class="button" href="'+e(r['sourceHref'])+'" download>Download original '+e(r['format'])+' ↓</a></div><p class="notice">Original source material, including its historical dates and proposals.</p>'
         body+='<div class="source-reader">'+fragment+'</div></div></section>'
         body+=section('Keep exploring.','<div class="actions"><a class="button" href="references.html#documents">Back to the library →</a><a class="button secondary" href="'+e(r['sourceHref'])+'" download>Download original '+e(r['format'])+' ↓</a></div>')
         title=r['title'].strip()

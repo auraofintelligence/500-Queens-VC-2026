@@ -22,6 +22,7 @@ for item in es+cs:
     for p in item.get('projectSlugs',[]):
         if p not in projects:errors.append(f'Unknown connected project {p} in {item["id"]}')
 for s in es:
+    if len(s.get('equalityQuestions',[]))<2:errors.append(f'Missing venture-specific equality questions: {s["title"]}')
     original_record=original['enterprises'][s['catalogueIndex']]
     if s['title'] not in [original_record['title'],original_record.get('planningTitle')]:errors.append(f'Original title changed: {s["title"]}')
     if s['categoryId']!=original_record['categoryId']:errors.append(f'Original category changed: {s["title"]}')

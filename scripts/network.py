@@ -18,6 +18,7 @@ class Network:
         cat_order={c['id']:i for i,c in enumerate(self.original.get('categories',[]))}
         self.categories.sort(key=lambda x:cat_order.get(x['id'],99))
         self.projects={p['slug']:p for p in self.load('ventures.json',[])}
+        self.readers={r['sourceHref']:r['slug']+'.html#read' for r in self.load('reference-readers.json',[])}
         self.qmap={q['id']:q for q in self.queens};self.cmap={c['id']:c for c in self.categories}
         self.by_index={s['catalogueIndex']:s for s in self.enterprises}
         self.pages={};self.records=[]
@@ -63,7 +64,7 @@ class Network:
         return '<article class="card">'+self.picture(c['hero'],'GenAI illustration of '+c['title'])+f'<div class="card-inner"><span class="tag">{count} enterprise directions</span><a class="card-title" href="{self.path("category",c)}">{e(c["title"])}</a><p>{e(c["summary"])}</p>{self.save("category",c)}</div></article>'
     def queen_links(self,ids):return '<div class="grid">'+''.join(self.queen_card(self.qmap[i]) for i in dict.fromkeys(ids) if i in self.qmap)+'</div>'
     def category_links(self,ids):return '<div class="reading-links">'+''.join(f'<a href="{self.path("category",self.cmap[i])}">{e(self.cmap[i]["title"])}</a>' for i in dict.fromkeys(ids) if i in self.cmap)+'</div>'
-    def source_links(self,sources):return '<div class="reading-links">'+''.join(f'<a href="{e(s["href"])}">{e(s["title"])}</a>' for s in sources)+'</div>'
+    def source_links(self,sources):return '<div class="reading-links">'+''.join(f'<a href="{e(self.readers.get(s["href"],s["href"]))}">{e(s["title"])}</a>' for s in sources)+'</div>'
     def project_links(self,slugs):
         return '<div class="grid two">'+''.join(self.h['card'](e(self.projects[i]['title']),e(self.projects[i]['summary']),self.projects[i]['href'],tag='Connected public concept') for i in dict.fromkeys(slugs) if i in self.projects)+'</div>'
     def equality_questions(self,category_id):
