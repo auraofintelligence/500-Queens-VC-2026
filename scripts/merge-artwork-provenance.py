@@ -14,6 +14,6 @@ for path in sorted(root.glob('*provenance*.json')):
         name=files[0].removesuffix('.webp')
         assets[name]={'slug':name,'files':files,'prompt':a['prompt'],'tool':a.get('method','Built-in image_gen'),'review':a.get('review',''),'disclosure':'GenAI concept artwork depicting fictional people and proposed environments.'}
 main['assets']=list(assets.values())
-main['updated']='2026-09-23'
+main['updated']='2026-09-24'
 register.write_text(json.dumps(main,ensure_ascii=False,indent=2),encoding='utf-8')
 print(f'Registered {len(assets)} original artworks and their phone versions')

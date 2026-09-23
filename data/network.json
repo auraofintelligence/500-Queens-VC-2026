@@ -12,7 +12,7 @@
         "market-analysis"
       ],
       "queenIds": [],
-      "art": "queens/spark-queen"
+      "art": "queens-archetypes/spark-queen"
     },
     {
       "id": "queen:shield-queen",
@@ -26,7 +26,7 @@
         "extreme-metamaterials"
       ],
       "queenIds": [],
-      "art": "queens/shield-queen"
+      "art": "queens-archetypes/shield-queen"
     },
     {
       "id": "queen:seed-queen",
@@ -40,7 +40,7 @@
         "clean-power-systems"
       ],
       "queenIds": [],
-      "art": "queens/seed-queen"
+      "art": "queens-archetypes/seed-queen"
     },
     {
       "id": "queen:storm-queen",
@@ -54,7 +54,7 @@
         "aura-of-intelligence"
       ],
       "queenIds": [],
-      "art": "queens/storm-queen"
+      "art": "queens-archetypes/storm-queen"
     },
     {
       "id": "queen:star-queen",
@@ -68,7 +68,7 @@
         "extreme-metamaterials"
       ],
       "queenIds": [],
-      "art": "queens/star-queen"
+      "art": "queens-archetypes/star-queen"
     },
     {
       "id": "queen:super-queen",
@@ -82,7 +82,7 @@
         "market-analysis"
       ],
       "queenIds": [],
-      "art": "queens/super-queen"
+      "art": "queens-archetypes/super-queen"
     },
     {
       "id": "queen:river-queen",
@@ -96,7 +96,7 @@
         "clean-power-systems"
       ],
       "queenIds": [],
-      "art": "queens/river-queen"
+      "art": "queens-archetypes/river-queen"
     },
     {
       "id": "queen:forge-queen",
@@ -110,7 +110,7 @@
         "simulations-and-robots"
       ],
       "queenIds": [],
-      "art": "queens/forge-queen"
+      "art": "queens-archetypes/forge-queen"
     },
     {
       "id": "queen:ember-queen",
@@ -124,7 +124,7 @@
         "micro-architectures"
       ],
       "queenIds": [],
-      "art": "queens/ember-queen"
+      "art": "queens-archetypes/ember-queen"
     },
     {
       "id": "queen:silk-queen",
@@ -138,7 +138,7 @@
         "humanities-and-fun"
       ],
       "queenIds": [],
-      "art": "queens/silk-queen"
+      "art": "queens-archetypes/silk-queen"
     },
     {
       "id": "queen:lore-queen",
@@ -152,7 +152,7 @@
         "humanities-and-fun"
       ],
       "queenIds": [],
-      "art": "queens/lore-queen"
+      "art": "queens-archetypes/lore-queen"
     },
     {
       "id": "queen:dream-queen",
@@ -166,7 +166,7 @@
         "aura-of-intelligence"
       ],
       "queenIds": [],
-      "art": "queens/dream-queen"
+      "art": "queens-archetypes/dream-queen"
     },
     {
       "id": "queen:rainbow-serpent-queen",
@@ -180,7 +180,7 @@
         "aura-of-intelligence"
       ],
       "queenIds": [],
-      "art": "queens/rainbow-serpent-queen"
+      "art": "queens-archetypes/rainbow-serpent-queen"
     },
     {
       "id": "queen:dragon-queen",
@@ -194,7 +194,7 @@
         "simulations-and-robots"
       ],
       "queenIds": [],
-      "art": "queens/dragon-queen"
+      "art": "queens-archetypes/dragon-queen"
     },
     {
       "id": "queen:lotus-queen",
@@ -208,7 +208,7 @@
         "humanities-and-fun"
       ],
       "queenIds": [],
-      "art": "queens/lotus-queen"
+      "art": "queens-archetypes/lotus-queen"
     },
     {
       "id": "queen:olive-queen",
@@ -222,7 +222,7 @@
         "humanities-and-fun"
       ],
       "queenIds": [],
-      "art": "queens/olive-queen"
+      "art": "queens-archetypes/olive-queen"
     },
     {
       "id": "queen:crescent-queen",
@@ -236,7 +236,7 @@
         "humanities-and-fun"
       ],
       "queenIds": [],
-      "art": "queens/crescent-queen"
+      "art": "queens-archetypes/crescent-queen"
     },
     {
       "id": "queen:coral-queen",
@@ -250,7 +250,7 @@
         "waste-reclamation"
       ],
       "queenIds": [],
-      "art": "queens/coral-queen"
+      "art": "queens-archetypes/coral-queen"
     },
     {
       "id": "queen:clover-queen",
@@ -264,7 +264,7 @@
         "aura-of-intelligence"
       ],
       "queenIds": [],
-      "art": "queens/clover-queen"
+      "art": "queens-archetypes/clover-queen"
     },
     {
       "id": "queen:flame-queen",
@@ -278,7 +278,7 @@
         "extreme-metamaterials"
       ],
       "queenIds": [],
-      "art": "queens/flame-queen"
+      "art": "queens-archetypes/flame-queen"
     },
     {
       "id": "queen:phoenix-queen",
@@ -292,7 +292,7 @@
         "humanities-and-fun"
       ],
       "queenIds": [],
-      "art": "queens/phoenix-queen"
+      "art": "queens-archetypes/phoenix-queen"
     },
     {
       "id": "queen:sun-queen",
@@ -306,7 +306,7 @@
         "space-industry"
       ],
       "queenIds": [],
-      "art": "queens/sun-queen"
+      "art": "queens-archetypes/sun-queen"
     },
     {
       "id": "queen:pearl-queen",
@@ -320,7 +320,7 @@
         "aura-of-intelligence"
       ],
       "queenIds": [],
-      "art": "queens/pearl-queen"
+      "art": "queens-archetypes/pearl-queen"
     },
     {
       "id": "queen:prism-queen",
@@ -334,7 +334,7 @@
         "humanities-and-fun"
       ],
       "queenIds": [],
-      "art": "queens/prism-queen"
+      "art": "queens-archetypes/prism-queen"
     },
     {
       "id": "category:simulations-and-robots",

@@ -74,8 +74,8 @@ def build_site_map(root, helpers):
 
     queen_groups = []
     for group, title, description in [
-        ('pillar', 'The Civilisation Pillars', 'Mentors for ideas, care, science, enterprise and leadership.'),
-        ('cultural', 'The Cultural Anchor Queens', 'Different perspectives on belonging, experience and working across communities.')]:
+        ('pillar', 'The Civilisation Pillars', 'Archetypes of ideas, care, science, enterprise and leadership.'),
+        ('cultural', 'The Cultural Anchor Queens', 'Twelve source-defined cultural archetypes, each with her own identity and presence.')]:
         members = [queen for queen in queens if queen.get('group') == group]
         faces = ''.join(artwork(record_map.get('queen:' + queen['id'], {}).get('art', 'queens/' + queen['id']),
                                 '', 'map-peek-image') for queen in members[:3])

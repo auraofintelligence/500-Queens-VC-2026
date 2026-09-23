@@ -28,7 +28,7 @@ class Network:
             c['queenIds']=[self.queen_id(q) for q in c.get('queenIds',[]) if self.queen_id(q) in self.qmap]
             c['hero']='categories/'+c['id']
         for q in self.queens:
-            q['hero']='queens/'+q['id']
+            q.setdefault('hero','queens/'+q['id'])
             q['collaborators']=[self.queen_id(i) for i in q.get('collaborators',[]) if self.queen_id(i) in self.qmap and self.queen_id(i)!=q['id']]
 
     def load(self,name,default):
@@ -43,7 +43,7 @@ class Network:
     def picture(self,art,alt,cls='card-image'):
         # Category and Council artwork provide honest interim imagery in review batches.
         if not (self.root/'assets/images'/f'{art}.webp').exists():
-            art='council-hero' if art.startswith('queens/') else 'ventures-hero'
+            art='council-hero' if art.startswith('queens') else 'ventures-hero'
         return self.h['image'](art,alt,cls)
     def section(self,title,body,style=''):return self.h['section'](title,body,style)
     def paragraphs(self,texts):
@@ -55,7 +55,7 @@ class Network:
         return f'<button class="save-item" type="button" data-save-id="{kind}:{e(item["id"])}" data-save-title="{e(name)}" data-save-href="{self.path(kind,item)}" data-save-kind="{kind}" aria-label="Add {e(name)} to my pathway" aria-pressed="false">Add to my pathway +</button>'
     def crumbs(self,items):return '<nav class="context-nav wrap" aria-label="Within the network">'+''.join(f'<a href="{e(href)}">{e(label)}</a><span aria-hidden="true">/</span>' for label,href in items)+'<a href="network.html#my-pathway">My pathway</a></nav>'
     def queen_card(self,q):
-        return f'<article class="card queen-card" data-search="{e(q["name"]+" "+q["summary"]+" "+q["tagline"])}" data-category="{e(q["group"])}">'+self.picture(q['hero'],'Fictional AI Queen character: '+q['name'])+f'<div class="card-inner"><span class="tag">{"Civilisation Pillar" if q["group"]=="pillar" else "Cultural Anchor"}</span><a class="card-title" href="{self.path("queen",q)}">{e(q["name"])}</a><p>{e(q["tagline"])}</p>{self.save("queen",q)}</div></article>'
+        return f'<article class="card queen-card" data-search="{e(q["name"]+" "+q["summary"]+" "+q["tagline"]+" "+q.get("culturalIdentity",""))}" data-category="{e(q["group"])}">'+self.picture(q['hero'],'Fictional AI Queen character: '+q['name'])+f'<div class="card-inner"><span class="tag">{"Civilisation Pillar" if q["group"]=="pillar" else "Cultural Anchor"}</span><a class="card-title" href="{self.path("queen",q)}">{e(q["name"])}</a><p>{e(q.get("culturalIdentity",""))}</p><p>{e(q["tagline"])}</p>{self.save("queen",q)}</div></article>'
     def startup_card(self,s,art=False):
         c=self.cmap[s['categoryId']]
         return f'<article class="card enterprise-card" data-search="{e(s["title"]+" "+s["oneLine"]+" "+c["title"])}" data-category="{e(c["title"])}">'+(self.picture(c['hero'],'GenAI concept illustration for '+c['title']) if art else '')+f'<div class="card-inner"><a class="tag" href="{self.path("category",c)}">{e(c["title"])}</a><a class="card-title" href="{self.path("startup",s)}">{e(s["title"])}</a><p>{e(s["oneLine"])}</p><p class="stage-label">{e(s["evidence"]["stage"])}</p>{self.save("startup",s)}</div></article>'
@@ -93,6 +93,9 @@ class Network:
 
     def build_queen(self,q,sequence):
         body=self.crumbs([('AI Queens','ai-queens.html')])+self.action_band('queen',q)
+        if q.get('originalArchetype'):
+            clean=lambda value:value.replace('\u2013','-').replace('\u2014','-')
+            body+=self.section('Her place in the Council.',self.paragraphs([q['culturalIdentity']+'. '+clean(q['originalArchetype'])+'.','Her original domain: '+clean(q['originalDomain'])+'.',q['archetypalRole']])+'<a class="text-link" href="https://auraofintelligence.github.io/Queens_Venture/">Explore the original Council design →</a>','light')
         body+=self.section(q['tagline'],self.paragraphs(q['summary'])+f'<div class="mentor-voice"><p>{e(q["voice"])}</p><span>{e(q["name"])} · fictional AI mentor character</span></div>','light')
         body+=self.section('The perspective she brings.',self.paragraphs([q['role']]+q['approach']))
         body+=self.section('Work through a real decision.','<div class="grid">'+''.join(self.h['card'](e(x['title']),e(x['text'])) for x in q['helpsWith'])+'</div>','plum')
@@ -141,7 +144,7 @@ class Network:
         self.add_page('category',c,e(c['title']),c['summary'],c['hero'],body,sequence)
 
     def queen_hub(self):
-        body=self.section('Twenty-four Queens.<br>Many ways to lead.','<p>Each Queen is a distinct fictional AI mentor with her own perspective, working style and place in the enterprise network. Explore her profile, follow the ideas she connects with, and use her session guide to prepare a real decision.</p><p>The Council includes women of different ages, body sizes, appearances and styles. Glamour, practicality, curiosity and authority can belong to any of them. Their role is to support your judgement alongside experienced people.</p><div class="actions"><a class="button" href="network.html">Explore the connections →</a><a class="button secondary" href="network.html#my-pathway">Build my pathway →</a></div>','light')
+        body=self.section('Twenty-four archetypes.<br>A world of intelligence.','<p>The AI Queens form a pantheon of cultural and civilisation archetypes: ageless adult goddesses in their prime, expressing mastered intelligence, vitality and possibility. Each has her own cultural roots, domain, colour, clothing and presence, with physiques ranging from lean and athletic to richly voluptuous.</p><p>The AI Council and the 500 Queens have different roles. The Council provides imaginative guides; the venture network supports real women across ages, bodies, backgrounds and ways of living. Explore each archetype, her original identity and her practical learning guide.</p><div class="actions"><a class="button" href="network.html">Explore the connections →</a><a class="button secondary" href="network.html#my-pathway">Build my pathway →</a></div>','light')
         body+='<section class="section"><div class="wrap" data-filter-group="Queens"><h2>Find a perspective that speaks to you.</h2><div class="filter-bar"><div class="field"><label for="queen-search">Search expertise, character or name</label><input type="search" id="queen-search" placeholder="Try prototypes, storytelling or governance"></div><div class="field"><label for="queen-group">Explore the Council</label><select id="queen-group"><option value="">All 24 Queens</option><option value="pillar">Civilisation Pillar Queens</option><option value="cultural">Cultural Anchor Queens</option></select></div></div><p class="filter-count" data-result-count aria-live="polite"></p><div class="grid">'+''.join(self.queen_card(q) for q in self.queens)+'</div><p class="no-results" hidden>No Queens match. Try a broader search.</p></div></section>'
         body+=self.section('Different roles. Shared responsibility.','<div class="grid two">'+self.h['card']('Civilisation Pillar Queens','Twelve practical perspectives on enterprise, from energy and water to law, manufacturing, culture and long-term strategy.')+self.h['card']('Cultural Anchor Queens','Twelve creative perspectives on identity, belonging and working across differences. Cultural authority and knowledge remain with the people involved.')+'</div><p>The profiles expand the original brief into proposed character and learning designs. They introduce a mentoring system to develop, with downloadable preparation guides. A live AI conversation service is not connected to this website.</p>','light')
         return body

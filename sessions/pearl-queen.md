@@ -36,6 +36,6 @@ The founder retains final choice over her identity, story and publication.
 
 ## Source and role
 
-The Queen's name and broad council strand come from the original 500 Queens material and the September 2026 planning document. This detailed personality, working method, sample session and visual representation are new proposed character development for community review. They do not describe a real person or a currently operating mentoring service.
+Her name, original cultural archetype, domain and colour come from the original Queens Council design. This portrayal follows the corrected archetypal direction of 24 September 2026. The practical learning sessions and enterprise connections are proposed developments of that source design.
 
 https://auraofintelligence.github.io/500-Queens-VC-2026/queen-pearl-queen.html

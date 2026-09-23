@@ -31,6 +31,11 @@ for s in es:
     for idx in s['relatedIndices']:
         if idx not in indices:errors.append(f'Unknown related enterprise: {idx}')
 for q in qs:
+    if q.get('originalArchetype'):
+        text=(ROOT/f'queen-{q["id"]}.html').read_text(encoding='utf-8')
+        if q['culturalIdentity'] not in text:errors.append(f'Missing original cultural identity: {q["id"]}')
+        if q['hero'] not in text:errors.append(f'Queen page uses superseded artwork: {q["id"]}')
+        if 'Her place in the Council.' not in text:errors.append(f'Missing archetype context: {q["id"]}')
     if len(q['helpsWith'])<2 or len(q['session']['steps'])<3:errors.append(f'Incomplete Queen learning profile: {q["id"]}')
     for c in q['categoryIds']:
         if c not in cid:errors.append(f'Unknown category {c} from {q["id"]}')
@@ -52,5 +57,8 @@ for r in network['records']:
             if not (ROOT/'assets/images'/f'{r["art"]}{suffix}.webp').exists():errors.append(f'Missing artwork: {r["art"]}{suffix}')
 for path in (ROOT/'assets/images').glob('*provenance*.json'):
     if re.search(r'C:[/\\]|file://',path.read_text(encoding='utf-8')):errors.append(f'Private local path in public provenance: {path.name}')
+if all(q.get('originalArchetype') for q in qs):
+    for path in ROOT.glob('*.html'):
+        if 'assets/images/queens/' in path.read_text(encoding='utf-8'):errors.append(f'Superseded Queen portrait remains on {path.name}')
 if errors:print('\n'.join(errors));sys.exit(1)
 print('PASS: 24 developed Queens; 11 complete categories; 120 substantive source-matched enterprise briefs; 155 connected pages; equality and planning links; session downloads'+('; all individual and category artwork' if '--final-art' in sys.argv else ''))

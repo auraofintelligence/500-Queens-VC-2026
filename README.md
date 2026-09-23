@@ -26,7 +26,9 @@ The optional browser check uses Playwright with installed Microsoft Edge. Set `P
 - `data/chapters.json`: public explanatory chapters.
 - `data/ventures.json`: 18 connected public project concepts, checked on 23 September 2026.
 - `data/enterprise-catalogue.json`: 120 original suggestions, source locations and mentor pairings.
-- `data/queens.json`: 24 individual fictional mentor profiles, session guides and representations.
+- `data/queens.json`: 24 individual AI archetypes, original Council identities, profiles and session guides.
+- `data/queens-art-direction.json`: the corrected 24 September 2026 character briefs and individual generation prompts.
+- `docs/ai-queens-source-direction.md`: source evidence and the distinction between the AI Council and real network participants.
 - `data/enterprise-details-*.json` and `data/category-details-*.json`: developed concept briefs and category guides.
 - `data/network.json`: generated Queen, category and enterprise connections.
 - `data/reference-library.json`: original document metadata and SHA-256 checksums, plus supplied website links.
