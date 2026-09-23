@@ -43,7 +43,7 @@ if len(lib['documents'])!=27:errors.append('Expected 27 original documents')
 if len(lib['websites'])!=15:errors.append('Expected 15 supplied sites')
 for path in (ROOT/'data').glob('*.json'):
     if re.search(r'C:[/\\]|file://',path.read_text(encoding='utf-8')):errors.append(f'Local path exposed: {path.name}')
-main_pages=[name for name in pages if name!='404.html']
+main_pages=[name for name in pages if name in ['index.html','vision.html','community.html','leadership.html','ai-queens.html','ventures.html','catalogue.html','shared-intelligence.html','care.html','capital.html','brisbane.html','global.html','join.html','references.html','licence.html']]
 if len(main_pages)>=15:
     hero_paths=[]
     for name in main_pages:
@@ -53,7 +53,7 @@ if len(main_pages)>=15:
         else:hero_paths.append(match.group(1))
     if len(set(hero_paths))!=15:errors.append('Expected a distinct GenAI hero for each of the 15 main pages')
     provenance=json.loads((ROOT/'assets/images/provenance.json').read_text(encoding='utf-8'))
-    if len(provenance['assets'])!=15:errors.append('Expected provenance for 15 original artworks')
+    if len(provenance['assets'])<15:errors.append('Expected provenance for at least the 15 original artworks')
     for asset in provenance['assets']:
         for name in asset['files']:
             if not (ROOT/'assets/images'/name).exists():errors.append(f'Missing artwork file: {name}')

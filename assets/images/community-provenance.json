@@ -1,0 +1,18 @@
+{
+  "assets": [
+    {
+      "slug": "equality-community",
+      "tool": "built-in image_gen.imagegen",
+      "prompt": "Use case: photorealistic-natural. Asset type: full-width landscape website hero, 1536 x 1024. Create a rich royal-plum and champagne-gold editorial photography concept for 500 Queens Venture Capital: a diverse group of SIX adult women of genuinely different bodies, ages, personal styles and backgrounds, collaborating as equals around a beautiful curved timber planning table at a contemporary Australian regional community innovation hall. Open wide doors reveal warm red earth, eucalyptus and distant hills in late afternoon; elegant design with brass details and tactile materials. A confident attractive tall country woman in her early 30s with wavy sun-lightened hair, a curvy very full-busted figure, beautifully fitted non-revealing cream western-style shirt, denim and boots; a fat woman in her 40s with a very full bust, broad hips and a plum tailored outfit, glamorous makeup and styled dark hair; a slim nerdy woman of East Asian appearance with glasses, a patterned blouse and short hair; an older dark-skinned woman around 65 with silver curls and confident elegant dress; a medium-build South Asian Australian woman in contemporary understated designer clothing; and an athletic woman with tan skin and relaxed practical linen. Not every woman is thin. All are fully clothed in ordinary well-fitted everyday or polished clothes, not sexualised. Diverse body proportions must remain visible and believable; no focus on breasts. They are making decisions together using physical models, a notebook and a large blank planning sheet, engaged friendly expressions and equal visual agency. Luminous editorial beauty, women can be attractive and stylish in different ways. Strong natural faces, hands and skin texture. Figures mostly centre-right, atmospheric room on left for headline; wide environmental composition. No lettering, logos, watermarks, crowns, costumes, fake interface overlays or stereotypes. This depicts a possible future community, not actual members.",
+      "files": [
+        "equality-community.webp",
+        "equality-community-mobile.webp"
+      ],
+      "sourceDimensions": [
+        1536,
+        1024
+      ],
+      "disclosure": "Fictional GenAI concept illustration; not actual participants or occupied premises."
+    }
+  ]
+}
