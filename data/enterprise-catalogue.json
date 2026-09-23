@@ -1,0 +1,2502 @@
+{
+  "title": "The original 120 enterprise suggestions",
+  "count": 120,
+  "note": "Original titles and categories from the 500 Queens VC NEW Long presentation, slides 15-18. Whitespace is normalised. The current planning document provides updated context. These are concepts for exploration, not operating ventures, investment offers or claims of proven feasibility. Queen pairings are suggested learning routes.",
+  "categories": [
+    {
+      "id": "simulations-and-robots",
+      "title": "Simulations and robots",
+      "originalCategory": "Simulations & Robots",
+      "count": 20,
+      "pillarQueen": "Star Queen",
+      "pillarQueens": [
+        "Star Queen",
+        "Super Queen (Aura)",
+        "Forge Queen",
+        "Dream Queen"
+      ],
+      "pairingNote": "A suggested starting mentor, guided by the current plan. Participants can choose other Queens.",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 15,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      }
+    },
+    {
+      "id": "clean-power-systems",
+      "title": "Clean power systems",
+      "originalCategory": "Clean Power Systems",
+      "count": 10,
+      "pillarQueen": "Ember Queen",
+      "pillarQueens": [
+        "Ember Queen",
+        "River Queen",
+        "Forge Queen"
+      ],
+      "pairingNote": "A suggested starting mentor, guided by the current plan. Participants can choose other Queens.",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 15,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      }
+    },
+    {
+      "id": "closed-loop-food",
+      "title": "Closed-loop food",
+      "originalCategory": "Closed Loop Food",
+      "count": 10,
+      "pillarQueen": "Seed Queen",
+      "pillarQueens": [
+        "Seed Queen",
+        "River Queen"
+      ],
+      "pairingNote": "A suggested starting mentor, guided by the current plan. Participants can choose other Queens.",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 16,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      }
+    },
+    {
+      "id": "waste-reclamation",
+      "title": "Waste reclamation",
+      "originalCategory": "Waste Reclamation",
+      "count": 10,
+      "pillarQueen": "Forge Queen",
+      "pillarQueens": [
+        "Forge Queen",
+        "River Queen",
+        "Seed Queen"
+      ],
+      "pairingNote": "A suggested starting mentor, guided by the current plan. Participants can choose other Queens.",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 16,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      }
+    },
+    {
+      "id": "subterranean-cities",
+      "title": "Subterranean cities",
+      "originalCategory": "Subterranean cities",
+      "count": 10,
+      "pillarQueen": "Star Queen",
+      "pillarQueens": [
+        "Star Queen",
+        "Forge Queen",
+        "Ember Queen"
+      ],
+      "pairingNote": "A suggested starting mentor, guided by the current plan. Participants can choose other Queens.",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 16,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      }
+    },
+    {
+      "id": "extreme-metamaterials",
+      "title": "Extreme metamaterials",
+      "originalCategory": "Extreme metamaterials",
+      "count": 10,
+      "pillarQueen": "Forge Queen",
+      "pillarQueens": [
+        "Forge Queen",
+        "Super Queen (Aura)"
+      ],
+      "pairingNote": "A suggested starting mentor, guided by the current plan. Participants can choose other Queens.",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 17,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      }
+    },
+    {
+      "id": "space-industry",
+      "title": "Space industry",
+      "originalCategory": "Space Industry",
+      "count": 10,
+      "pillarQueen": "Star Queen",
+      "pillarQueens": [
+        "Star Queen",
+        "Forge Queen",
+        "Ember Queen"
+      ],
+      "pairingNote": "A suggested starting mentor, guided by the current plan. Participants can choose other Queens.",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 17,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      }
+    },
+    {
+      "id": "micro-architectures",
+      "title": "Micro-architectures",
+      "originalCategory": "Micro-Architectures",
+      "count": 10,
+      "pillarQueen": "Forge Queen",
+      "pillarQueens": [
+        "Forge Queen",
+        "Super Queen (Aura)"
+      ],
+      "pairingNote": "A suggested starting mentor, guided by the current plan. Participants can choose other Queens.",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 17,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      }
+    },
+    {
+      "id": "humanities-and-fun",
+      "title": "Humanities and fun",
+      "originalCategory": "Humanities and fun",
+      "count": 10,
+      "pillarQueen": "Dream Queen",
+      "pillarQueens": [
+        "Dream Queen",
+        "Spark Queen",
+        "Star Queen"
+      ],
+      "pairingNote": "A suggested starting mentor, guided by the current plan. Participants can choose other Queens.",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 18,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      }
+    },
+    {
+      "id": "market-analysis",
+      "title": "Market analysis",
+      "originalCategory": "Market Analysis",
+      "count": 10,
+      "pillarQueen": "Silk Queen",
+      "pillarQueens": [
+        "Silk Queen",
+        "Shield Queen",
+        "Lore Queen"
+      ],
+      "pairingNote": "A suggested starting mentor, guided by the current plan. Participants can choose other Queens.",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 18,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      }
+    },
+    {
+      "id": "aura-of-intelligence",
+      "title": "Aura of Intelligence",
+      "originalCategory": "Aura of Intelligence",
+      "count": 10,
+      "pillarQueen": "Super Queen (Aura)",
+      "pillarQueens": [
+        "Super Queen (Aura)",
+        "Shield Queen",
+        "Dream Queen"
+      ],
+      "pairingNote": "A suggested starting mentor, guided by the current plan. Participants can choose other Queens.",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 18,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      }
+    }
+  ],
+  "enterprises": [
+    {
+      "id": "venture-001",
+      "title": "Aged Care Support Systems",
+      "category": "Simulations & Robots",
+      "categoryId": "simulations-and-robots",
+      "pillarQueen": "Star Queen",
+      "pillarQueens": [
+        "Star Queen",
+        "Super Queen (Aura)",
+        "Forge Queen",
+        "Dream Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 15,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      }
+    },
+    {
+      "id": "venture-002",
+      "title": "NDIS Support Systems",
+      "category": "Simulations & Robots",
+      "categoryId": "simulations-and-robots",
+      "pillarQueen": "Star Queen",
+      "pillarQueens": [
+        "Star Queen",
+        "Super Queen (Aura)",
+        "Forge Queen",
+        "Dream Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 15,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      }
+    },
+    {
+      "id": "venture-003",
+      "title": "Smart City Capsule Hotels",
+      "category": "Simulations & Robots",
+      "categoryId": "simulations-and-robots",
+      "pillarQueen": "Star Queen",
+      "pillarQueens": [
+        "Star Queen",
+        "Super Queen (Aura)",
+        "Forge Queen",
+        "Dream Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 15,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      }
+    },
+    {
+      "id": "venture-004",
+      "title": "Smart City Quarantine Hotels",
+      "category": "Simulations & Robots",
+      "categoryId": "simulations-and-robots",
+      "pillarQueen": "Star Queen",
+      "pillarQueens": [
+        "Star Queen",
+        "Super Queen (Aura)",
+        "Forge Queen",
+        "Dream Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 15,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      }
+    },
+    {
+      "id": "venture-005",
+      "title": "Automated Fleet Cleaning",
+      "category": "Simulations & Robots",
+      "categoryId": "simulations-and-robots",
+      "pillarQueen": "Star Queen",
+      "pillarQueens": [
+        "Star Queen",
+        "Super Queen (Aura)",
+        "Forge Queen",
+        "Dream Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 15,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      }
+    },
+    {
+      "id": "venture-006",
+      "title": "Frozen Food Warehouse Systems",
+      "category": "Simulations & Robots",
+      "categoryId": "simulations-and-robots",
+      "pillarQueen": "Star Queen",
+      "pillarQueens": [
+        "Star Queen",
+        "Super Queen (Aura)",
+        "Forge Queen",
+        "Dream Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 15,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      }
+    },
+    {
+      "id": "venture-007",
+      "title": "Space Port Island Construction",
+      "category": "Simulations & Robots",
+      "categoryId": "simulations-and-robots",
+      "pillarQueen": "Star Queen",
+      "pillarQueens": [
+        "Star Queen",
+        "Super Queen (Aura)",
+        "Forge Queen",
+        "Dream Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 15,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      }
+    },
+    {
+      "id": "venture-008",
+      "title": "East Coast Under Ocean UFRT",
+      "category": "Simulations & Robots",
+      "categoryId": "simulations-and-robots",
+      "pillarQueen": "Star Queen",
+      "pillarQueens": [
+        "Star Queen",
+        "Super Queen (Aura)",
+        "Forge Queen",
+        "Dream Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 15,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      }
+    },
+    {
+      "id": "venture-009",
+      "title": "Cinematic Universe Simulations",
+      "category": "Simulations & Robots",
+      "categoryId": "simulations-and-robots",
+      "pillarQueen": "Star Queen",
+      "pillarQueens": [
+        "Star Queen",
+        "Super Queen (Aura)",
+        "Forge Queen",
+        "Dream Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 15,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      }
+    },
+    {
+      "id": "venture-010",
+      "title": "Space Weather Modelling",
+      "category": "Simulations & Robots",
+      "categoryId": "simulations-and-robots",
+      "pillarQueen": "Star Queen",
+      "pillarQueens": [
+        "Star Queen",
+        "Super Queen (Aura)",
+        "Forge Queen",
+        "Dream Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 15,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      }
+    },
+    {
+      "id": "venture-011",
+      "title": "Near Earth Object Mapping",
+      "category": "Simulations & Robots",
+      "categoryId": "simulations-and-robots",
+      "pillarQueen": "Star Queen",
+      "pillarQueens": [
+        "Star Queen",
+        "Super Queen (Aura)",
+        "Forge Queen",
+        "Dream Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 15,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      }
+    },
+    {
+      "id": "venture-012",
+      "title": "100K Solar System Satellite Web",
+      "category": "Simulations & Robots",
+      "categoryId": "simulations-and-robots",
+      "pillarQueen": "Star Queen",
+      "pillarQueens": [
+        "Star Queen",
+        "Super Queen (Aura)",
+        "Forge Queen",
+        "Dream Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 15,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      }
+    },
+    {
+      "id": "venture-013",
+      "title": "Off World Mining and Refining",
+      "category": "Simulations & Robots",
+      "categoryId": "simulations-and-robots",
+      "pillarQueen": "Star Queen",
+      "pillarQueens": [
+        "Star Queen",
+        "Super Queen (Aura)",
+        "Forge Queen",
+        "Dream Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 15,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      }
+    },
+    {
+      "id": "venture-014",
+      "title": "Earthquake/Volcano Prediction",
+      "category": "Simulations & Robots",
+      "categoryId": "simulations-and-robots",
+      "pillarQueen": "Star Queen",
+      "pillarQueens": [
+        "Star Queen",
+        "Super Queen (Aura)",
+        "Forge Queen",
+        "Dream Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 15,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      }
+    },
+    {
+      "id": "venture-015",
+      "title": "Quantum Computing Frameworks",
+      "category": "Simulations & Robots",
+      "categoryId": "simulations-and-robots",
+      "pillarQueen": "Star Queen",
+      "pillarQueens": [
+        "Star Queen",
+        "Super Queen (Aura)",
+        "Forge Queen",
+        "Dream Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 15,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      }
+    },
+    {
+      "id": "venture-016",
+      "title": "Global Governance Networks",
+      "category": "Simulations & Robots",
+      "categoryId": "simulations-and-robots",
+      "pillarQueen": "Star Queen",
+      "pillarQueens": [
+        "Star Queen",
+        "Super Queen (Aura)",
+        "Forge Queen",
+        "Dream Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 15,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      }
+    },
+    {
+      "id": "venture-017",
+      "title": "Fukushima Extreme Robotics",
+      "category": "Simulations & Robots",
+      "categoryId": "simulations-and-robots",
+      "pillarQueen": "Star Queen",
+      "pillarQueens": [
+        "Star Queen",
+        "Super Queen (Aura)",
+        "Forge Queen",
+        "Dream Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 15,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      }
+    },
+    {
+      "id": "venture-018",
+      "title": "Subterranean City Building",
+      "category": "Simulations & Robots",
+      "categoryId": "simulations-and-robots",
+      "pillarQueen": "Star Queen",
+      "pillarQueens": [
+        "Star Queen",
+        "Super Queen (Aura)",
+        "Forge Queen",
+        "Dream Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 15,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      }
+    },
+    {
+      "id": "venture-019",
+      "title": "Live Aid 2025 Cities >50K people",
+      "category": "Simulations & Robots",
+      "categoryId": "simulations-and-robots",
+      "pillarQueen": "Star Queen",
+      "pillarQueens": [
+        "Star Queen",
+        "Super Queen (Aura)",
+        "Forge Queen",
+        "Dream Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 15,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      },
+      "planningTitle": "Live Aid 2025 Cities >50K People",
+      "note": "Historical event label retained from the original archive. Future activity requires newly agreed dates."
+    },
+    {
+      "id": "venture-020",
+      "title": "Live Aid 2025 Artistic World Vote",
+      "category": "Simulations & Robots",
+      "categoryId": "simulations-and-robots",
+      "pillarQueen": "Star Queen",
+      "pillarQueens": [
+        "Star Queen",
+        "Super Queen (Aura)",
+        "Forge Queen",
+        "Dream Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 15,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      },
+      "note": "Historical event label retained from the original archive. Future activity requires newly agreed dates."
+    },
+    {
+      "id": "venture-021",
+      "title": "Tidal and Wave Power",
+      "category": "Clean Power Systems",
+      "categoryId": "clean-power-systems",
+      "pillarQueen": "Ember Queen",
+      "pillarQueens": [
+        "Ember Queen",
+        "River Queen",
+        "Forge Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 15,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      }
+    },
+    {
+      "id": "venture-022",
+      "title": "Solar Desalination Bubbles",
+      "category": "Clean Power Systems",
+      "categoryId": "clean-power-systems",
+      "pillarQueen": "Ember Queen",
+      "pillarQueens": [
+        "Ember Queen",
+        "River Queen",
+        "Forge Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 15,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      }
+    },
+    {
+      "id": "venture-023",
+      "title": "Mid Level Plasma Fusion",
+      "category": "Clean Power Systems",
+      "categoryId": "clean-power-systems",
+      "pillarQueen": "Ember Queen",
+      "pillarQueens": [
+        "Ember Queen",
+        "River Queen",
+        "Forge Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 15,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      }
+    },
+    {
+      "id": "venture-024",
+      "title": "Pumped Water Storage",
+      "category": "Clean Power Systems",
+      "categoryId": "clean-power-systems",
+      "pillarQueen": "Ember Queen",
+      "pillarQueens": [
+        "Ember Queen",
+        "River Queen",
+        "Forge Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 15,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      }
+    },
+    {
+      "id": "venture-025",
+      "title": "Battery Technology",
+      "category": "Clean Power Systems",
+      "categoryId": "clean-power-systems",
+      "pillarQueen": "Ember Queen",
+      "pillarQueens": [
+        "Ember Queen",
+        "River Queen",
+        "Forge Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 15,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      }
+    },
+    {
+      "id": "venture-026",
+      "title": "Superchargers",
+      "category": "Clean Power Systems",
+      "categoryId": "clean-power-systems",
+      "pillarQueen": "Ember Queen",
+      "pillarQueens": [
+        "Ember Queen",
+        "River Queen",
+        "Forge Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 15,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      }
+    },
+    {
+      "id": "venture-027",
+      "title": "Solar Concentration Furnaces",
+      "category": "Clean Power Systems",
+      "categoryId": "clean-power-systems",
+      "pillarQueen": "Ember Queen",
+      "pillarQueens": [
+        "Ember Queen",
+        "River Queen",
+        "Forge Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 15,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      }
+    },
+    {
+      "id": "venture-028",
+      "title": "Bladeless Wind Turbines",
+      "category": "Clean Power Systems",
+      "categoryId": "clean-power-systems",
+      "pillarQueen": "Ember Queen",
+      "pillarQueens": [
+        "Ember Queen",
+        "River Queen",
+        "Forge Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 15,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      }
+    },
+    {
+      "id": "venture-029",
+      "title": "Gravity Power",
+      "category": "Clean Power Systems",
+      "categoryId": "clean-power-systems",
+      "pillarQueen": "Ember Queen",
+      "pillarQueens": [
+        "Ember Queen",
+        "River Queen",
+        "Forge Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 15,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      }
+    },
+    {
+      "id": "venture-030",
+      "title": "Hydrogen",
+      "category": "Clean Power Systems",
+      "categoryId": "clean-power-systems",
+      "pillarQueen": "Ember Queen",
+      "pillarQueens": [
+        "Ember Queen",
+        "River Queen",
+        "Forge Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 15,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      }
+    },
+    {
+      "id": "venture-031",
+      "title": "Insects",
+      "category": "Closed Loop Food",
+      "categoryId": "closed-loop-food",
+      "pillarQueen": "Seed Queen",
+      "pillarQueens": [
+        "Seed Queen",
+        "River Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 16,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      }
+    },
+    {
+      "id": "venture-032",
+      "title": "Seafood",
+      "category": "Closed Loop Food",
+      "categoryId": "closed-loop-food",
+      "pillarQueen": "Seed Queen",
+      "pillarQueens": [
+        "Seed Queen",
+        "River Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 16,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      }
+    },
+    {
+      "id": "venture-033",
+      "title": "Seaweed",
+      "category": "Closed Loop Food",
+      "categoryId": "closed-loop-food",
+      "pillarQueen": "Seed Queen",
+      "pillarQueens": [
+        "Seed Queen",
+        "River Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 16,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      }
+    },
+    {
+      "id": "venture-034",
+      "title": "Superfoods",
+      "category": "Closed Loop Food",
+      "categoryId": "closed-loop-food",
+      "pillarQueen": "Seed Queen",
+      "pillarQueens": [
+        "Seed Queen",
+        "River Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 16,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      }
+    },
+    {
+      "id": "venture-035",
+      "title": "Mushrooms and Fungi",
+      "category": "Closed Loop Food",
+      "categoryId": "closed-loop-food",
+      "pillarQueen": "Seed Queen",
+      "pillarQueens": [
+        "Seed Queen",
+        "River Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 16,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      }
+    },
+    {
+      "id": "venture-036",
+      "title": "Legumes",
+      "category": "Closed Loop Food",
+      "categoryId": "closed-loop-food",
+      "pillarQueen": "Seed Queen",
+      "pillarQueens": [
+        "Seed Queen",
+        "River Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 16,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      }
+    },
+    {
+      "id": "venture-037",
+      "title": "Bacteria and Viruses",
+      "category": "Closed Loop Food",
+      "categoryId": "closed-loop-food",
+      "pillarQueen": "Seed Queen",
+      "pillarQueens": [
+        "Seed Queen",
+        "River Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 16,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      }
+    },
+    {
+      "id": "venture-038",
+      "title": "Poultry",
+      "category": "Closed Loop Food",
+      "categoryId": "closed-loop-food",
+      "pillarQueen": "Seed Queen",
+      "pillarQueens": [
+        "Seed Queen",
+        "River Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 16,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      }
+    },
+    {
+      "id": "venture-039",
+      "title": "Medicinal Plants and Spices",
+      "category": "Closed Loop Food",
+      "categoryId": "closed-loop-food",
+      "pillarQueen": "Seed Queen",
+      "pillarQueens": [
+        "Seed Queen",
+        "River Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 16,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      }
+    },
+    {
+      "id": "venture-040",
+      "title": "Food Compute/Produce DAO",
+      "category": "Closed Loop Food",
+      "categoryId": "closed-loop-food",
+      "pillarQueen": "Seed Queen",
+      "pillarQueens": [
+        "Seed Queen",
+        "River Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 16,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      }
+    },
+    {
+      "id": "venture-041",
+      "title": "Plastics and Glass",
+      "category": "Waste Reclamation",
+      "categoryId": "waste-reclamation",
+      "pillarQueen": "Forge Queen",
+      "pillarQueens": [
+        "Forge Queen",
+        "River Queen",
+        "Seed Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 16,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      }
+    },
+    {
+      "id": "venture-042",
+      "title": "Nuclear Waste and Water",
+      "category": "Waste Reclamation",
+      "categoryId": "waste-reclamation",
+      "pillarQueen": "Forge Queen",
+      "pillarQueens": [
+        "Forge Queen",
+        "River Queen",
+        "Seed Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 16,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      }
+    },
+    {
+      "id": "venture-043",
+      "title": "Industrial Process Biproducts",
+      "category": "Waste Reclamation",
+      "categoryId": "waste-reclamation",
+      "pillarQueen": "Forge Queen",
+      "pillarQueens": [
+        "Forge Queen",
+        "River Queen",
+        "Seed Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 16,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      },
+      "planningTitle": "Industrial Process Byproducts"
+    },
+    {
+      "id": "venture-044",
+      "title": "Solid Waste Refuse Tips",
+      "category": "Waste Reclamation",
+      "categoryId": "waste-reclamation",
+      "pillarQueen": "Forge Queen",
+      "pillarQueens": [
+        "Forge Queen",
+        "River Queen",
+        "Seed Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 16,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      }
+    },
+    {
+      "id": "venture-045",
+      "title": "Human Waste and Life Support",
+      "category": "Waste Reclamation",
+      "categoryId": "waste-reclamation",
+      "pillarQueen": "Forge Queen",
+      "pillarQueens": [
+        "Forge Queen",
+        "River Queen",
+        "Seed Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 16,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      }
+    },
+    {
+      "id": "venture-046",
+      "title": "Farming Process Biproducts",
+      "category": "Waste Reclamation",
+      "categoryId": "waste-reclamation",
+      "pillarQueen": "Forge Queen",
+      "pillarQueens": [
+        "Forge Queen",
+        "River Queen",
+        "Seed Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 16,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      },
+      "planningTitle": "Farming Process Byproducts"
+    },
+    {
+      "id": "venture-047",
+      "title": "Subterranean City Displaced Muck",
+      "category": "Waste Reclamation",
+      "categoryId": "waste-reclamation",
+      "pillarQueen": "Forge Queen",
+      "pillarQueens": [
+        "Forge Queen",
+        "River Queen",
+        "Seed Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 16,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      }
+    },
+    {
+      "id": "venture-048",
+      "title": "Mining Process Biproducts",
+      "category": "Waste Reclamation",
+      "categoryId": "waste-reclamation",
+      "pillarQueen": "Forge Queen",
+      "pillarQueens": [
+        "Forge Queen",
+        "River Queen",
+        "Seed Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 16,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      },
+      "planningTitle": "Mining Process Byproducts"
+    },
+    {
+      "id": "venture-049",
+      "title": "Water Pollution",
+      "category": "Waste Reclamation",
+      "categoryId": "waste-reclamation",
+      "pillarQueen": "Forge Queen",
+      "pillarQueens": [
+        "Forge Queen",
+        "River Queen",
+        "Seed Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 16,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      }
+    },
+    {
+      "id": "venture-050",
+      "title": "Computer E-Waste",
+      "category": "Waste Reclamation",
+      "categoryId": "waste-reclamation",
+      "pillarQueen": "Forge Queen",
+      "pillarQueens": [
+        "Forge Queen",
+        "River Queen",
+        "Seed Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 16,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      }
+    },
+    {
+      "id": "venture-051",
+      "title": "DNA RNA Embryo Ark",
+      "category": "Subterranean cities",
+      "categoryId": "subterranean-cities",
+      "pillarQueen": "Star Queen",
+      "pillarQueens": [
+        "Star Queen",
+        "Forge Queen",
+        "Ember Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 16,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      }
+    },
+    {
+      "id": "venture-052",
+      "title": "Drilling, Tunnelling, Lateral Mining",
+      "category": "Subterranean cities",
+      "categoryId": "subterranean-cities",
+      "pillarQueen": "Star Queen",
+      "pillarQueens": [
+        "Star Queen",
+        "Forge Queen",
+        "Ember Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 16,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      }
+    },
+    {
+      "id": "venture-053",
+      "title": "Minimum, Ideal, Maximum Limits",
+      "category": "Subterranean cities",
+      "categoryId": "subterranean-cities",
+      "pillarQueen": "Star Queen",
+      "pillarQueens": [
+        "Star Queen",
+        "Forge Queen",
+        "Ember Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 16,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      }
+    },
+    {
+      "id": "venture-054",
+      "title": "Eternal Maintenance",
+      "category": "Subterranean cities",
+      "categoryId": "subterranean-cities",
+      "pillarQueen": "Star Queen",
+      "pillarQueens": [
+        "Star Queen",
+        "Forge Queen",
+        "Ember Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 16,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      }
+    },
+    {
+      "id": "venture-055",
+      "title": "Ultra Fast Transport",
+      "category": "Subterranean cities",
+      "categoryId": "subterranean-cities",
+      "pillarQueen": "Star Queen",
+      "pillarQueens": [
+        "Star Queen",
+        "Forge Queen",
+        "Ember Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 16,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      }
+    },
+    {
+      "id": "venture-056",
+      "title": "On Demand Production",
+      "category": "Subterranean cities",
+      "categoryId": "subterranean-cities",
+      "pillarQueen": "Star Queen",
+      "pillarQueens": [
+        "Star Queen",
+        "Forge Queen",
+        "Ember Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 16,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      }
+    },
+    {
+      "id": "venture-057",
+      "title": "Eternal Human Life Support",
+      "category": "Subterranean cities",
+      "categoryId": "subterranean-cities",
+      "pillarQueen": "Star Queen",
+      "pillarQueens": [
+        "Star Queen",
+        "Forge Queen",
+        "Ember Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 16,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      },
+      "note": "Original long-horizon research or creative concept. Inclusion is not evidence of technical feasibility or a working product."
+    },
+    {
+      "id": "venture-058",
+      "title": "Resurface & Expansion Planning",
+      "category": "Subterranean cities",
+      "categoryId": "subterranean-cities",
+      "pillarQueen": "Star Queen",
+      "pillarQueens": [
+        "Star Queen",
+        "Forge Queen",
+        "Ember Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 16,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      }
+    },
+    {
+      "id": "venture-059",
+      "title": "Gamification of Governance",
+      "category": "Subterranean cities",
+      "categoryId": "subterranean-cities",
+      "pillarQueen": "Star Queen",
+      "pillarQueens": [
+        "Star Queen",
+        "Forge Queen",
+        "Ember Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 16,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      }
+    },
+    {
+      "id": "venture-060",
+      "title": "Olympic Scale Entertainment",
+      "category": "Subterranean cities",
+      "categoryId": "subterranean-cities",
+      "pillarQueen": "Star Queen",
+      "pillarQueens": [
+        "Star Queen",
+        "Forge Queen",
+        "Ember Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 16,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 7
+      }
+    },
+    {
+      "id": "venture-061",
+      "title": "Superconductors",
+      "category": "Extreme metamaterials",
+      "categoryId": "extreme-metamaterials",
+      "pillarQueen": "Forge Queen",
+      "pillarQueens": [
+        "Forge Queen",
+        "Super Queen (Aura)"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 17,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      }
+    },
+    {
+      "id": "venture-062",
+      "title": "Polymers",
+      "category": "Extreme metamaterials",
+      "categoryId": "extreme-metamaterials",
+      "pillarQueen": "Forge Queen",
+      "pillarQueens": [
+        "Forge Queen",
+        "Super Queen (Aura)"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 17,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      }
+    },
+    {
+      "id": "venture-063",
+      "title": "Perfect Crystal Growth",
+      "category": "Extreme metamaterials",
+      "categoryId": "extreme-metamaterials",
+      "pillarQueen": "Forge Queen",
+      "pillarQueens": [
+        "Forge Queen",
+        "Super Queen (Aura)"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 17,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      }
+    },
+    {
+      "id": "venture-064",
+      "title": "Ceramics",
+      "category": "Extreme metamaterials",
+      "categoryId": "extreme-metamaterials",
+      "pillarQueen": "Forge Queen",
+      "pillarQueens": [
+        "Forge Queen",
+        "Super Queen (Aura)"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 17,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      }
+    },
+    {
+      "id": "venture-065",
+      "title": "Anodes and Cathodes",
+      "category": "Extreme metamaterials",
+      "categoryId": "extreme-metamaterials",
+      "pillarQueen": "Forge Queen",
+      "pillarQueens": [
+        "Forge Queen",
+        "Super Queen (Aura)"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 17,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      }
+    },
+    {
+      "id": "venture-066",
+      "title": "Electrolytes",
+      "category": "Extreme metamaterials",
+      "categoryId": "extreme-metamaterials",
+      "pillarQueen": "Forge Queen",
+      "pillarQueens": [
+        "Forge Queen",
+        "Super Queen (Aura)"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 17,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      }
+    },
+    {
+      "id": "venture-067",
+      "title": "Resonators",
+      "category": "Extreme metamaterials",
+      "categoryId": "extreme-metamaterials",
+      "pillarQueen": "Forge Queen",
+      "pillarQueens": [
+        "Forge Queen",
+        "Super Queen (Aura)"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 17,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      }
+    },
+    {
+      "id": "venture-068",
+      "title": "Absolute Vacuums",
+      "category": "Extreme metamaterials",
+      "categoryId": "extreme-metamaterials",
+      "pillarQueen": "Forge Queen",
+      "pillarQueens": [
+        "Forge Queen",
+        "Super Queen (Aura)"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 17,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      }
+    },
+    {
+      "id": "venture-069",
+      "title": "Extremely Precise Lasers",
+      "category": "Extreme metamaterials",
+      "categoryId": "extreme-metamaterials",
+      "pillarQueen": "Forge Queen",
+      "pillarQueens": [
+        "Forge Queen",
+        "Super Queen (Aura)"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 17,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      }
+    },
+    {
+      "id": "venture-070",
+      "title": "Extreme Magnetism or Levitation",
+      "category": "Extreme metamaterials",
+      "categoryId": "extreme-metamaterials",
+      "pillarQueen": "Forge Queen",
+      "pillarQueens": [
+        "Forge Queen",
+        "Super Queen (Aura)"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 17,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      }
+    },
+    {
+      "id": "venture-071",
+      "title": "Second Skin Space Suits",
+      "category": "Space Industry",
+      "categoryId": "space-industry",
+      "pillarQueen": "Star Queen",
+      "pillarQueens": [
+        "Star Queen",
+        "Forge Queen",
+        "Ember Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 17,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      }
+    },
+    {
+      "id": "venture-072",
+      "title": "Radiation Protection Systems",
+      "category": "Space Industry",
+      "categoryId": "space-industry",
+      "pillarQueen": "Star Queen",
+      "pillarQueens": [
+        "Star Queen",
+        "Forge Queen",
+        "Ember Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 17,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      }
+    },
+    {
+      "id": "venture-073",
+      "title": "Radiation Remediation Systems",
+      "category": "Space Industry",
+      "categoryId": "space-industry",
+      "pillarQueen": "Star Queen",
+      "pillarQueens": [
+        "Star Queen",
+        "Forge Queen",
+        "Ember Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 17,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      }
+    },
+    {
+      "id": "venture-074",
+      "title": "3D Metallic Printers/Welders",
+      "category": "Space Industry",
+      "categoryId": "space-industry",
+      "pillarQueen": "Star Queen",
+      "pillarQueens": [
+        "Star Queen",
+        "Forge Queen",
+        "Ember Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 17,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      }
+    },
+    {
+      "id": "venture-075",
+      "title": "Starship Size Mining Payloads",
+      "category": "Space Industry",
+      "categoryId": "space-industry",
+      "pillarQueen": "Star Queen",
+      "pillarQueens": [
+        "Star Queen",
+        "Forge Queen",
+        "Ember Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 17,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      }
+    },
+    {
+      "id": "venture-076",
+      "title": "Starship Size Deep Space Payloads",
+      "category": "Space Industry",
+      "categoryId": "space-industry",
+      "pillarQueen": "Star Queen",
+      "pillarQueens": [
+        "Star Queen",
+        "Forge Queen",
+        "Ember Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 17,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      }
+    },
+    {
+      "id": "venture-077",
+      "title": "Starship Size Eternal Life Support",
+      "category": "Space Industry",
+      "categoryId": "space-industry",
+      "pillarQueen": "Star Queen",
+      "pillarQueens": [
+        "Star Queen",
+        "Forge Queen",
+        "Ember Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 17,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      },
+      "note": "Original long-horizon research or creative concept. Inclusion is not evidence of technical feasibility or a working product."
+    },
+    {
+      "id": "venture-078",
+      "title": "Subterranean City Designs",
+      "category": "Space Industry",
+      "categoryId": "space-industry",
+      "pillarQueen": "Star Queen",
+      "pillarQueens": [
+        "Star Queen",
+        "Forge Queen",
+        "Ember Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 17,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      }
+    },
+    {
+      "id": "venture-079",
+      "title": "Interstellar Warp or Portals",
+      "category": "Space Industry",
+      "categoryId": "space-industry",
+      "pillarQueen": "Star Queen",
+      "pillarQueens": [
+        "Star Queen",
+        "Forge Queen",
+        "Ember Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 17,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      },
+      "note": "Original long-horizon research or creative concept. Inclusion is not evidence of technical feasibility or a working product."
+    },
+    {
+      "id": "venture-080",
+      "title": "Plasma Fusion in Space",
+      "category": "Space Industry",
+      "categoryId": "space-industry",
+      "pillarQueen": "Star Queen",
+      "pillarQueens": [
+        "Star Queen",
+        "Forge Queen",
+        "Ember Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 17,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      }
+    },
+    {
+      "id": "venture-081",
+      "title": "Sensors and Switches",
+      "category": "Micro-Architectures",
+      "categoryId": "micro-architectures",
+      "pillarQueen": "Forge Queen",
+      "pillarQueens": [
+        "Forge Queen",
+        "Super Queen (Aura)"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 17,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      }
+    },
+    {
+      "id": "venture-082",
+      "title": "System on a Chip",
+      "category": "Micro-Architectures",
+      "categoryId": "micro-architectures",
+      "pillarQueen": "Forge Queen",
+      "pillarQueens": [
+        "Forge Queen",
+        "Super Queen (Aura)"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 17,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      }
+    },
+    {
+      "id": "venture-083",
+      "title": "Quantum Computers",
+      "category": "Micro-Architectures",
+      "categoryId": "micro-architectures",
+      "pillarQueen": "Forge Queen",
+      "pillarQueens": [
+        "Forge Queen",
+        "Super Queen (Aura)"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 17,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      }
+    },
+    {
+      "id": "venture-084",
+      "title": "Micro Fluidics",
+      "category": "Micro-Architectures",
+      "categoryId": "micro-architectures",
+      "pillarQueen": "Forge Queen",
+      "pillarQueens": [
+        "Forge Queen",
+        "Super Queen (Aura)"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 17,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      }
+    },
+    {
+      "id": "venture-085",
+      "title": "Solid State Crystal Compute",
+      "category": "Micro-Architectures",
+      "categoryId": "micro-architectures",
+      "pillarQueen": "Forge Queen",
+      "pillarQueens": [
+        "Forge Queen",
+        "Super Queen (Aura)"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 17,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      }
+    },
+    {
+      "id": "venture-086",
+      "title": "Rubidium Quantum Compute",
+      "category": "Micro-Architectures",
+      "categoryId": "micro-architectures",
+      "pillarQueen": "Forge Queen",
+      "pillarQueens": [
+        "Forge Queen",
+        "Super Queen (Aura)"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 17,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      }
+    },
+    {
+      "id": "venture-087",
+      "title": "Molecular Machines",
+      "category": "Micro-Architectures",
+      "categoryId": "micro-architectures",
+      "pillarQueen": "Forge Queen",
+      "pillarQueens": [
+        "Forge Queen",
+        "Super Queen (Aura)"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 17,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      }
+    },
+    {
+      "id": "venture-088",
+      "title": "Claytronics",
+      "category": "Micro-Architectures",
+      "categoryId": "micro-architectures",
+      "pillarQueen": "Forge Queen",
+      "pillarQueens": [
+        "Forge Queen",
+        "Super Queen (Aura)"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 17,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      },
+      "note": "Original long-horizon research or creative concept. Inclusion is not evidence of technical feasibility or a working product."
+    },
+    {
+      "id": "venture-089",
+      "title": "Near Eye Light Field Displays",
+      "category": "Micro-Architectures",
+      "categoryId": "micro-architectures",
+      "pillarQueen": "Forge Queen",
+      "pillarQueens": [
+        "Forge Queen",
+        "Super Queen (Aura)"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 17,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      }
+    },
+    {
+      "id": "venture-090",
+      "title": "Quantum Entanglement",
+      "category": "Micro-Architectures",
+      "categoryId": "micro-architectures",
+      "pillarQueen": "Forge Queen",
+      "pillarQueens": [
+        "Forge Queen",
+        "Super Queen (Aura)"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 17,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      },
+      "note": "Original long-horizon research or creative concept. Inclusion is not evidence of technical feasibility or a working product."
+    },
+    {
+      "id": "venture-091",
+      "title": "Cinematic Universe",
+      "category": "Humanities and fun",
+      "categoryId": "humanities-and-fun",
+      "pillarQueen": "Dream Queen",
+      "pillarQueens": [
+        "Dream Queen",
+        "Spark Queen",
+        "Star Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 18,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      }
+    },
+    {
+      "id": "venture-092",
+      "title": "Just-In Time Learning",
+      "category": "Humanities and fun",
+      "categoryId": "humanities-and-fun",
+      "pillarQueen": "Dream Queen",
+      "pillarQueens": [
+        "Dream Queen",
+        "Spark Queen",
+        "Star Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 18,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      },
+      "planningTitle": "Just-In-Time Learning"
+    },
+    {
+      "id": "venture-093",
+      "title": "Radical Life Extension",
+      "category": "Humanities and fun",
+      "categoryId": "humanities-and-fun",
+      "pillarQueen": "Dream Queen",
+      "pillarQueens": [
+        "Dream Queen",
+        "Spark Queen",
+        "Star Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 18,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      },
+      "note": "Original long-horizon research or creative concept. Inclusion is not evidence of technical feasibility or a working product."
+    },
+    {
+      "id": "venture-094",
+      "title": "Micro Biome Mastery",
+      "category": "Humanities and fun",
+      "categoryId": "humanities-and-fun",
+      "pillarQueen": "Dream Queen",
+      "pillarQueens": [
+        "Dream Queen",
+        "Spark Queen",
+        "Star Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 18,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      }
+    },
+    {
+      "id": "venture-095",
+      "title": "Sex and Sexual Education",
+      "category": "Humanities and fun",
+      "categoryId": "humanities-and-fun",
+      "pillarQueen": "Dream Queen",
+      "pillarQueens": [
+        "Dream Queen",
+        "Spark Queen",
+        "Star Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 18,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      }
+    },
+    {
+      "id": "venture-096",
+      "title": "Matrimony of Many",
+      "category": "Humanities and fun",
+      "categoryId": "humanities-and-fun",
+      "pillarQueen": "Dream Queen",
+      "pillarQueens": [
+        "Dream Queen",
+        "Spark Queen",
+        "Star Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 18,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      }
+    },
+    {
+      "id": "venture-097",
+      "title": "Game Design School",
+      "category": "Humanities and fun",
+      "categoryId": "humanities-and-fun",
+      "pillarQueen": "Dream Queen",
+      "pillarQueens": [
+        "Dream Queen",
+        "Spark Queen",
+        "Star Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 18,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      }
+    },
+    {
+      "id": "venture-098",
+      "title": "Mental Health Support",
+      "category": "Humanities and fun",
+      "categoryId": "humanities-and-fun",
+      "pillarQueen": "Dream Queen",
+      "pillarQueens": [
+        "Dream Queen",
+        "Spark Queen",
+        "Star Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 18,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      }
+    },
+    {
+      "id": "venture-099",
+      "title": "Creativity and Performance Art",
+      "category": "Humanities and fun",
+      "categoryId": "humanities-and-fun",
+      "pillarQueen": "Dream Queen",
+      "pillarQueens": [
+        "Dream Queen",
+        "Spark Queen",
+        "Star Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 18,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      }
+    },
+    {
+      "id": "venture-100",
+      "title": "Philosophy and Life Long Learning",
+      "category": "Humanities and fun",
+      "categoryId": "humanities-and-fun",
+      "pillarQueen": "Dream Queen",
+      "pillarQueens": [
+        "Dream Queen",
+        "Spark Queen",
+        "Star Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 18,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      }
+    },
+    {
+      "id": "venture-101",
+      "title": "Aged Care and NDIS",
+      "category": "Market Analysis",
+      "categoryId": "market-analysis",
+      "pillarQueen": "Silk Queen",
+      "pillarQueens": [
+        "Silk Queen",
+        "Shield Queen",
+        "Lore Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 18,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      }
+    },
+    {
+      "id": "venture-102",
+      "title": "Education and Training",
+      "category": "Market Analysis",
+      "categoryId": "market-analysis",
+      "pillarQueen": "Silk Queen",
+      "pillarQueens": [
+        "Silk Queen",
+        "Shield Queen",
+        "Lore Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 18,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      }
+    },
+    {
+      "id": "venture-103",
+      "title": "Mental Health & Happiness",
+      "category": "Market Analysis",
+      "categoryId": "market-analysis",
+      "pillarQueen": "Silk Queen",
+      "pillarQueens": [
+        "Silk Queen",
+        "Shield Queen",
+        "Lore Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 18,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      }
+    },
+    {
+      "id": "venture-104",
+      "title": "Physical Health & Living Standards",
+      "category": "Market Analysis",
+      "categoryId": "market-analysis",
+      "pillarQueen": "Silk Queen",
+      "pillarQueens": [
+        "Silk Queen",
+        "Shield Queen",
+        "Lore Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 18,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      }
+    },
+    {
+      "id": "venture-105",
+      "title": "Migration & International Students",
+      "category": "Market Analysis",
+      "categoryId": "market-analysis",
+      "pillarQueen": "Silk Queen",
+      "pillarQueens": [
+        "Silk Queen",
+        "Shield Queen",
+        "Lore Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 18,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      }
+    },
+    {
+      "id": "venture-106",
+      "title": "Pandemics, Plagues & Ext. Weather",
+      "category": "Market Analysis",
+      "categoryId": "market-analysis",
+      "pillarQueen": "Silk Queen",
+      "pillarQueens": [
+        "Silk Queen",
+        "Shield Queen",
+        "Lore Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 18,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      },
+      "planningTitle": "Pandemics, Plagues & Extreme Weather"
+    },
+    {
+      "id": "venture-107",
+      "title": "Agriculture and Aquaculture",
+      "category": "Market Analysis",
+      "categoryId": "market-analysis",
+      "pillarQueen": "Silk Queen",
+      "pillarQueens": [
+        "Silk Queen",
+        "Shield Queen",
+        "Lore Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 18,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      }
+    },
+    {
+      "id": "venture-108",
+      "title": "Housing and Tourism",
+      "category": "Market Analysis",
+      "categoryId": "market-analysis",
+      "pillarQueen": "Silk Queen",
+      "pillarQueens": [
+        "Silk Queen",
+        "Shield Queen",
+        "Lore Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 18,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      }
+    },
+    {
+      "id": "venture-109",
+      "title": "Population Stability",
+      "category": "Market Analysis",
+      "categoryId": "market-analysis",
+      "pillarQueen": "Silk Queen",
+      "pillarQueens": [
+        "Silk Queen",
+        "Shield Queen",
+        "Lore Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 18,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      }
+    },
+    {
+      "id": "venture-110",
+      "title": "Governing Protocol & Confidence",
+      "category": "Market Analysis",
+      "categoryId": "market-analysis",
+      "pillarQueen": "Silk Queen",
+      "pillarQueens": [
+        "Silk Queen",
+        "Shield Queen",
+        "Lore Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 18,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      }
+    },
+    {
+      "id": "venture-111",
+      "title": "500 Queens: Aura Framework",
+      "category": "Aura of Intelligence",
+      "categoryId": "aura-of-intelligence",
+      "pillarQueen": "Super Queen (Aura)",
+      "pillarQueens": [
+        "Super Queen (Aura)",
+        "Shield Queen",
+        "Dream Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 18,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      }
+    },
+    {
+      "id": "venture-112",
+      "title": "Aura Events on NVIDIA DGX1",
+      "category": "Aura of Intelligence",
+      "categoryId": "aura-of-intelligence",
+      "pillarQueen": "Super Queen (Aura)",
+      "pillarQueens": [
+        "Super Queen (Aura)",
+        "Shield Queen",
+        "Dream Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 18,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      }
+    },
+    {
+      "id": "venture-113",
+      "title": "Queens Wharf Conscious A.i. Art",
+      "category": "Aura of Intelligence",
+      "categoryId": "aura-of-intelligence",
+      "pillarQueen": "Super Queen (Aura)",
+      "pillarQueens": [
+        "Super Queen (Aura)",
+        "Shield Queen",
+        "Dream Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 18,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      },
+      "note": "Original long-horizon research or creative concept. Inclusion is not evidence of technical feasibility or a working product."
+    },
+    {
+      "id": "venture-114",
+      "title": "Magic Mirror Conscious Aura",
+      "category": "Aura of Intelligence",
+      "categoryId": "aura-of-intelligence",
+      "pillarQueen": "Super Queen (Aura)",
+      "pillarQueens": [
+        "Super Queen (Aura)",
+        "Shield Queen",
+        "Dream Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 18,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      },
+      "note": "Original long-horizon research or creative concept. Inclusion is not evidence of technical feasibility or a working product."
+    },
+    {
+      "id": "venture-115",
+      "title": "Millionaire Aura",
+      "category": "Aura of Intelligence",
+      "categoryId": "aura-of-intelligence",
+      "pillarQueen": "Super Queen (Aura)",
+      "pillarQueens": [
+        "Super Queen (Aura)",
+        "Shield Queen",
+        "Dream Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 18,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      }
+    },
+    {
+      "id": "venture-116",
+      "title": "Billionaire Aura",
+      "category": "Aura of Intelligence",
+      "categoryId": "aura-of-intelligence",
+      "pillarQueen": "Super Queen (Aura)",
+      "pillarQueens": [
+        "Super Queen (Aura)",
+        "Shield Queen",
+        "Dream Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 18,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      }
+    },
+    {
+      "id": "venture-117",
+      "title": "Intimate Values Underwear",
+      "category": "Aura of Intelligence",
+      "categoryId": "aura-of-intelligence",
+      "pillarQueen": "Super Queen (Aura)",
+      "pillarQueens": [
+        "Super Queen (Aura)",
+        "Shield Queen",
+        "Dream Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 18,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      }
+    },
+    {
+      "id": "venture-118",
+      "title": "NDIS Aura Development",
+      "category": "Aura of Intelligence",
+      "categoryId": "aura-of-intelligence",
+      "pillarQueen": "Super Queen (Aura)",
+      "pillarQueens": [
+        "Super Queen (Aura)",
+        "Shield Queen",
+        "Dream Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 18,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      }
+    },
+    {
+      "id": "venture-119",
+      "title": "Aged Care Aura Development",
+      "category": "Aura of Intelligence",
+      "categoryId": "aura-of-intelligence",
+      "pillarQueen": "Super Queen (Aura)",
+      "pillarQueens": [
+        "Super Queen (Aura)",
+        "Shield Queen",
+        "Dream Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 18,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      }
+    },
+    {
+      "id": "venture-120",
+      "title": "Female Prisoner Rehabilitation",
+      "category": "Aura of Intelligence",
+      "categoryId": "aura-of-intelligence",
+      "pillarQueen": "Super Queen (Aura)",
+      "pillarQueens": [
+        "Super Queen (Aura)",
+        "Shield Queen",
+        "Dream Queen"
+      ],
+      "status": "Original concept",
+      "source": {
+        "document": "references/documents/500-queens-vc-new-long.pptx",
+        "slide": 18,
+        "planningDocument": "references/documents/queens-venture-capital-planning-document.pdf",
+        "planningPage": 8
+      }
+    }
+  ]
+}

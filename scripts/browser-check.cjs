@@ -1,0 +1,6 @@
+const {chromium}=require(process.env.PLAYWRIGHT_MODULE || 'playwright');
+const fs=require('fs');
+(async()=>{const browser=await chromium.launch({headless:true,channel:"msedge"});const page=await browser.newPage();const errors=[];page.on('pageerror',e=>errors.push(e.message));
+for(const [name,width,height] of [['desktop',1440,1000],['phone',390,844]]){await page.setViewportSize({width,height});await page.goto('http://127.0.0.1:8768/',{waitUntil:'networkidle'});await page.evaluate(async()=>{await Promise.all([...document.images].map(i=>{i.loading='eager';return i.decode().catch(()=>{});}));});await page.screenshot({path:`work/home-${name}.png`,fullPage:true});await page.screenshot({path:`work/hero-${name}.png`});const state=await page.evaluate(()=>({title:document.title,overflow:document.documentElement.scrollWidth>innerWidth,images:[...document.images].filter(i=>!i.complete||i.naturalWidth===0).map(i=>i.src)}));console.log(name,JSON.stringify(state));if(state.overflow||state.images.length)errors.push(name+' rendering issue');await page.getByRole('button',{name:'Explore ☰'}).click();await page.screenshot({path:`work/menu-${name}.png`});await page.keyboard.press('Escape');}
+await browser.close();if(errors.length){console.error(errors);process.exit(1);}console.log('Browser smoke check passed');})();
+

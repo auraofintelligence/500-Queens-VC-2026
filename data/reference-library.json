@@ -1,0 +1,470 @@
+{
+  "title": "500 Queens Venture Capital reference library",
+  "updated": "2026-09-23",
+  "note": "Original files are preserved byte-for-byte. The current planning document distinguishes present proposals, historical financial guides and speculative concepts. Website links identify source material, not endorsements or confirmed partnerships.",
+  "documents": [
+    {
+      "id": "planning-document",
+      "title": "Queens Venture Capital Planning Document",
+      "originalFilename": "Queens Venture Capital Planning Document.pdf",
+      "category": "Current planning",
+      "format": "PDF",
+      "href": "references/documents/queens-venture-capital-planning-document.pdf",
+      "sizeBytes": 403297,
+      "sha256": "cbd502197f1b30791141ddfcdb538806b8e26da5271292cc23f6f1ba0e69bb00",
+      "availability": "available"
+    },
+    {
+      "id": "document-01",
+      "title": "500 Queens w AuraSpuer AssistantGPT",
+      "originalFilename": "500 Queens w AuraSpuer AssistantGPT.docx",
+      "category": "Original Queens archive",
+      "format": "DOCX",
+      "href": "references/documents/500-queens-w-auraspuer-assistantgpt.docx",
+      "sizeBytes": 83519,
+      "sha256": "c456caf76e6773290001b647777c9e140d67db7f3a1977ade7afd086df65b8fa",
+      "availability": "available"
+    },
+    {
+      "id": "document-02",
+      "title": "1-page 500 Queens Venture Capital",
+      "originalFilename": "1-page 500 Queens Venture Capital.docx",
+      "category": "Original Queens archive",
+      "format": "DOCX",
+      "href": "references/documents/1-page-500-queens-venture-capital.docx",
+      "sizeBytes": 5758973,
+      "sha256": "8456f23eb12bbf157e98e0f8289030e3de83167d6760ec93465933e399c8e22f",
+      "availability": "available"
+    },
+    {
+      "id": "document-03",
+      "title": "500 Queens VC NEW Long",
+      "originalFilename": "500 Queens VC NEW Long.pptx",
+      "category": "Original Queens archive",
+      "format": "PPTX",
+      "href": "references/documents/500-queens-vc-new-long.pptx",
+      "sizeBytes": 7686277,
+      "sha256": "56c91230a9474c54c7cbc15371a776c968048a045c7ae7554717a10aea22f854",
+      "availability": "available"
+    },
+    {
+      "id": "document-04",
+      "title": "500 Queens",
+      "originalFilename": "500 Queens.pptx",
+      "category": "Original Queens archive",
+      "format": "PPTX",
+      "href": "references/documents/500-queens.pptx",
+      "sizeBytes": 5076999,
+      "sha256": "cb5d48bc30d9d9361c76d7f450413ebd91ff9a1376e13267726df3b653ff4256",
+      "availability": "available"
+    },
+    {
+      "id": "document-05",
+      "title": "500 Queens facts and figures",
+      "originalFilename": "500 Queens facts and figures.pptx",
+      "category": "Original Queens archive",
+      "format": "PPTX",
+      "href": "references/documents/500-queens-facts-and-figures.pptx",
+      "sizeBytes": 4578927,
+      "sha256": "5d48d9168f183e12ef7496b9486efef548fff1ec6dc3ead8c2661339d4b0e573",
+      "availability": "available"
+    },
+    {
+      "id": "document-06",
+      "title": "500 Queens Profiling",
+      "originalFilename": "500 Queens Profiling.pptx",
+      "category": "Original Queens archive",
+      "format": "PPTX",
+      "href": "references/documents/500-queens-profiling.pptx",
+      "sizeBytes": 4596111,
+      "sha256": "0dbfd0959fc15eb50b0b69002edfa9ced06ff4fe042af1e46cf0be8a7e459610",
+      "availability": "available"
+    },
+    {
+      "id": "document-07",
+      "title": "500 Female Founder Start-ups",
+      "originalFilename": "500 Female Founder Start-ups.pptx",
+      "category": "Original Queens archive",
+      "format": "PPTX",
+      "href": "references/documents/500-female-founder-start-ups.pptx",
+      "sizeBytes": 14933231,
+      "sha256": "783a953460c0446e6905749ee9eb22c7969b7070fa9e4b544d59a8e9e6642167",
+      "availability": "available"
+    },
+    {
+      "id": "document-08",
+      "title": "Queens VC Global Scale Plan ",
+      "originalFilename": "Queens_VC_Global_Scale_Plan_.md",
+      "category": "Original Queens archive",
+      "format": "MD",
+      "href": "references/documents/queens-vc-global-scale-plan.md",
+      "sizeBytes": 65810,
+      "sha256": "d2dead2eb3998b3ff286bde6dcd7f36a9daf8f07701361849c7524e27f92787f",
+      "availability": "available"
+    },
+    {
+      "id": "document-09",
+      "title": "500 Queens VC NEW Long",
+      "originalFilename": "500_Queens_VC_NEW_Long.md",
+      "category": "Original Queens archive",
+      "format": "MD",
+      "href": "references/documents/500-queens-vc-new-long.md",
+      "sizeBytes": 5055,
+      "sha256": "2f4eeb9019e81d2aefda031c40554b22406a63b4f138cf4e8ae72496a9c2a047",
+      "availability": "available"
+    },
+    {
+      "id": "document-10",
+      "title": "500 Queens Profiling",
+      "originalFilename": "500_Queens_Profiling.md",
+      "category": "Original Queens archive",
+      "format": "MD",
+      "href": "references/documents/500-queens-profiling.md",
+      "sizeBytes": 4264,
+      "sha256": "313d6fd8861f1e0829c7d74c68c3aba15a1d8f1daac2a454cb816d1dc78be1e7",
+      "availability": "available"
+    },
+    {
+      "id": "document-11",
+      "title": "Global Operations  $10K to $1M+",
+      "originalFilename": "Global_Operations__$10K_to_$1M+.md",
+      "category": "Original Queens archive",
+      "format": "MD",
+      "href": "references/documents/global-operations-10k-to-1m.md",
+      "sizeBytes": 62618,
+      "sha256": "c59fa2a4957cfd92db1c90b2f67d96e397c3abeba31e8f2c3ab89eed972fe6c9",
+      "availability": "available"
+    },
+    {
+      "id": "document-12",
+      "title": "Global Chaos Theory Itinerary",
+      "originalFilename": "Global_Chaos_Theory_Itinerary.md",
+      "category": "Original Queens archive",
+      "format": "MD",
+      "href": "references/documents/global-chaos-theory-itinerary.md",
+      "sizeBytes": 93508,
+      "sha256": "5b3d795b051a1652200fac62550863ff34c6ad1edab1b899dd0c22c99423e747",
+      "availability": "available"
+    },
+    {
+      "id": "document-13",
+      "title": "Building 1a Global Regenerative Businesses",
+      "originalFilename": "Building_1a_Global_Regenerative_Businesses.md",
+      "category": "Original Queens archive",
+      "format": "MD",
+      "href": "references/documents/building-1a-global-regenerative-businesses.md",
+      "sizeBytes": 34645,
+      "sha256": "69c012ff716ecf4149c272ffcbb82ff1149d65c349a4f4e5135ccaf0eb854781",
+      "availability": "available"
+    },
+    {
+      "id": "document-14",
+      "title": "UNGA81 Joyful Responsible Abundance Refined (New Reference Links)",
+      "originalFilename": "UNGA81_Joyful_Responsible_Abundance_Refined (New Reference Links).pdf",
+      "category": "Research and civic proposals",
+      "format": "PDF",
+      "href": "references/documents/unga81-joyful-responsible-abundance-refined-new-reference-links.pdf",
+      "sizeBytes": 112210,
+      "sha256": "0f1e22a671f010a9b9e285aa52c9c81e7d0469c422ce535bb5eee7f2e4555f14",
+      "availability": "available"
+    },
+    {
+      "id": "document-15",
+      "title": "Space Weather Hub Pseudo Code",
+      "originalFilename": "Space_Weather_Hub_Pseudo_Code.md",
+      "category": "Research and civic proposals",
+      "format": "MD",
+      "href": "references/documents/space-weather-hub-pseudo-code.md",
+      "sizeBytes": 170977,
+      "sha256": "95773829b10f54d38d4c6e31bc88cf62441b8cf590feba127a3ece1b1d714630",
+      "availability": "available"
+    },
+    {
+      "id": "document-16",
+      "title": "Space Weather Data IFTTT",
+      "originalFilename": "Space_Weather_Data_IFTTT.md",
+      "category": "Research and civic proposals",
+      "format": "MD",
+      "href": "references/documents/space-weather-data-ifttt.md",
+      "sizeBytes": 28987,
+      "sha256": "b0b3b213014b68d06eac438e58297dae3cc7ffab68bec5f854c68378a042de09",
+      "availability": "available"
+    },
+    {
+      "id": "document-17",
+      "title": "Solar Swarm Satellite Research Report",
+      "originalFilename": "Solar_Swarm_Satellite_Research_Report.md",
+      "category": "Research and civic proposals",
+      "format": "MD",
+      "href": "references/documents/solar-swarm-satellite-research-report.md",
+      "sizeBytes": 93147,
+      "sha256": "8c54276cb26d722beb234d69850def180a8a05e9d1f864bf08c02aaccbb6e3b2",
+      "availability": "available"
+    },
+    {
+      "id": "document-18",
+      "title": "Australian C-Hour Legislative Strategy",
+      "originalFilename": "Australian C-Hour Legislative Strategy.pdf",
+      "category": "Research and civic proposals",
+      "format": "PDF",
+      "href": "references/documents/australian-c-hour-legislative-strategy.pdf",
+      "sizeBytes": 596494,
+      "sha256": "f5bdd4ff959d920b25c4c7897fae00d0d2dfb01d8071da7fc35499e377559e18",
+      "availability": "available"
+    },
+    {
+      "id": "document-19",
+      "title": "Web3 Sensorium for Science Debate",
+      "originalFilename": "Web3 Sensorium for Science Debate.pdf",
+      "category": "Research and civic proposals",
+      "format": "PDF",
+      "href": "references/documents/web3-sensorium-for-science-debate.pdf",
+      "sizeBytes": 604459,
+      "sha256": "f3808a7e57262f416d792639080e68b6010fcb1c53573cac9d8ea9d829a30122",
+      "availability": "available"
+    },
+    {
+      "id": "document-20",
+      "title": "Super Alignment of Artificial Super Intelligence",
+      "originalFilename": "Super Alignment of Artificial Super Intelligence.docx",
+      "category": "Research and civic proposals",
+      "format": "DOCX",
+      "href": "references/documents/super-alignment-of-artificial-super-intelligence.docx",
+      "sizeBytes": 2195018,
+      "sha256": "f7396039ad33a6333d36637b7b386c50f17c9eaabcc163fb1ce63b7078459f3f",
+      "availability": "available"
+    },
+    {
+      "id": "document-21",
+      "title": "A Fair Go for the AI Age  Federated Sovereign Compute for Australian Communities",
+      "originalFilename": "A Fair Go for the AI Age_ Federated Sovereign Compute for Australian Communities.docx",
+      "category": "Research and civic proposals",
+      "format": "DOCX",
+      "href": "references/documents/a-fair-go-for-the-ai-age-federated-sovereign-compute-for-australian-communities.docx",
+      "sizeBytes": 37106,
+      "sha256": "7c9cd07ab21c7805b89f1423ebf4dd81af0bd8b3b26eb81d8c3a7b817726cd6f",
+      "availability": "available"
+    },
+    {
+      "id": "document-22",
+      "title": "Fiji Australia Vuvale Union Submission Luke Nathan Hayes 2026",
+      "originalFilename": "Fiji_Australia_Vuvale_Union_Submission_Luke_Nathan_Hayes_2026.docx",
+      "category": "Research and civic proposals",
+      "format": "DOCX",
+      "href": "references/documents/fiji-australia-vuvale-union-submission-luke-nathan-hayes-2026.docx",
+      "sizeBytes": 52947,
+      "sha256": "f62ae877f90e437583d9ecc2db29f3b11f20253c05b6feda573d7e694c3e8af0",
+      "availability": "available"
+    },
+    {
+      "id": "document-23",
+      "title": "GAJRA Earth Civic AI Commons  Business Plan for an A$250 Billion Protopian Gambit",
+      "originalFilename": "GAJRA Earth Civic AI Commons_ Business Plan for an A$250 Billion Protopian Gambit.docx",
+      "category": "Research and civic proposals",
+      "format": "DOCX",
+      "href": "references/documents/gajra-earth-civic-ai-commons-business-plan-for-an-a-250-billion-protopian-gambit.docx",
+      "sizeBytes": 38604,
+      "sha256": "747f20f38d3bde63fae57691c1cba3d11d26270b8c59f4261dd08d012e886a28",
+      "availability": "available"
+    },
+    {
+      "id": "document-24",
+      "title": "Ocean of Peace Alliance Veitacini Treaty Submission Luke Nathan Hayes 2026",
+      "originalFilename": "Ocean_of_Peace_Alliance_Veitacini_Treaty_Submission_Luke_Nathan_Hayes_2026.docx",
+      "category": "Research and civic proposals",
+      "format": "DOCX",
+      "href": "references/documents/ocean-of-peace-alliance-veitacini-treaty-submission-luke-nathan-hayes-2026.docx",
+      "sizeBytes": 40964,
+      "sha256": "71532df9fdd542df9a77506608746f187f71c82ed01b35ffee3e7f25c500060a",
+      "availability": "available"
+    },
+    {
+      "id": "document-25",
+      "title": "Submission to the Senate Environment and Communications References Committee",
+      "originalFilename": "Submission to the Senate Environment and Communications References Committee.docx",
+      "category": "Research and civic proposals",
+      "format": "DOCX",
+      "href": "references/documents/submission-to-the-senate-environment-and-communications-references-committee.docx",
+      "sizeBytes": 145740,
+      "sha256": "99ef878c90a34804c56cba21d35d311821d9ff2e0abfe92489be9bd1e234314e",
+      "availability": "available"
+    },
+    {
+      "id": "document-26",
+      "title": "Local Government 2Funding Inquiry Submission",
+      "originalFilename": "Local Government 2Funding Inquiry Submission.pdf",
+      "category": "Research and civic proposals",
+      "format": "PDF",
+      "href": "references/documents/local-government-2funding-inquiry-submission.pdf",
+      "sizeBytes": 276605,
+      "sha256": "06e5d3e4f3c9bfb14a9d2439b9117e00a24176c4a2c6de9e9b18eeb187234d80",
+      "availability": "available"
+    }
+  ],
+  "websites": [
+    {
+      "id": "website-01",
+      "title": "500 Queens Venture Capital",
+      "url": "https://auraofintelligence.github.io/Queens_Venture/",
+      "category": "Supplied website",
+      "availability": "reachable",
+      "description": "The earlier 500 Queens website and its Council of Aura characters, venture examples and original public framing.",
+      "checked": "2026-09-23",
+      "httpStatus": 200
+    },
+    {
+      "id": "website-02",
+      "title": "Caden: 500 Queen Street",
+      "url": "https://caden.com.au/building/500-queen-street/",
+      "category": "Supplied website",
+      "availability": "reachable",
+      "description": "The source property listing for 500 Queen Street in Brisbane. A proposed home for the programme, with lease availability and terms to be confirmed.",
+      "checked": "2026-09-23",
+      "httpStatus": 200
+    },
+    {
+      "id": "website-03",
+      "title": "Mutual Futures",
+      "url": "https://auraofintelligence.github.io/mutual-futures/",
+      "category": "Supplied website",
+      "availability": "reachable",
+      "description": "Work, ownership, adequate incomes and time for care, learning and intermittent retirement.",
+      "checked": "2026-09-23",
+      "httpStatus": 200
+    },
+    {
+      "id": "website-04",
+      "title": "Virtual Solar Swarm",
+      "url": "https://auraofintelligence.github.io/virtual-solar-swarm/",
+      "category": "Supplied website",
+      "availability": "reachable",
+      "description": "A concept for shared solar-system observation, research and learning through a distributed satellite network.",
+      "checked": "2026-09-23",
+      "httpStatus": 200
+    },
+    {
+      "id": "website-05",
+      "title": "Grain by Grain",
+      "url": "https://auraofintelligence.github.io/grain-by-grain-documentary/",
+      "category": "Supplied website",
+      "availability": "reachable",
+      "description": "A documentary and enterprise framework for addressing existential threats while improving life now.",
+      "checked": "2026-09-23",
+      "httpStatus": 200
+    },
+    {
+      "id": "website-06",
+      "title": "GAJRA Earth",
+      "url": "https://auraofintelligence.github.io/gajra-earth-claude-build/",
+      "category": "Supplied website",
+      "availability": "reachable",
+      "description": "The wider GAJRA proposal for civic participation, shared intelligence and joyful responsible abundance.",
+      "checked": "2026-09-23",
+      "httpStatus": 200
+    },
+    {
+      "id": "website-07",
+      "title": "GAJRA Earth Space AI Summit",
+      "url": "https://auraofintelligence.github.io/GAJRA_Earth-Space-AI_Summit/",
+      "category": "Supplied website",
+      "availability": "reachable",
+      "description": "An Earth, space and AI summit concept for sharing work and building international relationships.",
+      "checked": "2026-09-23",
+      "httpStatus": 200
+    },
+    {
+      "id": "website-08",
+      "title": "GAJRA Earth Infinity",
+      "url": "https://auraofintelligence.github.io/GAJRA-earth-infinity/",
+      "category": "Supplied website",
+      "availability": "reachable",
+      "description": "A working rhythm of questions, actions, evidence and revision, connecting distinct communities through common purpose.",
+      "checked": "2026-09-23",
+      "httpStatus": 200
+    },
+    {
+      "id": "website-09",
+      "title": "Future of Life 2045",
+      "url": "https://auraofintelligence.github.io/Future-of-Life-2045/",
+      "category": "Supplied website",
+      "availability": "reachable",
+      "description": "A long-term vision connecting shared prosperity and scientific progress with everyday quality of life.",
+      "checked": "2026-09-23",
+      "httpStatus": 200
+    },
+    {
+      "id": "website-10",
+      "title": "Oceania Healthy De-Slop Co-ops",
+      "url": "https://auraofintelligence.github.io/Oceania-healthy-de-slop-co-ops/",
+      "category": "Supplied website",
+      "availability": "reachable",
+      "description": "Cooperative facilities, pooled equipment, local computing and services for wellbeing and community connection.",
+      "checked": "2026-09-23",
+      "httpStatus": 200
+    },
+    {
+      "id": "website-11",
+      "title": "Project Atlas",
+      "url": "https://auraofintelligence.github.io/project-atlas/",
+      "category": "Supplied website",
+      "availability": "reachable",
+      "description": "A wider library of source-led project briefs and potential fields of useful work.",
+      "checked": "2026-09-23",
+      "httpStatus": 200
+    },
+    {
+      "id": "website-12",
+      "title": "Strange but True: Community Ledger",
+      "url": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html",
+      "category": "Supplied website",
+      "availability": "reachable",
+      "description": "Community contribution, care, reciprocity and the public record of useful local work.",
+      "checked": "2026-09-23",
+      "httpStatus": 200
+    },
+    {
+      "id": "website-13",
+      "title": "Luke Nathan Hayes: Man and Mind",
+      "url": "https://auraofintelligence.github.io/luke-nathan-hayes-man-and-mind/index.html#top",
+      "category": "Supplied website",
+      "availability": "reachable",
+      "description": "Luke Nathan Hayes' public writing and the personal context behind the wider project family.",
+      "checked": "2026-09-23",
+      "httpStatus": 200
+    },
+    {
+      "id": "website-14",
+      "title": "Multi-site Minjerribah Network",
+      "url": "https://auraofintelligence.github.io/multi-site-Minjerribah-network/index.html",
+      "category": "Supplied website",
+      "availability": "reachable",
+      "description": "A Minjerribah library of site and service ideas to explore through community-led pilot work.",
+      "checked": "2026-09-23",
+      "httpStatus": 200
+    },
+    {
+      "id": "website-15",
+      "title": "Ready Sustainable Employment and Training Cooperative (Ready S.E.T. Co-op): Cultural Intelligence Node",
+      "url": "https://auraofintelligence.github.io/ready-set-co-op-cultural-intelligence-node/index.html",
+      "category": "Supplied website",
+      "availability": "reachable",
+      "description": "A proposed cooperative node connecting local computing, culture, media, training and useful paid work.",
+      "checked": "2026-09-23",
+      "httpStatus": 200
+    }
+  ],
+  "repositories": [
+    {
+      "id": "extreme-matter-atlas",
+      "title": "Extreme Matter Atlas",
+      "url": "https://github.com/auraofintelligence/extreme-matter-atlas",
+      "category": "Additional repository",
+      "availability": "reachable",
+      "description": "Materials and engineering research methods: turn an idea into quantities, identify a mechanism and specify the next measurement.",
+      "website": "https://auraofintelligence.github.io/extreme-matter-atlas/",
+      "checked": "2026-09-23",
+      "websiteAvailability": "reachable",
+      "httpStatus": 200
+    }
+  ]
+}
