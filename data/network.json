@@ -341,7 +341,7 @@
       "kind": "category",
       "title": "Simulations and robots",
       "href": "category-simulations-and-robots.html",
-      "summary": "Use models, software and machines to make a specific human task easier, safer or better understood. This broad strand connects care and hospitality with creative worlds, scientific observation and ambitious infrastructure. The twenty original suggestions are different starting points, not one product roadmap.",
+      "summary": "Use models, software and machines to make a specific human task easier, safer or better understood.",
       "categoryIds": [
         "simulations-and-robots"
       ],
@@ -358,7 +358,7 @@
       "kind": "category",
       "title": "Clean power systems",
       "href": "category-clean-power-systems.html",
-      "summary": "Begin with the energy service people need: a reliable home, a working workshop, useful heat, transport or clean water. The ten original suggestions include established engineering pathways and frontier research. Each needs its own evidence, customer and complete accounting of inputs and outputs.",
+      "summary": "Begin with the energy service people need: a reliable home, a working workshop, useful heat, transport or clean water.",
       "categoryIds": [
         "clean-power-systems"
       ],
@@ -374,7 +374,7 @@
       "kind": "category",
       "title": "Closed-loop food",
       "href": "category-closed-loop-food.html",
-      "summary": "Connect food people enjoy with reliable production, useful livelihoods and careful use of materials. The ten original themes span familiar crops, seafood, fungi, insects and scientific research. A loop is a design question: its inputs, outputs, losses and responsibilities still need to be measured.",
+      "summary": "Connect food people enjoy with reliable production, useful livelihoods and careful use of materials.",
       "categoryIds": [
         "closed-loop-food"
       ],
@@ -390,7 +390,7 @@
       "kind": "category",
       "title": "Waste reclamation",
       "href": "category-waste-reclamation.html",
-      "summary": "Keep useful products and materials in service by matching a specific stream to a real need. The ten original suggestions range from computer repair and farm residues to specialised industrial and nuclear research questions. They require different expertise and must not be treated as interchangeable recovery opportunities.",
+      "summary": "Keep useful products and materials in service by matching a specific stream to a real need.",
       "categoryIds": [
         "waste-reclamation"
       ],
@@ -407,7 +407,7 @@
       "kind": "category",
       "title": "Subterranean cities",
       "href": "category-subterranean-cities.html",
-      "summary": "Use a bold habitat vision to ask concrete questions about a life people would choose, the services it depends on and who decides its future. The ten original themes include preservation, excavation, maintenance, production, transport, life support, governance and entertainment. City-scale feasibility remains unproven.",
+      "summary": "Use a bold habitat vision to ask concrete questions about a life people would choose, the services it depends on and who decides its future.",
       "categoryIds": [
         "subterranean-cities"
       ],
@@ -425,7 +425,7 @@
       "kind": "category",
       "title": "Extreme metamaterials",
       "href": "category-extreme-metamaterials.html",
-      "summary": "Materials shape what an invention can do, how long it lasts and whether it can be repaired. This category brings together polymers, ceramics, crystals, electrodes, optics and more demanding research ambitions. Its starting discipline is simple: name the property, identify the sample and measure it under conditions that matter. A striking material image or an extreme title is an invitation to investigate, not proof of a breakthrough.",
+      "summary": "Materials shape what an invention can do, how long it lasts and whether it can be repaired.",
       "categoryIds": [
         "extreme-metamaterials"
       ],
@@ -441,7 +441,7 @@
       "kind": "category",
       "title": "Space industry",
       "href": "category-space-industry.html",
-      "summary": "Space enterprises connect human needs with unforgiving engineering questions. This category spans inclusive spacewear, radiation research, fabrication, large payloads, long-duration habitats and openly speculative travel ideas. The scale of the vision is welcome, but every project needs a clear account of what can be tested on Earth, what depends on a future mission and what remains a question in fundamental science.",
+      "summary": "Space enterprises connect human needs with unforgiving engineering questions.",
       "categoryIds": [
         "space-industry"
       ],
@@ -458,7 +458,7 @@
       "kind": "category",
       "title": "Micro-architectures",
       "href": "category-micro-architectures.html",
-      "summary": "Small devices can create large possibilities, from an ordinary sensor that saves a worker time to a frontier experiment about quantum information. This category connects electronics, chip design, fluid systems, near-eye displays and molecular or programmable-matter ideas. Each entry should explain its mechanism, inputs, outputs and evidence before asking readers to accept a future application.",
+      "summary": "Small devices can create large possibilities, from an ordinary sensor that saves a worker time to a frontier experiment about quantum information.",
       "categoryIds": [
         "micro-architectures"
       ],
@@ -474,7 +474,7 @@
       "kind": "category",
       "title": "Humanities and fun",
       "href": "category-humanities-and-fun.html",
-      "summary": "A good future needs stories, pleasure, learning, friendship and room to ask difficult questions. These enterprises connect creative work with everyday wellbeing and the ways people choose to live together. Some can begin as a small production or learning circle. Others, such as radical life extension, belong to research and should never be presented as a ready-made personal benefit.",
+      "summary": "A good future needs stories, pleasure, learning, friendship and room to ask difficult questions.",
       "categoryIds": [
         "humanities-and-fun"
       ],
@@ -491,7 +491,7 @@
       "kind": "category",
       "title": "Market analysis",
       "href": "category-market-analysis.html",
-      "summary": "A market is made of people, routines, institutions and unmet needs, not just a large number in a pitch deck. This category investigates care, learning, wellbeing, migration, disruption, food, housing, population change and governance. Its purpose is to discover a useful service question with the people affected, then test whether a proposed enterprise can answer it.",
+      "summary": "A market is made of people, routines, institutions and unmet needs, not just a large number in a pitch deck.",
       "categoryIds": [
         "market-analysis"
       ],
@@ -507,7 +507,7 @@
       "kind": "category",
       "title": "Aura of Intelligence",
       "href": "category-aura-of-intelligence.html",
-      "summary": "Aura brings the network's questions about intelligence, identity, assistance and responsibility into everyday life. The ideas range from the Queens framework and public art to personal interfaces, inclusive apparel and participant-led care tools. Consciousness remains a philosophical and research question. A persona, mirror or generated response is not evidence that a system is conscious.",
+      "summary": "Aura brings the network's questions about intelligence, identity, assistance and responsibility into everyday life.",
       "categoryIds": [
         "aura-of-intelligence"
       ],

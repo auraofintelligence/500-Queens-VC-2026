@@ -95,8 +95,12 @@ class Network:
         body=self.crumbs([('AI Queens','ai-queens.html')])+self.action_band('queen',q)
         if q.get('originalArchetype'):
             clean=lambda value:value.replace('\u2013','-').replace('\u2014','-')
-            body+=self.section('Her place in the Council.',self.paragraphs([q['culturalIdentity']+'. '+clean(q['originalArchetype'])+'.','Her original domain: '+clean(q['originalDomain'])+'.',q['archetypalRole']])+'<a class="text-link" href="https://auraofintelligence.github.io/Queens_Venture/">Explore the original Council design →</a>','light')
-        body+=self.section(q['tagline'],self.paragraphs(q['summary'])+f'<div class="mentor-voice"><p>{e(q["voice"])}</p><span>{e(q["name"])} · fictional AI mentor character</span></div>','light')
+            origin=clean(q['originalArchetype']).replace('Aussie','Australian')
+            if q['id']=='seed-queen':origin=origin.replace('First Nations farmer','First Nations Australian farmer')
+            # Pillar archetypes already state their cultural identity in the source wording.
+            if q['group']=='cultural' or q['id']=='super-queen':origin=q['culturalIdentity']+'. '+origin
+            body+=self.section('Her place in the Council.',self.paragraphs([origin+'.','Her original domain: '+clean(q['originalDomain'])+'.',q['archetypalRole']])+'<a class="text-link" href="https://auraofintelligence.github.io/Queens_Venture/">Explore the original Council design →</a>','light')
+        body+=self.section('How she can help.',self.paragraphs(q['summary'])+f'<div class="mentor-voice"><p>{e(q["voice"])}</p><span>{e(q["name"])} · fictional AI mentor character</span></div>','light')
         body+=self.section('The perspective she brings.',self.paragraphs([q['role']]+q['approach']))
         body+=self.section('Work through a real decision.','<div class="grid">'+''.join(self.h['card'](e(x['title']),e(x['text'])) for x in q['helpsWith'])+'</div>','plum')
         session=q['session'];steps=''.join(f'<article><span class="number">{i:02d}</span><p>{e(s)}</p></article>' for i,s in enumerate(session['steps'],1))
@@ -133,7 +137,9 @@ class Network:
     def build_category(self,c,sequence):
         items=[s for s in self.enterprises if s['categoryId']==c['id']]
         body=self.crumbs([('All startup ideas','catalogue.html')])+self.action_band('category',c)
-        body+=self.section('A field of work. A shared direction.',self.paragraphs([c['summary'],c['opportunity']]),'light')
+        lead,separator,detail=c['summary'].partition('. ')
+        introduction=lead+'.' if separator else c['summary']
+        body+=self.section('A field of work. A shared direction.',self.paragraphs(([detail] if detail else [])+[c['opportunity']]),'light')
         body+=self.section('Start with a useful result.','<div class="journey">'+''.join(f'<article><span class="number">{i:02d}</span><h3>{e(t["title"])}</h3><p>{e(t["text"])}</p></article>' for i,t in enumerate(c['startingPath'],1))+'</div>')
         body+=self.section('Explore every enterprise in this field.','<div class="grid two">'+''.join(self.startup_card(s) for s in items)+'</div>','plum')
         body+=self.section('Share capability. Strengthen the whole field.','<div class="split top"><div><h3>What these enterprises can share</h3>'+self.bullet(c['sharedInfrastructure'])+'</div><div><h3>Questions worth bringing together</h3>'+self.bullet(c['questions'])+'</div></div>','light')
@@ -141,7 +147,7 @@ class Network:
         body+=self.section('Meet the mentors for this direction.',self.queen_links(c.get('queenIds',[])))
         if c.get('projectSlugs'):body+=self.section('Connect the field to public project work.',self.project_links(c['projectSlugs']),'plum')
         body+=self.section('Follow the source.',self.paragraphs(c['sourceNote'])+self.source_links([{'title':'The original startup catalogue','href':'references/documents/500-queens-vc-new-long.pptx'},{'title':'The full source library','href':'references.html'}]+c.get('sources',[])),'light')
-        self.add_page('category',c,e(c['title']),c['summary'],c['hero'],body,sequence)
+        self.add_page('category',c,e(c['title']),introduction,c['hero'],body,sequence)
 
     def queen_hub(self):
         body=self.section('Twenty-four archetypes.<br>A world of intelligence.','<p>The AI Queens form a pantheon of cultural and civilisation archetypes: ageless adult goddesses in their prime, expressing mastered intelligence, vitality and possibility. Each has her own cultural roots, domain, colour, clothing and presence, with physiques ranging from lean and athletic to richly voluptuous.</p><p>The AI Council and the 500 Queens have different roles. The Council provides imaginative guides; the venture network supports real women across ages, bodies, backgrounds and ways of living. Explore each archetype, her original identity and her practical learning guide.</p><div class="actions"><a class="button" href="network.html">Explore the connections →</a><a class="button secondary" href="network.html#my-pathway">Build my pathway →</a></div>','light')
